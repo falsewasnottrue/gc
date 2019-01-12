@@ -1,0 +1,21 @@
+https://www.geocaching.com/geocache/GC4R829_lotto-wuhlheide
+
+Hat nicht jeder schon einmal davon geträumt: Sich die Lottozahlen der nächsten Woche selbst zu berechnen?
+Genau das machen wir in diesem Cache. Gesucht sind sechs paarweise verschiedene natürliche Zahlen, die größer als 0 und kleiner als 50 sind. Für diese Zahlen a, b, c, d, e, f gelten folgende Bedingungen:
+
+1. a < b < c < d < e < f
+2. a + b + c + d + e + f = 161
+3. a * b * c * d * e * f = 138607200
+
+Der Cache befindet sich bei
+N 52° 28.(b - a) * b + d - c
+E 013° 32.a * (f - e) * (d - c)
+
+---
+
+6 20 23 31 36 45
+N 52° 28.288
+E 013° 32.432
+
+N 52° 28.288 E 013° 32.432
+52 28.288 13 32.432

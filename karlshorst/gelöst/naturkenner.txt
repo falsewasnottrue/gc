@@ -1,0 +1,42 @@
+
+https://www.geocaching.com/geocache/GC2YGEE_naturkennercache-baume-und-pilze
+
+
+N
+Spitzahorn: 6
+Eberesche(Vogelbeere): 9
+Stieleiche: 2
+Ginkgo: 1
+Gemeine Rosskastanie: 8
+
+E
+Fliegenpilz: 5
+Wiesenchampignion: 3
+Steinpilz: 6
+Pfifferling: 1
+Schopftintling: 2
+
+Der Cache liegt bei
+
+N:52°(Nr.5)(Nr.2).(Nr.3)(Nr.1)(Nr.4) Blattzahlen
+E:013°(Nr.2)(Nr.5).(Nr.4)(Nr.1)(Nr.3) Pilzzahlen
+
+
+N
+1: Eberesche(Vogelbeere)
+2: Gemeine Rosskastanie
+3: Spitzahorn
+4: Ginkgo
+5: Stieleiche
+
+E
+1: Steinpilz
+2: Wiesenchampignion
+3: Schopftintling
+4: Fliegenpilz
+5: Pfifferling
+
+N:52°28.691
+E:013°31.562
+
+52 28.691 13 31.562

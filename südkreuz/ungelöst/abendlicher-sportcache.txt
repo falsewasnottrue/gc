@@ -1,0 +1,19 @@
+
+https://www.geocaching.com/geocache/GCQ1PG_abendlicher-sport-cache
+
+67 97 99 104 101 32  			Cache
+98 101 105 32 					bei
+50 50 49 44 48 48 109 32		221,00m
+117 110 100 32 					und
+50 54 49 44 50 57 32			261,29 
+71 114 97 100 32				Grad 
+118 111 109 32					vom 
+71 101 100 101 110 107 115 116 101 105 110 46	Gedenkstein.
+
+Cache bei 221,00m und 261,29 Grad vom Gedenkstein
+
+Gedenkstein		52 28.970 13 18.167
+
+Final			52 28.952 13 17.974
+
+UFinal			52 28.936 13 17.974

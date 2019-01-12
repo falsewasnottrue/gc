@@ -1,0 +1,41 @@
+https://www.geocaching.com/geocache/GC614PW_ibo
+
+A=5, B=8, C=6, D=2, E=2, F=4, G=24, H=7, I=9
+J=2, K=6, L=21, M=?, N=11, O=24, P=4
+
+49 JK.LMN 008 O.PIF
+
+---
+
+
+1. Was war hier früher? _ _ _ (OBI) J=2
+J=2. Buchstabe
+
+2. Welches Konkurrenzunternehmen heißt wie etwas, das mit Architektur und Design zu tun hat? _ _ _ _ _ _ _
+(BAUHAUS) K=H-2=6
+K=4.Buchstabe-2
+
+3. Welche Nummer hat der gleichnamige Himmelskörper? _ _ _ _
+(6669) L = 6+6+9 = 21
+L=2. Ziffer+3. Ziffer+4. Ziffer
+
+4. Wer ist der Autor des gleichnamigen Gesellschaftsspiels? (Kurzform des Vornamens) _ _ _ _
+M=4. Buchstabe-3. Buchstabe
+
+5. Zurück zu Frage 1: Gesucht ist ein Filmzitat. Gesprochen wird es von einer Person, deren Vornamen so anfängt, wie die Antwort auf die 1. Frage.
+Er ist sehr überzeugend und nutzt dies, um der Kontrolle von weißgekleideten Militärs zu entkommen.
+_ _ _  _ _ _ _  _ _ _ _ _  _ _ _  _ _ _ _ _ _ _ ,  _ _ _  _ _ _  _ _ _ _ _ .
+D A S  S I N D  N I C H T  D I E  D R O I D E N    D I E  I H R  S U C H T
+N=QSQS N = QS(335) = 1
+
+6. Ein weiteres Geschäft schloss hier seine Tore. Es hieß zunächst Phora und wurde dann umbenannt. Wie hieß es dann? _ _ _ _ _ _ _ _
+O=QS*K
+(PROMARKT) O=QS(112)*6=4*6=24
+
+7. Welches Gas könnte hier im Sandloch durch Altlasten austreten? _ _ _ _ _
+P=3. Buchstabe
+(RADON) P=4
+
+So könnt Ihr die Final-Koordinaten berechnen:
+N 49° JK.LMN
+E 008° O.PIF

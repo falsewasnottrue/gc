@@ -1,0 +1,12 @@
+https://www.geocaching.com/geocache/GC4WRVH_was-bin-ich
+
+Regen
+
+X = 5
+YZ = 49
+
+N49° (2*X*YZ*YZ+4560+Z) und E008° (3*X*Y*Z*YZ-110*Z-1)
+
+49 28579 008 25469
+
+49 28.579 008 25.469

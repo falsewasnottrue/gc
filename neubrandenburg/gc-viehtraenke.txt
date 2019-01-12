@@ -1,0 +1,50 @@
+https://www.geocaching.com/geocache/GC4M3QN_die-viehtranke
+
+N 53° X.0Y
+E 013° W.VZ
+
+1. Wie lautet der Name der Sonnenblume?
+
+Bilde aus den Buchstabenwerten des Namens die Quersumme sowie die iterierte Quersumme.
+
+X = Quersumme + iterierte Quersumme
+
+2. Wie ist der Name des Traktors?
+
+A = Quersumme des Namens vom Traktor
+Wie heißt die Bäuerin?
+
+B = Quersumme des Namens der Bäuerin
+Y = A + B
+
+3. Wie heißt der Schlachtgeselle, der das Glücksschwein an den Schlachthof verkaufen wollte?
+
+W = Quersumme des Namens vom Schlachtgesellen
+
+4. Wie lautet der Name des Bauern?
+
+C = Quersumme des Namens des Bauern
+V = C + 4
+
+5. Wie viele Hütehunde hat das Ehepaar?
+
+Z = Anzahl der Hütehunde
+
+---
+
+1 Sunny, BW 93, QS 12, IQS 3
+  X = 12 + 3 = 15
+2 Timmi, BW 64,
+  A = 10
+  Wilma, BW 58
+  B = 13
+  Y = 23
+3 Bodo, BW 36
+  W = 9
+4 Karl 42
+  C = 6
+  V = 10
+5 3
+  Z = 3
+
+53 15.023 13 9.103

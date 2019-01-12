@@ -1,0 +1,42 @@
+
+https://www.geocaching.com/geocache/GC32KD0_denk-mal-i
+
+A = Die Ziffer steht vor einer Maßeinheit(auf englisch) und ergibt mit ihr den Namen von einem bekannten,US-amerikanischen, Oscar- und Emmy-prämierten Spielfilm, in dem sich der Hauptprotagonist "Rabbit" nennt.
+   - 8 Mile, Eminem
+A = 8
+
+---
+
+B = Ein Lied von "Subway to Sally" aus einem Album, welches 2005 erschienen ist.(Die Zahl ist ausgeschrieben!)
+    - Nord Nord Ost, Sieben
+B = 7
+
+---
+
+C = Wie viele FOLGEN besitzt der ANIME!, nicht der MANGA!, von "Hellsing"? Addiere die Anzahl der Folgen mit 9!
+    13
+C = 22
+
+---
+
+D = "Und so red ich mit dir wie immer und ich verspreche dir,wir haben irgendwann wieder jede menge Zeit. Dann werden wir uns wieder sehen; Du kannst dich ja kümmern wenn du willst, dass die Sonne an diesen Tag auch auf mein Grab scheint..." Ist ein Zitat aus einem sehr emotionalem Lied von einer der bekanntesten,deutschen Punkbands. Wie viele Mitglieder hat sie aktuell? (Stand:August 2011)
+    - Die Toten Hosen, Nur zu Besuch
+D = 5
+
+---
+
+E = In einer Sitcom, in der Charlie Sheen eine der Hauptrollen spielte, kommt im September 2011 die wie vielte Staffel raus?
+    - Two and a half men
+E = 9
+
+---
+
+N 52° 2(A).3(B)1 E 013° (C) .(D)5(E)
+
+---
+
+N 52° 28.371 E 013° 22.559
+
+52 28.371 13 22.559
+
+52 28.371 13 22.559

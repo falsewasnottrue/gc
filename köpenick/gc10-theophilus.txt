@@ -1,0 +1,60 @@
+https://www.geocaching.com/geocache/GCTCNG_theophilus
+
+1.)
+In welchem Jahr (jjjj) wurde das nach diesem Präsent benannte Bühnenwerk verfasst?
+Lösung A = die ersten beiden Ziffern
+Lösung B = die letzten beiden Ziffern
+
+2.)
+Wie viel Akte hat dieses Werk?
+Lösung C
+
+3.)
+Welche Nummer trug das Haus, in dem der Verfasser einst geboren wurde?
+Lösung D
+
+4.)
+Wie alt wäre der Verfasser dieses Werkes 2006 geworden?
+Lösung E
+
+5.)
+An welchem Tag ist der Verfasser verstorben? (t.mm)
+Lösung F = t
+Lösung G = mm
+
+6.)
+Lösung H = G*C+(Quersumme G)
+
+7.)
+Lösung J = A*C
+
+--- Lösung
+
+"Die Zauberflöte"
+1. 1791
+   A = 17
+   B = 91
+2. C = 2
+3. Getreidegasse 9
+   D = 9
+4. 2006 - 1756
+   E = 250
+5. 5.12.
+   F = 5
+   G = 12
+6. 12*2+3
+   H = 27
+7. 17*2
+   J = 34
+
+Den Cache findet ihr hier:
+
+N52° H.(B+D-2)*(Quersumme B)
+E13° J.F*F+E
+
+---
+
+(B+D-2)*(Quersumme B) = (91+9-2)*10 = 98*10 = 980
+F*F+E = 25+250 = 275
+
+52 27.980 13 34.275

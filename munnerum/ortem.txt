@@ -1,0 +1,52 @@
+https://www.geocaching.com/geocache/GC5AHHJ_ortem
+
+A=5, B=8, C=6, D=2, E=2, F=4, G=24, H=7, I=9
+
+49 26.875 008 24.249
+
+49 EC.BHA 008 G.DFI
+
+--- 
+
+1. Was war hier früher?
+_ _ _ _ _ (METRO) A=5
+A=2. Buchstabe
+
+2. In welchem Stadtteil ist dies jetzt?
+_ _ _ _ _ _ _ _ _ _ (OGGERSHEIM) B=8
+B=7. Buchstabe
+
+
+3. Welche Stadt ist bekannt für einen bewegenden Namensvetter?
+_ _ _ _ _ (PARIS) C=1Z(63)=6
+C=1. Ziffer des Buchstabenwortwerts
+
+4. In welcher Stadt außerhalb des Ursprungslandes (von Frage 3) gibt es das gleiche (in dieser Stadt wird die gleiche Sprache gesprochen, in großen Teilen des Landes allerdings Englisch)?
+_ _ _ _ _ _ _ _ (MONTREAL) D=T-R=20-18=2
+D=4. Buchstabe - 5. Buchstabe
+
+5. Mit welchem weißblauen Buchstaben wird etwas ähnliches in Deutschland gekennzeichnet?
+_ (U) E = 1Z(21) = 2
+E=1. Ziffer des Buchstabenwertes
+
+
+6. Wer ist der Autor des gleichnamigen Spiels aus dem Jahr 2000?
+_ _ _ _   _ _ _ _ (DIRK HENN) F = 4
+F=1. Buchstabe Vorname
+
+7. Wie heißt das Vorgängerspiel aus dem Jahr 1997?
+_ _ _ _   _ _ _ _ _ (IRON HORSE) G = I + O = 24
+G=1. Buchstabe 1. Wort + 2. Buchstabe 2. Wort
+
+8. Für Spieler ab wieviel Jahren ist dieses Vorgängerspiel gedacht?
+H=Alter-3 H=10-3 = 7
+
+
+9. Zurück zum Ort des Caches. Hier wurde in der Mitte des letzten Jahrhunderts etwas "versteckt". Kein Cache, eher etwas nicht so schönes. Wieviel Material wurde hier vergraben? (in Tausend Kubikmeter)
+_ _ _ 195 I=9
+I=2. Stelle
+
+
+So könnt Ihr die Final-Koordinaten berechnen
+N 49° EC.BHA
+E 008° G.DFI

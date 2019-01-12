@@ -1,0 +1,41 @@
+https://www.geocaching.com/geocache/GC5RF8H_das-betriebswerk
+
+Wann ging dieses Werk in Betrieb?
+Die iterierte Jahreszahl = A
+
+Welche Züge werden hier instand gehalten? (3Buchstaben)
+Die Summe der Buchstaben = B
+
+Nach wievielen Tausend Kilometern erfolgt die Inspektionsstufe 2 dieser Züge?
+Dreistellige Zahl = C
+( Nachtrag und Dank an "ratnig": Hier habe ich mich auf Wikipedia berufen.
+Richtig ist natürlich, -bei 288.000 KM erfolgt die Inspektionsstufe 2- , gesucht ist aber tatsächlich
+die bei Wikipedia angegebene Zahl.)
+UND NOCH EIN NACHTRAG: AUF WIKIPEDIA WURDE ANSCHEINEND VOR KURZEM DER WERT KORRIGIERT BZW BERICHTIGT
+IHR rechnet bitte mit dem alten Wert "240"!
+
+Das einzige Betriebswerk für diese Züge welches sich nicht in Deutschland befindet liegt in welchem Land?
+Die Anzahl der Buchstaben = D
+
+In welcher Stadt soll zwischen 2015 und 2017 das modernste "xxx"-Werk entstehen?
+Wie lautet das KFZ-Kennzeichen dieser Stadt? davon die iterierte Quersumme = E
+
+Wann ging in München das zweite "xxx"-Werk in Betrieb?
+Die Quesumme der Jahreszahl = F
+
+A = 1998 = 27 = 9
+B = ICE = 17
+C = 240
+D = Schweiz = 6
+E = Köln = K = 11 = 2
+F = 1995 = 24
+
+S = A = 9
+
+TUV = A x F + 3 x D = 9*24 + 3*6 = 234
+
+W = E + F - B - D = 2+24-17-6 = 3
+
+XYZ = C + E = 240+2 = 242
+
+N 52° 29.234 E 013° 33.242

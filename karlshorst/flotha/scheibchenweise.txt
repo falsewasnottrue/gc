@@ -1,0 +1,90 @@
+https://www.geocaching.com/geocache/GC7Y7WE_scheibchenweise
+
+--- Code
+
+E 980
+B 435
+A 786
+F 568
+D 051
+
+37492
+
+--- Station 1 Hier bitte nicht halten...
+
+A028	2
+B164	9
+C851	5
+D086	0
+E342	4
+F148	3
+G068	1
+H575	6
+I697	5
+J139	8
+
+52 29.504 13 31.658
+
+--- Station 2 Rot-weiß, einer von zweien.
+
+N H384.A293.E720
+E F475.B879.G417
+
+N 493
+E 826
+
+52 29.493 13 31.826
+
+--- Station 3 Straßenschäden.
+
+N B275.I304.D482
+E A902.C957.H548
+
+N 409
+E 812
+
+52 29.409 13 31.812
+
+--- Station 4 Hinter der Tulpe.
+
+N F152 D802 E394
+E A643 H705 B452
+
+N 458
+E 726
+
+52 29.458 13 31.726
+
+N 454
+E 547
+52 29.454 13 31.547
+
+--- Station 5 Unter der Allee.
+
+h793 d382 e195
+f495 a762 b120
+
+(Scheibe 4 verwenden)
+
+316
+801
+
+52 29.316 13 31.801
+
+
+--- Finale Stealth! Mittendrin, magnetisch, fünfmal sechs!
+
+(Scheibe 5 verwenden)
+
+d395 e682 j975
+b279 f348 a057
+
+288
+759
+
+52 29.288 13 31.759
+
+Probe
+
+2 8 8
+7 5 9

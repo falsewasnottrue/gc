@@ -1,0 +1,32 @@
+https://www.geocaching.com/geocache/GC747R2_grusse-aus-der-heimat
+
+grün
+1 x_ http://felsinfo.alpenverein.de/kletterfelsen/elbsandsteingebirge/schmilkaer_gebiet/bonbon.html			10
+2 x_ http://felsinfo.alpenverein.de/kletterfelsen/elbsandsteingebirge/bielatalgebiet/totenkopf.html 		35
+3 x_ http://felsinfo.alpenverein.de/kletterfelsen/elbsandsteingebirge/rathener_gebiet/reh.html				38
+4 x_ http://felsinfo.alpenverein.de/kletterfelsen/elbsandsteingebirge/gebiet_der_steine/dreizack.html		35
+5 xx http://felsinfo.alpenverein.de/kletterfelsen/elbsandsteingebirge/grosser_zschand/tarzan.html			13
+6 x_ http://felsinfo.alpenverein.de/kletterfelsen/elbsandsteingebirge/affensteine/glatze.html				45
+
+13 33.134
+
+gelb
+1 _x
+2 _x http://felsinfo.alpenverein.de/kletterfelsen/elbsandsteingebirge/bielatalgebiet/pokal.html				12
+3 x_ http://felsinfo.alpenverein.de/kletterfelsen/elbsandsteingebirge/gebiet_der_steine/drei_baeren.html	25
+4 _x http://felsinfo.alpenverein.de/kletterfelsen/elbsandsteingebirge/rathener_gebiet/biene.				48
+5 _x http://felsinfo.alpenverein.de/kletterfelsen/elbsandsteingebirge/bielatalgebiet/nussknacker.html		17
+6 _x http://felsinfo.alpenverein.de/kletterfelsen/elbsandsteingebirge/rathener_gebiet/muecke.				10
+7 x  http://felsinfo.alpenverein.de/kletterfelsen/elbsandsteingebirge/grosser_zschand/broetchen.html		9
+
+x2 28.709
+
+
+52 28.709 13 33.134
+
+http://geocheck.org/geo_chkcorrect.php?gid=62718259aa39ecf-49dc-42bf-ba27-d9c348934320
+
+Herzlichen Glückwunsch! Du hast das Rätsel um die geheimnisvolle Postkarte gelöst. Jetzt aber schnell zur Dose! Damit du sie gut findest, kommt hier noch ein wichtiger Hinweis. Die Koordinate führt dich auf den Biesenhorster Sand. Am Ziel stehst du genau zwischen zwei Bergen, die man prima erklimmen kann - die Aussicht ist wirklich fabelhaft! :) Nach dem Abstieg suche an der südöstlichen Ecke des nördlichen Berges nach einem Stein, der dort nicht hingehört. Bitte achte darauf, nicht alles sinnlos zu zertrampeln und halte dich an die schon vorhandenen Wege und Pfade.
+
+Und vergiss nicht, das Banner in dein Profil einzubinden, wenn du möchtest. Den Code verschicke ich per Mail - oder du klaust ihn dir aus dem Quellcode des Listings.
+

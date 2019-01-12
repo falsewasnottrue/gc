@@ -1,0 +1,34 @@
+https://www.geocaching.com/geocache/GC4BWMH_die-urkunde
+
+Wenn die Gewalt kommt geht das Recht an Krücken
+
+         1         2         3         4
+1234567890123456789012345678901234567890
+WenndieGewaltkommtgehtdasRechtaufKrücken
+
+a = der 8. Buchstabe des Spruchs minus 24. Buchstabe
+b = der 31. Buchstabe des Spruchs minus 11. Buchstabe
+c = der 14. Buchstabe des Spruchs minus 33. Buchstabe
+d = der 12. Buchstabe des Spruchs minus 34. Buchstabe
+e = der 29. Buchstabe des Spruchs minus 20. Buchstabe
+f = der 22. Buchstabe des Spruchs minus 15. Buchstabe
+
+a = g - a = 6
+b = a - a = 0
+c = k - f = 5
+d = l - k = 1
+e = h - e = 3
+f = t - o = 5
+
+---
+
+a = g - a = 6
+b = a - a = 0
+c = k - f = 5
+d = l - k = 1
+e = h - e = 6
+f = t - o = 5
+
+Den Cache findet ihr bei N 52° 28.abc und E 013° 33.def
+
+N 52° 28.605 E 013° 33.135

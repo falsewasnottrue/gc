@@ -1,0 +1,42 @@
+https://www.geocaching.com/geocache/GC6PXQH_aloc
+N 49° 28.234 E 008° 24.939
+
+1. Was war hier früher? _ _ _ _ - _ _ _ _
+Q = 4. Buchstabe + 8. Buchstabe
+
+2. Bis in welches Jahrzehnt wurde hier produziert? _ _ _ _ er
+R = 3. Stelle - 1
+
+3. Welche Firma wollte hier Wohnhäuser bauen, musste aber 2013 Insolvenz anmelden? _ _ _
+S = 2. Buchstabe -1
+
+4. Was war ursprünglich in dem Produkt enthalten, das hier produziert wurde? _ _ _ _ _ _ _ _
+T = QS(BWW) x 2
+
+5. Welches mehrfach ausgezeichnete Gesellschaftsspiel enthält das Produkt im Namen? _ _ _ _ _ _ _ _
+U = 2. Buchstabe + 1
+
+6. Wie heißt die Trilogie, die durch dieses Spiel begonnen wurde? _ _ _ _ _ _ _ _ _
+V = (1. Buchstabe + 5. Buchstabe + 7. Buchstabe) / 3 - 1
+
+
+So könnt Ihr die Final-Koordinaten berechnen:
+N 49° QR.STU
+E 008° O.(A+P)V(D+L)
+
+---
+
+1. COCA-COLA
+   Q = A + A = 2
+2. ZEHN
+   R = H-1 = 8-1 = 7
+3. SBR
+   S = B-1 = 1
+4. KOLANUSS
+   T = QS(BWW) * 2 = QS(112) * 2 = 4*2 = 8
+5. AGRICOLA
+   U = G + 1 = 7+1 = 8
+6. ERNTEZEIT
+   V = (E+E+E)/3 - 1 = 5-1 = 4
+
+49 27.188 008 15.

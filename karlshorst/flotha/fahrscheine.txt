@@ -1,0 +1,21 @@
+https://www.geocaching.com/geocache/GC6MTK0_die-fahrscheine-bitte
+
+rot			2
+dklblau		8
+dklblau		8
+orange		9
+hellblau	7
+grün		3
+rot			2
+orange		9
+rot			2
+gelb		4
+
+28 897 12 924
+
+52 28.897 13 32.929
+N 52° 29.508 E 013° 31.629
+
+http://geocheck.org/geo_chkcorrect.php?gid=62494651c7222d0-bd61-4e70-ae58-bdc5c7e6b41f
+
+Herzlichen Glückwunsch, du hast das Rätsel gelöst! Bevor du dich zur Dose begibst, drucke dir bitte ein gültiges Ticket aus. Du findest es hier. Leider konnte ich für dieses Rätsel keine punktgenaue Lösung entwickeln, weil es keine U-Bahn-Linie "0" gibt. Deshalb musste ich etwas schieben. Du findest das Versteck aber im Umkreis der Koordinaten - es gibt hier nur eine Möglichkeit, in den Untergrund zu gelangen. Ein Mast aus Stahl markiert die Stelle. Du musst nicht nach unten, tasten nahe des Eingangs reicht - magnetisch!
