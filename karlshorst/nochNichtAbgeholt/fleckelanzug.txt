@@ -1,0 +1,37 @@
+https://www.geocaching.com/geocache/GC7ZNJR_adventure-2018-16-der-fleckelanzug
+
+Oberste Reihe
+
+Orange	Grün	Blau	Käfer	Ocker	Anker	Elef	Rot		Stern	Rosa
+ORNG 	GRÜN	BLAU	KÄFR	OCKR	ANKR	ELEF	ROT 	STRN	ROSA
+
+1.	ROT 	OCKR 	ELEF 	GRÜN 	KÄFR 	ROT 	GRÜN 	ANKR 	OCKR
+2.	BLAU 	ROT 	OCKR 	KAEF 	GRÜN 	ROSA 	OCKR 	GRÜN 	KAEF 	ROT 
+3.	ORNG 	GRÜN 	KÄFR 	OCKR 	BLAU 	ROSA 	ANKR 	ELEF 	ROT
+4.	KÄFR 	ROT 	ROSA 	BLAU 	GRÜN 	ORNG 	KÄFR 	ROSA 	GRÜN
+5.	GRÜN 	ANKR 	BLAU 	ROT 	OCKR 	ROT 	GRÜN 	KÄFR 	OCKR
+
+Orange	Grün	Blau	Käfer	Ocker	Anker	Elef	Rot		Stern	Rosa
+ORNG 	GRÜN	BLAU	KÄFR	OCKR	ANKR	ELEF	ROT 	STRN	ROSA
+0		1		2		3		4		5		6		7		8		9
+
+1.	ROT 	OCKR 	ELEF 	GRÜN 	KÄFR 	ROT 	GRÜN 	ANKR 	OCKR
+	7		4		6		1		3		7		1		5		4
+2.	BLAU 	ROT 	OCKR 	KAEF 	GRÜN 	ROSA 	OCKR 	GRÜN 	KAEF 	ROT 
+	2		7		4		3		1		9		4		1		3		9
+3.	ORNG 	GRÜN 	KÄFR 	OCKR 	BLAU 	ROSA 	ANKR 	ELEF 	ROT
+	0		1		3		4		2		9		5		6		7
+4.	KÄFR 	ROT 	ROSA 	BLAU 	GRÜN 	ORNG 	KÄFR 	ROSA 	GRÜN
+	3		7		9		2		1		0		3		9		1
+5.	GRÜN 	ANKR 	BLAU 	ROT 	OCKR 	ROT 	GRÜN 	KÄFR 	OCKR
+	1		5		2		7		4		7		1		3		4
+
+ORNG 	GRÜN	BLAU	KÄFR	OCKR	ANKR	ELEF	ROT 	STRN	ROSA
+3		10		5		8		8		4		3		9		1		5
+2		9		4		7		7		3		2		8		0		4
+
+52 29.477 13 32.804
+
+Herzlichen Glückwunsch, du hast das Rätsel zum Geocache "Der Fleckelanzug" gelöst. Bitte bring, wenn du die Dose suchen willst, etwas Zeit mit - hier geht es nicht um einen einfachen Eintrag im Logbuch. Das Ziel sollte nicht zu schwer zu finden sein, du entdeckst es, wenn du auf dem "Weg" in Richtung Süden gehst, auf der linken Seite in einer kleinen Höhle aus Beton. Viel Vergnügen!
+
+Und vergiss nicht, das Banner in dein Profil einzubinden, wenn du möchtest. Den Code verschicke ich auf Wunsch - oder du klaust ihn dir aus dem Quelltext des Listings.
