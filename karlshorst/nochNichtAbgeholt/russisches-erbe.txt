@@ -1,0 +1,53 @@
+https://www.geocaching.com/geocache/GC3DT2T
+
+N 52° A.CE -12
+E 13° B.DF -28
+
+Wie viele Tage hat der längste Monat, nimm diese Zahl.
+Welches ist der kürzeste Monat, nimm die Zahl dafür
+
+A ist Tagesanzahl minus Monatzahl
+B ist Tagesanzahl plus Monatzahl
+
+A = 31 - 2 = 29
+B = 31 + 3 = 33
+
+Geboren im März des Jahres des 76. Zyklus des Erde-Schafs
+C ist die Jahreszahl nach eurer Zählung, ohne das Jahrhundert
+
+C = 19
+
+Our status symbol is your D
+
+D = 00
+
+7756	1
+6855	3
+8096	5
+7111	0
+9313	1
+2172	0
+6666	4
+7777	0
+9881	5
+1111	0
+3213	0
+7662	2
+2222	0
+9999	4
+8809	6
+0000	4
+3333	0
+5531	0
+5555	0
+8193	3
+9888	E 	7
+1058	F 	3
+
+
+52 29.197 13 33.003
+
+Korregiert
+
+52 29.185 13 32.975
+
