@@ -9,19 +9,19 @@ Ich sag es mal         milde, ich erkenne die Gegend nicht wieder. =C
 
 Ich kreierte den                   . = D
 
----
-
-Anstatt der Krawatte band ich mir einen "schlichten Schnürsenkel" um den Hals
-
+Das Final befindet sich bei:
 
 Es ist jeweils die iterierte Quersumme der Anzahl der Buchstaben zu bilden. Ä, Ö, Ü bleiben Ä,Ö,Ü.
 
- 
+N52° 31.B(A+A+B)A E013° 22. CD(C-D)
 
-Das Final befindet sich bei:
+--- Lösung
 
-N52° 31.B(A+A+B)A
+A Schnürsenkel			3
+B untypisch				9
+C realistisch			2
+D Verfremdungseffekt	9
 
-E013° 22. CD(C-D)
+N52° 31.963 E013° 22.297
 
----
+N52° 31.918 E013° 22.297
