@@ -1,0 +1,28 @@
+https://www.geocaching.com/geocache/GC7AQZ8_gauls-lowe
+
+"Es war die Zeit der          Denkmäler" = A
+
+"Haltung, Anspannung und          , die Fähigkeit los zu laufen." = B
+
+"Nur seine abstehenden          , die ähnelten den meinen." = C
+
+"Er gab kein          da ihm diese Geste nicht gefiel. = D "
+
+"Sein Sohn          hieß nach der Katze, die die Familie besaß.= E "
+
+""der einfach          Raubvögel modelieren wollte " = F
+
+"Er ist ängstlich gegenüber Fremden, Frauen und seinem          " = G
+
+"Meine Augen sind genau auf          gerichtet. " = H
+
+Es ist jeweils die iterierte Quersumme der Anzahl der Buchstaben zu bilden. Ä, Ö, Ü bleiben Ä,Ö,Ü.
+
+Das Final befindet sich bei:
+
+N52° 3F.HD(E+F)
+
+E013° 2H.(C+F+F) (B+G) (A-B-G)
+
+--- Lösung
+

@@ -17,4 +17,11 @@ Wann war der andere Typ in Vietnam? (=FFFF)
 N52,(BFFFFAA-2145310)°
 E13,(EEDDDCC-3510778)°
 
----
+--- Lösung
+
+AA		=
+B 		=
+CC		=
+DDD		= 145 (Big Kahuna Burger), 164 (_s)
+EE 		= 
+FFFF	= 1972
