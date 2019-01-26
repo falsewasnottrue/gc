@@ -1,0 +1,10 @@
+https://www.geocaching.com/geocache/GC81YKM_grunes-geheimnis-reloaded
+
+abcde
+20025
+
+Entfernung: "dac" Metern: 220
+Peilung: "[e+c-d][e+b-a][a+b*d+c*e]" Grad: (5+0-2)(5+0-2)(2+0*2+0*5) = 332
+
+N52 27.806 E013 31.841.
+52 27.806 13 31.841
