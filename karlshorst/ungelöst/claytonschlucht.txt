@@ -1,0 +1,62 @@
+https://www.geocaching.com/geocache/GC2ZZ6J_zuruck-in-die-zukunft-iii-die-claytonschlucht
+
+Zurück in die Zukunft Teil - III
+
+
+Wie schnell ( Miles) muss der DeLorian für den Zeitsprung fahren ? T =
+
+Wie schnell (Meilen) läuft das schnellste Pferd ? (QS=8) P =
+
+Wie lautet die Nummer auf der Lokomotive, die "ausgeborgt" wird ? L=
+
+Wie lautet das Zieldatum der Zeitreise ? DD.MM.YYYY=
+(gemeint ist der Zeitsprung Lok+DeLorian)
+
+Wie rettet Marty das Leben des Professors auf dem Fest ?
+
+a) 6 Fuss lange Peitsche ..............F=12
+b) Frisby-Scheibe .....................F=16
+c) peace-maker smith & wesson 9 mm F=21
+
+
+Wo hat Marty so gut schießen gelernt ?
+( deutsche Filmversion ! )
+
+a) Katakis S=7
+b) Doom S=9
+c) Spaceinvaders S=10
+
+Addiere die Zahlenwerte der Initialen des Doktors I=
+
+zum cache: Möglichkeiten zum Parken gibt es "An der Wuhlheide" und auch auf den Parkplätzen des FEZ.
+Prinzipiell gilt: BITTE KEINE GEWALT (!) Örtlich bedingt ist mit vielen Muggels , fliegenden Blutsaugern, Zecken und garstigen Borstenviechern zu rechnen.
+
+Starte an der "SHONASH RAVINE BRIDGE" !
+Ja ein wenig Phantasie brauchst Du schon, am besten vier-dimensional denken......
+
+Hier wurden alle Vorbereitungen getroffen und hier soll der Zeitsprung stattfinden. Weder die Superzündis noch der reparierte DeLorian sind zu sehen.
+
+Bei den Koordinaten der Station findest Du eine schwarze Zahl (an der Brücke). Diese Zahl sei B .
+Die nächste Station erreichst Du bei
+
+N 52° 28.L-(B*I)-T+DD-(B*B) E 13° 32.(P*F)+S-(B*B)
+
+--- Lösung
+
+T = 88
+P = 35
+L = 131
+DD.MM.YYYY = 27.10.1985
+F = 16
+S = 10
+I = Emmett Brown = EB = 5+2 = 7
+B =
+
+
+B 	Koordinaten
+n 	52 28.070-7n-n*n 13 32.570-n*n
+1	52 28.062 13 32.569
+2	52 28.052 13 32.566
+3	52 28.040 13 32.561
+4 	52 28.026 13 32.554
+5	52 28.010 13 32.545
