@@ -1,0 +1,51 @@
+https://www.geocaching.com/geocache/GC492N5_auswuchse-der-natur-2a
+
+Station 1 (N 52° 27.599 E 013° 31.756):
+
+Von hier aus sind 2 "gastliche Stätten" in etwa der gleichen Entfernung zu sehen. Der namensgebende Gegenstand der gesuchten Stätte liegt direkt vor der Hauswand. Gesucht ist die Hausnummer (nur die Zahl)
+A = Zahl
+
+Station 2 (N 52° 27.696 E 013° 31.935):
+
+Und schon sind wir am Ende der regulären Rathenaustr.. Wie lang / kurz ist sie eigentlich? ( abgerundet auf volle Hundertmeter)
+B = Meterzahl
+
+Station 3 (N 52° 27.707 E 013° 31.861):
+
+Kleiner Abstecher, damit ich Euch beim Suchen beobachten kann;-)
+Hier stehen Buchstaben in Reih`und Glied.
+C = Anzahl, D = Anzahl der Farben, E = Buchstabenwert
+
+Station 4 (	N 52° 27.805 E 013° 32.009 ):
+
+Hier hat die Familie Rathenau ihre letzte Ruhestätte gefunden. Gesucht ist die Anzahl der Steine der untersten Lage der Grabumbauung!
+F = Steinezahl
+
+Station 5 (N 52° 27.991 E 013° 31.514):
+
+Welcher der Namensgeber der 4 Querstrassen der Rathenaustr. hatte den selben Beruf wie der Herr Krieger?
+Gesucht ist der Anfangsbuchstabe.
+G = Buchstabenwert
+
+Final :
+Ihr findet den Auswuchs bei:
+N 52° 27. 2*B - 4*C und E 013° 31. B + ( E + D )*A - 2*F + G - 2 
+
+--- Lösung
+
+Station 1: Bei Steini, Rathenaustraße 23
+ A = 23
+
+Station 2: Länge 528,65 m
+ B = 500
+
+Station 3:
+ C =
+ D = 
+ E = 
+
+Station 4:
+ F =
+
+Station 5:
+
