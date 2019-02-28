@@ -1,0 +1,43 @@
+https://www.geocaching.com/geocache/GC6FJ5C_cardinis-kartentrick
+
+Falsche Karten
+
+Pik 4		5	1,4
+Karo 3		1	2,5
+
+Karo Ass	2	3,2	
+Herz 6		3	3,4
+
+Pik 5		3	4,1
+Kreuz Ass 	2	4,2
+
+Kreuz 2 	1	5,4
+Herz 5 		9	6,3
+
+Herz 10		9	7,4
+Karo 6	 	7	7,6
+
+Herz 4 		7	8,2
+Kreuz 10	2	8,5
+
+Kreuz 3 	2	9,2
+Pik 2		3	9,4
+
+abwechselnd
+52 31.972 13 29.723
+
+ungerade reihe	52 31 9723
+gerade reihe	13 29 72
+
+ungerade spalte		13 92
+gerade spalte		52 32 197723
+
+N52 31.223 E013 29.797
+
+-- Lösung
+
+N52 29.773 E013 31.922
+
+Herzlichen Glückwunsch, du hast Cardinis Kartentrick geknackt. Viel Spass beim Bergen des Caches! Zum Finden der Dose müssen keine Gleise betreten oder Zäune überstiegen werden! Bitte achte darauf, dass die Dose wieder wasserfest verschlossen ist und logge nach Anweisung auf der beiliegenden Note. Danke!
+
+Und vergiss nicht, dein Profil mit dem Banner zu schmücken, wenn du möchtest. Den Link verschicke ich auf Anfrage per Mail - oder du klaust ihn dir aus dem Quelltext des Listings.
