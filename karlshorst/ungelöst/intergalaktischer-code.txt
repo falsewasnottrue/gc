@@ -1,0 +1,32 @@
+https://www.geocaching.com/geocache/GC4Y7YP_unverstandlicher-intergalaktischer-code
+
+Hinweis: Bruce Willis, Gary Oldman, Milla Jovovich (ROT8)
+
+N1 Seitenschiebwandwagen		2 x
+N2 Kühlwagen					8 x
+N3 Flachwagen					3 x
+N4 Zementwagen					9 x
+N5 Kühlwagen					8 x
+
+E1 Flachwagen					3 x
+E2 Seitenschiebwandwagen		2 x
+E3 								5 x
+E4 								2 x
+E5 								6 x
+
+0 → Güterwagen mit öffnungsfähigem Dach
+1 → Gedeckter Güterwagen der Regelbauart
+2 → Gedeckter Güterwagen in Sonderbauart
+3 → Flachwagen mit Einzelradsätzen in Regelbauart
+4 → Flachwagen mit Einzelradsätzen in Sonderbauart
+5 → Offener Güterwagen der Regelbauart
+6 → Offener Güterwagen in Sonderbauart
+7 → Kesselwagen
+8 → Kühlwagen
+9 → Sonderwagen
+
+N52 28.398 E013 32.526
+
+Trotz einer gewissen Affinität zum Gegenstand des Rätsels musste ich hier doch eine Weile recherchieren.
+Ein verwirrlicher Reichtum an Informationen tat sich da auf!
+Schließlich fand ich einen vielversprechenden Ansatz und mit einem Mal ergab auch der kryptische Hinweis Sinn.

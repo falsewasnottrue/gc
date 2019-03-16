@@ -1,0 +1,24 @@
+
+- Neukölln	GC5PNWA	rot/weiß ohne Pommes	3,5/	2
+- Tempelhof	GC7PPVV	Bruchlandung	1,5/	5
+- Steglitz	GC6PTV4	50 Souvenirs Challenge	3,5/	4
+- Schöneberg	GC46D1T	Friedenauer Brücke	2,0/	1,5
+- Zehlendorf	GC4RF1H	Messelpark-Turnier III – Überquere die Ziellinie	1,0/	1,5
+- Wilmersdorf	GC72R1M	Kleiner Blumenfreund-reloaded	2,0/	1,5
+- Charlottenburg	GC6TDZD	Punktemacher_Nanunano	2,5/	2,5
+- Tiergarten	GC6FK7G	440 Tonnen auf „Großer Fahrt“	2,5/	3
+- Spandau	GC6JBHQ	Jugendplatz	4,0/	1
+- Reinickendorf	GC5HHMX	TXL Travelbuglodge	2,5/	1,5
+- Wedding	GC6M3MK	„versteckt“	4,5/	1,5
+- Pankow	GC65PRG	Die verbotende Zone der Peträer	4,5/	2,5
+- Weißensee	GC5J5EK	Maismaus Hütte	2,5/	2,5
+- Prenzlauer Berg	GC5V4X8	Artistenschule	1,5/	1,5
+- Hohenschönhausen	GC4ZQ47	Galerie 100	3,5/	1
+- Mitte	GC7RAZ2	Marx, Monarch und Merkel	2,5/	2
+- Kreuzberg	GC7ZGZN	Kreuzberg Challenge Cache #1	4,5/	3
+- Friedrichshain	GC7TK36	Galiläakirche	1,5/	1,5
+- Lichtenberg	GC7GH6W	Wo bin ich?	3,0/	4
+- Marzahn	GC4TY83	Whiskey in the jar	2,5/	3,5
+- Hellersdorf	GC6H6CV	Tieflandstraße/Lindenstraße	1,5/	1,5
++ Köpenick	GC6Y8GK	Grimmige Märchen	2,0/	2
+- Treptow	GC46N4J	Alles Nullen oder was?	4,5/	1,5
