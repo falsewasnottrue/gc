@@ -1,0 +1,17 @@
+https://www.geocaching.com/geocache/GC6AWFH_verwirren-statt-tarnen
+
+Gesucht ist nun zunächst Vorname(S) und Name(C) des "Erfinders" dieser Kriegsbemalung.
+Man sollte zur Übung den Buchstabenwortwert und die iterative Quersumme berechnen. Das Geburtsdatum ergibt HI.FF.DAZL.Das Todesdatum ist der TU.VW.DXYZ.
+
+Wie nennt man heute Fahrzeuge in der Automobilindustrie, die getarnt als Prototypen herumfahren ?
+Anzahl der Buchstaben(Einzahl) = K.
+
+https://en.wikipedia.org/wiki/Norman_Wilkinson_(artist)
+
+S (Norman).
+C (Wilkinson):
+
+HI.FF.DAZL = 24.11.1878
+TU.VW.DXYZ = 30.05.1971
+
+K (Erlkönig)
