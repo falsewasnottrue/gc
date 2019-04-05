@@ -1,0 +1,16 @@
+https://www.geocaching.com/geocache/GC85CW4_bummel-durch-europa
+
+min: List(Berlin, Moskau, Belgrad, Warschau, Helsinki, Bukarest, Athen, Wien, London, Lissabon, Dublin, Brüssel, Rom, Amsterdam, Madrid, Paris, Budapest, Sofia, Prag, Stockholm, Berlin) :: 23890
+max: List(Berlin, Athen, Paris, Moskau, Brüssel, Belgrad, London, Bukarest, Warschau, Madrid, Wien, Lissabon, Rom, Helsinki, Prag, Dublin, Stockholm, Budapest, Amsterdam, Sofia, Berlin) :: 35118
+
+N 52° 28. B.1 A.3 A.1
+E 013° 32. A.2 B.2 A.4
+
+
+N 52 28.382 E 013 32.359
+
+Koordinate:	
+N 52°28.382  E 013°32.359
+Koordinaten herunterladen: GPX (Final + Children), GPX->gsak (Final als Child + Children), LOC oder an GPS senden (nur final)
+
+Herzlichen Glückwunsch zur korrekten Lösung. Auch wenn die Koordinaten am Ziel etwas springen, sollte auf Grund der Attribute klar sein, in welche Richtung du schauen musst. Und dann hei?t es, ein wenig sportlich zu sein.
