@@ -19,7 +19,7 @@ sucht fünf hände
 
 ---
 
-Start des Mysteries (Virtuelle Station)	??? 
+Start des Mysteries (Virtuelle Station)
 Hinweis: 5 Hände ergeben hier einen Namen _ _ _ _ _ . Die Dame ist bekennender Nemo-Fan. Wandele die Buchstabenwerte ihres Namens in Zahlen um _ _ _ _ _ . Die Summe ergibt X . 
 Addiere den Wert X - 66 auf die ermittelten nördlichen Startkoordinaten & addiere den Wert X - 516 auf die ermittelten östlichen Startkoordinaten. So gelangst Du zu Nemos speziellen Freund in Tempelhofer. 
 N 52° 27 . _ _ _ E 013° 22 . _ _ _
@@ -38,24 +38,54 @@ Hinweis: An einer Straßenlaterne trefft ihr Nemos Berliner Freund z.Z. nicht an
 Die Summe der Buchstabenwerte des zu findenden Wortes ergibt Y.
 Wandele die Dich herführenden Koordinaten nach folgendem Schema um :
 
-N 52° 27. ( ? ) + 2xY - 10 , E 013° 22. ( ? ) + 3xY -10
+N 52° 27. ( ? ) + 2xY - 10 , E 013° 22. ( ? ) + 3xY - 10
+
+AMPEL -> BBW 47
+
+N 52° 27.342 + 2x47 - 10 , E 013° 22.143 + 3x47 - 10
+
+52 27.426 13 22.274
 
 --- weiter
 
-Koordinaten des Verstecks	Virtuelle Station	DD	DD	Die Letterbox (Virtuelle Station)	??? 
- 	Hinweis:	Schau Dich um! Welche Farbe hat die Letterbox? Addiere bzw. subtrahiere die richtige Farbe zu den Dich hierher führenden Koordinaten! 
+Die Letterbox (Virtuelle Station)
+Hinweis: Schau Dich um! Welche Farbe hat die Letterbox? Addiere bzw. subtrahiere die richtige Farbe zu den Dich hierher führenden Koordinaten! 
 
 N 52° 27. (?) E 013° 22. (?) 
 
-N = ?+64+(3.Buchstabenwert des Nemo-Fans), E = ?+218+ (5.BW d. NFs) 
+-> N = ?+64+(3.Buchstabenwert des Nemo-Fans), E = ?+218+ (5.BW d. NFs) 
 N = ?+122+ (3.BW d. NFs), E = ?-86+ (5.BW d. NFs) 
 N = ?-22+ (3.BW d. NFs), E = ?+66+ (5.BW d. NFs)
 N = ?+30+3.BW d. NFs), E = ?+114+ (5.BW d. NFs)
 
+BLAU
+
+N = ?+64+(3.Buchstabenwert des Nemo-Fans), E = ?+218+ (5.BW d. NFs)
+N = 426+64+BBW(I), E = 274+218+BBW(A)
+N = 426+64+9, E = 274+218+1
+N = 499, E = 493
+
+52 27.499 13 22.493
+
+435			275
+	499			493
+	557			189
+	413			341
+	465			389
+
+52 27.499 13 22.493
+52 27.557 13 22.189
+52 27.413 13 22.341
+52 27.465 13 22.389
+
+N = ?+64+(3.Buchstabenwert des Nemo-Fans), E = ?+218+ (5.BW d. NFs)
+
 ---
 
-Koordinaten des Verstecks	Gegenständliche Station	EE	EE	152 Stufen (Gegenständliche Station)	??? 
- 	Hinweis:	Achtung ! Betrete das Gelände aus südlicher Richtung. 
+Koordinaten des Verstecks
+Gegenständliche Station	EE	EE	152 Stufen (Gegenständliche Station)
+
+Hinweis: Achtung ! Betrete das Gelände aus südlicher Richtung. 
 Am Objekt angekommen beginne wachen Auges mit dem Aufstieg. Auf Höhe der 49. Stufe schaue 1,50 m in nördl. Richtung. Dort findest Du an einem 1,40 m hohen Pfahl eine kleine grüngetarnte magnetische Schachtel. 
 Achte darauf, daß Du beim Zugriff nicht beobachtet wirst. Nimm die Schachtel mit zum Finale, und bringe sie später samt Inhalt unauffällig hierher zurück.
 
