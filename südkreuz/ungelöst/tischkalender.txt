@@ -1,0 +1,26 @@
+https://www.geocaching.com/geocache/GC7E0RW_geheimnisvoller-tischkalender
+
+KW 3 18.1. (Do)			CPJFSOATUI
+						WTKFF
+KW 8 20.2. (Di)			MVLKWMYP
+						GKN QGK
+KW 13 29.3. (Do)		WKHUPH				THERME (rot23)
+KW 15 14.4. (Sa)		EM USBK
+						WQ DEFO
+KW 18 4.5. (Fr)			OQIYXJVPYWW
+KW 23 8.6. (Fr)			KGVJTK-
+						TOONB-
+						JQTVKZ
+KW 29 17.7 (Di)			JWRYBZ/
+						NHCKRYVUR
+KW 37 12.9. (Mi)		XY RXDBF-
+						QMDE RY
+						PDDZNIJXM
+
+N52° [KW 3] * [KW 8] - 5 * [KW 37] - [KW 13] - 104
+E013° [KW 15] * [KW 18] + [KW 29] * 7 + [KW 23] - 1
+
+- ∑ BW aus dem Kalendereintrag in der jeweiligen Kalenderwoche (KW)
+- [KW x] dient als Platzhalter und ist durch die ∑ BW der jeweiligen Kalenderwoche zu ersetzen.
+- Sonderzeichen bleiben Sonderzeichen!
+
