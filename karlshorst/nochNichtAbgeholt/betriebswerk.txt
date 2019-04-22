@@ -21,21 +21,23 @@ In welcher Stadt soll zwischen 2015 und 2017 das modernste "xxx"-Werk entstehen?
 Wie lautet das KFZ-Kennzeichen dieser Stadt? davon die iterierte Quersumme = E
 
 Wann ging in München das zweite "xxx"-Werk in Betrieb?
-Die Quesumme der Jahreszahl = F
+Die Quersumme der Jahreszahl = F
 
 A = 1998 = 27 = 9
 B = ICE = 17
 C = 240
-D = Schweiz = 6
+D = Schweiz = 7
 E = Köln = K = 11 = 2
-F = 1995 = 24
+F = 1993 = 22
 
 S = A = 9
 
-TUV = A x F + 3 x D = 9*24 + 3*6 = 234
+TUV = A x F + 3 x D = 9*22 + 3*7= 219
 
-W = E + F - B - D = 2+24-17-6 = 3
+W = E + F - B - D = 2 + 22 - 17 - 7 = 0
 
-XYZ = C + E = 240+2 = 242
+XYZ = C + E = 240 + 2 = 242
 
-N 52° 29.234 E 013° 33.242
+N 52° 2S.TUV E 013° 3W.XYZ
+
+N 52° 29.219 E 013° 30.242
