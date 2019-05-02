@@ -1,0 +1,63 @@
+https://www.geocaching.com/geocache/GC5Q51E_das-kraftwerk
+
+Das Kraftwerk ist ein 1926 von der Berliner Städtische Elektrizitätswerke Akt.-Ges. in Betrieb genommenes thermisches Kraftwerk im Berliner Ortsteil Rummelsburg.
+Während die denkmalgeschützte Hülle des Kraftwerksgebäude weitgehend originalgetreu erhalten ist, wurden die technischen Komponenten seit den 1970er Jahren komplett ersetzt.
+Seitdem wird vor allem Lausitzer Braunkohle verfeuert und das Kraftwerk ist ein wichtiger Lieferant von Fernwärme für den Ostteil der Stadt.
+Heute gehört das Kraftwerk dem schwedischen Energiekonzern Vattenfall und wird von der deutschen Tochtergesellschaft Vattenfall GmbH betrieben.
+
+Um zum Finale zu gelangen löse folgende Aufgaben:
+
+Wie lautet der Name des Kraftwerks?
+Davon die Quersumme der Buchstabenanzahl = A
+
+Wie heißt sein Namensgeber mit Vornamen?
+Davon der Wert des zweiten Buchstaben = B
+
+Wie lautet die Abkürzung für Berliner Städtische Elektrizitätswerke Akt.-Ges.?
+Davon der Wert des vierten Buchstaben = C
+
+Wann erfolgte der erste Spatenstich?
+Davon die Quersumme aller Ziffern geteilt durch 8 = D
+
+Zur ursprünglichen Kraftwerksanlage gehörten gemauerte Schornsteine.
+Wieviele waren sie?
+Anzahl plus 1 = E
+Und wie hoch waren sie?
+Davon die Quersumme = F
+
+1965 und 1974 fanden Große Umbauarbeiten statt und die alten Schornsteine wurden durch zwei neue modernere ersetzt.
+Wie hoch waren beide zusammen?
+Die Quersumme der Gesamthöhe = G
+
+Nun noch etwas rechnen und los gehts.
+
+(E+G):3=U
+(B+C):A=V
+G-F=W
+
+E-D=X
+Ax2-D=Y
+F+A=Z
+
+Das Finale findest du bei N52 29.UVW E013 29.XYZ
+
+
+--- Lösung
+
+A = (Heizkraftwerk) Klingenberg = 11 = 2
+B = Georg = 5
+C = Bewag = 1
+D = 15.9.1925 = 32 = 4
+E = 8 -> 9
+F = 70 -> 7
+G = 146 + 169 = 315 -> 9
+
+U = (e+g)/3 = (9+9)/3 = 6
+V = (b+c)/a = (5+1)/2 = 3
+W = g-f = 9 - 7 = 2
+
+X = e-d = 9 - 4 = 5
+Y = 2*a - d = 2*2 - 4 = 0
+Z = f+a = 7 + 2 = 9
+
+N52 29.632 E013 29.509
