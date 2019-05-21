@@ -1,0 +1,21 @@
+https://www.geocaching.com/geocache/GC1A7DX_schwerbelastungskorper
+
+Errechnet die Ziel Koordinaten N52° A,B E013° C,D
+
+A = Welchen Durchmesser hat der Kopf des Schwerbelastungskörpers + 7
+B = In welchem Jahr wurde er erbaut - 956 (Anfangsjahr ist hier gesucht)
+C = Welchen Durchmesser hat der Schaft des Schwerbelastungskörpers + 11
+D = Für was waren die Messungen geplant und was sollte in der Reichshauptstadt "Germania" in der Nähe des Flughafen Tempelhofes gebaut werden?
+Hier müssen vom geplanten Bauobjekt die Höhe und Breite addiert und dann 60 subtrahiert werden.
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/Schwerbelastungsk%C3%B6rper
+
+A = 21 + 7 = 28
+B = 1941 - 956 = 985
+C = 11 + 11 = 22
+D = Triumphbogen 117 m Höhe, 170 m Breite =
+  -> 117 + 170 - 60 = 227
+
+N52 28.985 E013 22.227
