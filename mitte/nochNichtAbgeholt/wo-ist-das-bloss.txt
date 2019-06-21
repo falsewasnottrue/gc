@@ -1,0 +1,25 @@
+https://www.geocaching.com/geocache/GC7AZAZ_wo-ist-das-bloss
+
+An den angegebenen Koordinaten findet ihr keinen Cache.
+
+ 
+
+Finde das Skulpturenensemble.
+
+1. Wie heißt das Skulpturenensemble?  Wortwert = A
+
+2. Von wem ist das Skulpturenensemble?  Wortwert = B
+
+
+Den Cache findet ihr hier
+
+N52°30.A-50
+
+E013°20.B-190
+
+--- Lösung
+
+1. "Das Urteil des Paris" -> A = 200
+2. "Markus Lüpertz" (Luepertz) -> B = 206
+
+52 30.150 013 20.016
