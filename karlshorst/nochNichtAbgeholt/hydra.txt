@@ -1,0 +1,44 @@
+
+https://www.geocaching.com/geocache/GC8A8TT
+
+N 52° 2A.B2C E 013° 3D.EF9
+
+N 52° 28.323 E 013° 32.599
+
+Buchstaben in Zahlen...
+
+A: Was hat Wurzeln, man kann sie kaum sehen. Ist höher als alle Baumwipfel stehen, nach oben reicht es bis ans Licht, und dennoch wächst es nicht.
+A= 1. Buchstabe + 6
+Lsg Berg A = 2+6 = 8
+
+B: Schweigt stimmlos, flattert flügellos, beißt zahnlos, murmelt mundlos. Leicht wie der ...
+
+B= 3. Buchstabe - 11
+Lsg Wind B = N - 11 = 14-11 = 3
+
+C: Der Schrein ohne Deckel, Schlüssel, Scharnier, birgt einen goldenen Schatz, glaub es mir.
+
+C= 1. Buchstabe - 2
+Lsg Ei C = e-2 = 5-2 = 3
+
+D: Zweiunddreißig Schimmel auf einem roten Hang - erst malmen sie, dann stampfen sie und warten wieder lang.
+
+D= 5. Buchstabe - 3
+Lsg Zähne : D = e-3 = 5-3 = 2
+
+E: Atemlos lebt es, kalt wie der Tod schwebt es. Kennt keinen Durst, doch dennoch trinkt es.
+
+Trägt ein Kettenhemd, doch nie klingt es.
+
+E= 4. Buchstabe + 2
+Fisch E = c+2 = 3+2 = 5
+
+F: Etwas, das alles und jeden verzehrt. Helm und Panzer, Axt und Schwert. Tier, Vogel,
+
+Blume, Ast und Laub. Aus harten Steinen mahlt es Staub.
+
+F= 3. Buchstabe
+Zeit F = i = 9
+Mir ist aufgefallen, dass es in der Gegend keine großen Cachebüchsen zum Tauschen gibt. Demnach ist hier ein Cache, den ihr dafür benutzen könnt! Bitte den Cache wieder gut verstecken. Die Final-Koordinaten können leicht abweichen (Wald). Bitte öffnet und zerstört nicht die Dekoration im Cache (wer ihn findet weiß, was ich meine). Checkt die Final-Koordinaten hier: GeoChecker.com.
+
+Nachtrag 13.07.2019: Auf Grund von Abstandsproblemen wurde die Formel zur Koordinatenermittlung geändert. Alle, die das Rätsel vor dem 13.07.2019 gelöst haben, rechnen bitte N -10 und E +1.
