@@ -1,0 +1,12 @@
+https://www.geocaching.com/geocache/GC1RB70_rosebud-1-1-2-red-rose-from-the-fair
+
+Addiert alle Zahlen zur Hausnummer und Ihr erhaltet den dreistelligen Wert XXX.
+
+N 52° 27. XXX + 178
+E 013° 22. XXX + 377
+
+--- Lösung
+
+Hindenburgdamm 68 -> 133 + 68 -> XXX = 201
+
+52 27.379 013 22.578

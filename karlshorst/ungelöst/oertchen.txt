@@ -1,8 +1,33 @@
 
 https://www.geocaching.com/geocache/GC87TF7_das-versaute-ortchen
 
-ritze	- 74893 		31 	4
-moese	- 
-loch	-
-pissen	-
-spalt	-
+Blau:
+
+Ritze
+Moese
+Loch
+Pissen
+Spalt
+
+N 14414
+
+Rot:
+
+Schlitz
+Feucht
+Poritz
+Warzen
+Petting
+
+E 12232
+
+Hinweis
+
+1. Ritze und Loch sind ein Stück auseinander.
+2. Nicht verzweifeln, wenn du nicht gleich das richtige Loch erwischst. Die Alte Höhle hilft.
+
+--- Lösung
+
+Ritze muss auf 2 abgebildet werden. Moese auf 8
+Ritze - 10110 (binär) 	21 (dez)
+Moese - 10010 bin 		18		

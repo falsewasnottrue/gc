@@ -1,0 +1,23 @@
+https://www.geocaching.com/geocache/GC8AD9J_kindergeburtstag
+
+Der kleine Markus hat viele Freunde und wird deshalb oft auf Kindergeburtstage eingeladen. Besonders mag er das Abzählspiel, bei dem der Gewinner eine große Tafel Schokolade gewinnt.
+
+Bei diesem Spiel stellen sich alle Kinder im Kreis auf. (Für die ganz Genauen: Es ist natürlich ein n-Eck, aber wir sollten froh sein, dass die Kleinen wissen, was ein Kreis ist.) Jedes Kind im Kreis erhält eine Nummer. Es wird bei 0 begonnen (Das machen wir nur, damit später die Aufgabe richtig gestellt werden kann.) und dann fortlaufend im Uhrzeigersinn durchnummeriert. Heute sind 12 Kinder auf dem Geburtstag, es werden also die Nummern 0 bis 11 vergeben. Dann wird im Uhrzeigersinn abgezählt: Ene, mene, muh und raus bist du. Dieser Abzählreim hat neun Silben. Es wird bei Position 0 angefangen zu zählen und das 9. Kind muss den Kreis verlassen. Nun wird beim nächsten noch im Kreis verbliebenen Kind angefangen zu zählen und wieder muss das 9. Kind den Kreis verlassen. Das wird so lange wiederholt, bis nur noch ein Kind im Kreis steht - und das gewinnt die Tafel Schokolade. Das ist zufälligerweise Markus, der mathematisch etwas begabt ist und das Spiel gut kennt. Er hat sich vorher ausgerechnet, an welcher Position im Kreis er stehen muss, um die Schokolade zu bekommen. Da dieses Mal 12 Kinder anwesend sind und der Abzählreim 9 Silben hat, wählte er die Position 1. Natürlich teilt Markus die Schokolade mit den anderen Kindern. Einerseits sieht man seinem kleinen Bauch schon an, dass er das Spiel schon öfter gewonnen hat, andererseits möchte er natürlich noch auf viele Geburtstage eingeladen werden. Aber irgendwie wurmt es die anderen schon, warum Markus immer weiß, wo er sich hinstellen muss. Für den nächsten Geburtstag haben sie sich deshalb vorgenommen, hinter Markus Geheimnis zu kommen.
+
+Wir wollen aber nicht bis zum nächsten Geburtstag warten und die Dose schon jetzt suchen. Um an die Koordinaten zu gelangen, müssen wir nur das Abzählspiel nachspielen. Dabei wird folgende Notation benutzt: [n,m]. Das bedeutet, dass am Anfang n Personen im Kreis stehen und dass der Abzählreim m Silben lang ist. Beachtet bitte, dass wir im Kreis mit der Position 0 starten. Gesucht ist immer die Position des Kindes, das als letztes übrig bleibt und die Schokolade gewinnt.
+
+
+Hier sind also die Koordinaten:
+
+N [12,11][17,2]° [18,10][24,18].[29,23][39,21][53,42]
+E [9,4][14,3][19,13]° [23,16][27,17].[34,24][47,19][52,31]
+
+Um unnötige Wege zu vermeiden, kann die Lösung des Rätsels überprüft werden:
+
+--- Lösung
+
+N 52° 28.034 E 013° 33.346
+
+Herzlichen Glückwunsch zur korrekten Lösung! 
+Bitte beachtet, nicht einmal in die Nähe der Gleise zu kommen. 
+Und nun ab zur Dose. Eine Schokolade bekommt ihr zwar nicht, dafür wartet das Logbuch auf euch.
