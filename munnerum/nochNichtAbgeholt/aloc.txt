@@ -8,7 +8,7 @@ Q = 4. Buchstabe + 8. Buchstabe
 R = 3. Stelle - 1
 
 3. Welche Firma wollte hier Wohnhäuser bauen, musste aber 2013 Insolvenz anmelden? _ _ _
-S = 2. Buchstabe -1
+S = 2. Buchstabe - 1
 
 4. Was war ursprünglich in dem Produkt enthalten, das hier produziert wurde? _ _ _ _ _ _ _ _
 T = QS(BWW) x 2
@@ -27,7 +27,7 @@ E 008° O.(A+P)V(D+L)
 ---
 
 1. COCA-COLA
-   Q = A + A = 2
+   Q = A + A = 1 + 1 = 2
 2. ZEHN
    R = H-1 = 8-1 = 7
 3. SBR
@@ -39,4 +39,12 @@ E 008° O.(A+P)V(D+L)
 6. ERNTEZEIT
    V = (E+E+E)/3 - 1 = 5-1 = 4
 
-49 27.188 008 15.
+A = 5 (aus ERTOM)
+D = 2 (aus ERTOM)
+L = 21 (aus IBO) ??
+O = 24 (aus IBO)
+P = 4 (aus IBO)
+
+49 QR.STU 08 O.(A+P)V(D+L)
+
+49 28.188 008 24.949
