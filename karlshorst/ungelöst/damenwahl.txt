@@ -1,0 +1,116 @@
+
+https://www.geocaching.com/geocache/GC8ADAR_damenwahl
+
+Die Gesellschaft von Damen ist ja meistens eine angenehme Sache. Es kommt jedoch vor, dass es besser ist, ihnen aus dem Weg zu gehen. Manchmal kommt es sogar dazu, dass sie sich gegenseitig aus dem Weg gehen. Dieses Phänomen wurde schon vor über 150 Jahren untersucht und man versuchte, es in ein mathematisches Modell zu übertragen. Dieses nannte man dann Damenproblem.
+
+Anfangs versuchte man, 8 Damen auf einem 8x8 Schachfeld so zu platzieren, dass sie sich gemäß den im Schach definierten Zugregeln nicht gegenseitig schlagen können. Das heißt, es dürfen keine zwei Damen auf derselben Waagerechten, Senkrechten oder Diagonalen stehen. Irgendwann hatte man alle 92 möglichen Kombinationen für dieses Problem gefunden.
+
+Mit der Zeit gab es aber immer mehr Damen und man versuchte, dieses Problem auf größere Felder zu übertragen. Ziel war es n Damen auf einem Feld der Größe nxn so anzuordnen, dass sie sich nicht gegenseitig schlagen können. Stand heute hat man es geschafft, alle Lösungen für 27 Damen auf einem Feld der Größe 27x27 zu finden.
+
+Wir geben uns jedoch schon mit einem Feld der Größe 16x16 zufrieden. Hier sollen 16 Damen so platziert werden, dass sich keine zwei Damen auf derselben Reihe, Spalte oder Diagonalen befinden. 5 der Damen haben sich schon niedergelassen und so ihr Territorium markiert. Ziel ist es nun, die verbleibenden 11 Damen auf das Feld zu setzen, dass die oben genannte Bedingung erfüllt ist.
+
+Wenn ihr die Positionen für alle Damen gefunden habt, können wir zur Berechnung der Koordinaten der Dose übergehen. Diese befindet sich an folgender Stelle:
+
+N 52° 28.[14 + 10 - C][O + F - N][1 + 6 - B]
+E 013° 33.[E + 12 - 2][13 + F - 5][4 + B - L]
+
+Für die Ausdrücke in den eckigen Klammern gilt: Ist eine Zahl genannt, wird der Buchstabenwert der Spalte gesucht, in der sich die Dame der entsprechenden Reihe befindet. Ist ein Buchstabe genannt, wird die Nummer der Reihe gesucht, in der sich die Dame der entsprechenden Spalte befindet.
+
+--- Lösung
+
+1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6
+Q|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_
+_|_|_|_|_|_|_|_|_|_|Q|_|_|_|_|_
+_|_|_|_|_|_|Q|_|_|_|_|_|_|_|_|_
+_|_|_|_|Q|_|_|_|_|_|_|_|_|_|_|_
+_|_|_|_|_|_|_|_|_|_|_|_|_|_|Q|_
+_|_|_|_|_|_|_|_|_|_|_|_|Q|_|_|_
+_|_|_|_|_|_|_|_|Q|_|_|_|_|_|_|_
+_|_|Q|_|_|_|_|_|_|_|_|_|_|_|_|_
+_|_|_|_|_|_|_|Q|_|_|_|_|_|_|_|_
+_|Q|_|_|_|_|_|_|_|_|_|_|_|_|_|_
+_|_|_|Q|_|_|_|_|_|_|_|_|_|_|_|_
+_|_|_|_|_|Q|_|_|_|_|_|_|_|_|_|_
+_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|Q
+_|_|_|_|_|_|_|_|_|Q|_|_|_|_|_|_
+_|_|_|_|_|_|_|_|_|_|_|Q|_|_|_|_
+_|_|_|_|_|_|_|_|_|_|_|_|_|Q|_|_
+
+
+6 _|_|_|_|_|_|_|_|_|_|_|_|Q|_|_|_
+5 _|_|_|_|Q|_|_|_|_|_|_|_|_|_|_|_
+4 _|_|_|_|_|_|_|_|_|_|_|_|_|_|_|Q
+3 _|_|_|_|_|Q|_|_|_|_|_|_|_|_|_|_
+2 _|_|_|_|_|_|_|_|_|_|_|_|_|_|Q|_
+1 _|Q|_|_|_|_|_|_|_|_|_|_|_|_|_|_
+0 _|_|_|_|_|_|_|_|_|_|_|_|_|Q|_|_
+9 _|_|_|_|_|_|Q|_|_|_|_|_|_|_|_|_
+8 _|_|_|_|_|_|_|_|Q|_|_|_|_|_|_|_
+7 _|_|Q|_|_|_|_|_|_|_|_|_|_|_|_|_
+6 _|_|_|_|_|_|_|_|_|_|_|Q|_|_|_|_
+5 _|_|_|Q|_|_|_|_|_|_|_|_|_|_|_|_
+4 _|_|_|_|_|_|_|_|_|_|Q|_|_|_|_|_
+3 _|_|_|_|_|_|_|Q|_|_|_|_|_|_|_|_
+2 _|_|_|_|_|_|_|_|_|Q|_|_|_|_|_|_
+1 Q|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_
+
+                     1 1 1 1 1 1 1
+   1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6
+   A B C D E F G H I J K L M N O P
+ 1 _|_|_|_|_|_|_|_|_|_|_|_|Q|_|_|_
+ 2 _|_|_|_|Q|_|_|_|_|_|_|_|_|_|_|_
+ 3 _|_|_|_|_|_|_|_|_|_|_|_|_|_|_|Q
+ 4 _|_|_|_|_|Q|_|_|_|_|_|_|_|_|_|_
+ 5 _|_|_|_|_|_|_|_|_|_|_|_|_|_|Q|_
+ 6 _|Q|_|_|_|_|_|_|_|_|_|_|_|_|_|_
+ 7 _|_|_|_|_|_|_|_|_|_|_|_|_|Q|_|_
+ 8 _|_|_|_|_|_|Q|_|_|_|_|_|_|_|_|_
+ 9 _|_|_|_|_|_|_|_|Q|_|_|_|_|_|_|_
+10 _|_|Q|_|_|_|_|_|_|_|_|_|_|_|_|_
+11 _|_|_|_|_|_|_|_|_|_|_|Q|_|_|_|_
+12 _|_|_|Q|_|_|_|_|_|_|_|_|_|_|_|_
+13 _|_|_|_|_|_|_|_|_|_|Q|_|_|_|_|_
+14 _|_|_|_|_|_|_|Q|_|_|_|_|_|_|_|_
+15 _|_|_|_|_|_|_|_|_|Q|_|_|_|_|_|_
+16 Q|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_
+
+
+
+Für die Ausdrücke in den eckigen Klammern gilt: Ist eine Zahl genannt, wird der Buchstabenwert der Spalte gesucht, in der sich die Dame der entsprechenden Reihe befindet. Ist ein Buchstabe genannt, wird die Nummer der Reihe gesucht, in der sich die Dame der entsprechenden Spalte befindet.
+
+N 52° 28.[14 + 10 - C][O + F - N][1 + 6 - B]
+E 013° 33.[E + 12 - 2][13 + F - 5][4 + B - L]
+
+1	13		A 	16
+2	5		B 	6
+3	16		C 	10
+4	6		D 	12
+5   15		E 	2
+6	2		F 	4
+7	14		G 	8
+8	7		H 	14
+9	9		I 	9
+10	3		J 	15
+11	12		K 	13
+12	4		L 	11
+13	11		M 	1
+14	8		N 	7
+15	10		O 	5
+16	1		P 	3
+
+->
+
+N 52° 28.[8 + 3 - 10][5 + 4 - 7][13 + 2 - 6]
+E 013° 33.[2 + 4 - 5][11 + 4 - 15][6 + 6 - 11]
+
+N 52° 28.[8 + 3 - 10][5 + 4 - 7][13 + 2 - 6]
+E 013° 33.[2 + 4 - 5][11 + 4 - 15][6 + 6 - 11]
+
+->
+
+N 52° 28.129
+E 013° 33.101
+
+N 52° 28.129 E 013° 33.101
+
+Herzlichen Glückwunsch zur korrekten Lösung. Und nun ab zur Dose. Ihr sucht einen Nano, der bei scharfem Hinschauen erkennbar sein sollte. Speziell an Wochenenden kann es hier recht mugglig werden. Achtet bitte darauf, wenn ihr die Dose bergt bzw. zurücklegt.
