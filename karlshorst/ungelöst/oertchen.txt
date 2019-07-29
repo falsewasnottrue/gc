@@ -29,5 +29,16 @@ Hinweis
 --- Lösung
 
 Ritze muss auf 2 abgebildet werden. Moese auf 8
-Ritze - 10110 (binär) 	21 (dez)
-Moese - 10010 bin 		18		
+
+		binär	BW		binär
+Ritze   01110	78	 	01001110
+Moese   10010	57		00111001
+Loch	1011	38		00100110
+Pissen	011101	82		01010010
+Spalt	10011	68		01000100
+
+Schlitz	1111111 97		01100001
+Feucht	101111	63 		00111111
+Poritz	00111   104		01101000
+Warzen	101101	87		01010111
+Petting	0011110	91		01011011
