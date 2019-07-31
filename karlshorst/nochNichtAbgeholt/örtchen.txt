@@ -1,0 +1,56 @@
+
+https://www.geocaching.com/geocache/GC87TF7_das-versaute-ortchen
+
+Blau:
+
+Ritze
+Moese
+Loch
+Pissen
+Spalt
+
+N 14414
+
+Rot:
+
+Schlitz
+Feucht
+Poritz
+Warzen
+Petting
+
+E 12232
+
+Hinweis
+
+1. Ritze und Loch sind ein Stück auseinander.
+2. Nicht verzweifeln, wenn du nicht gleich das richtige Loch erwischst. Die Alte Höhle hilft.
+
+--- Lösung
+
+Ritze muss auf 2 abgebildet werden. Moese auf 8
+
+		binär	BW			binär		PLZ			Summe		Position
+Ritze 	1  	01110	78	 	01001110	29410		227713		29 507
+Moese   4	10010	57		00111001	???
+Loch	4	1011	38		00100110	53359
+Pissen	1	011101	82		01010010	06237
+Spalt	4	10011	68		01000100	91174
+
+Schlitz	1	1111111 97		01100001	36110		292936		30 903
+Feucht	2	101111	63 		00111111	90537
+Poritz	2	00111   104		01101000	39629
+Warzen	3	101101	87		01010111	31061
+Petting	2	0011110	91		01011011	83367
+
+
+52 29.507 13 30.903
+
+Herzlichen Glückwunsch, du hast das Rätsel um die schweinischen Klo-Schmierereien gelöst! Ich musste beim Basteln der Aufgabe sehr schmunzeln - und ich hoffe, du hattest auch deinen Spaß daran. Bevor du nun deinen nächsten Urlaub in Moese, Ritze oder Schlitz verbringst, suche die Dose. Sie befindet sich am Ziel in einem Loch (wie passend!) in einem Baumstumpf, der von Efeu überrankt wird, zwei Schritte vom Weg entfernt. Das Bahngelände darf und muss auf keinen Fall betreten werden! Bitte pass auf, dass dich niemand sieht - hier sind häufig Muggel mit ihren Hunden unterwegs und direkt auf der anderen Seite des Weges liegt eine schöne Kleingartenanlage. Am besten nicht direkt am Versteck loggen. Ach ja, und denke daran: Nach dem Loggen immer wieder schön aufrollen! ;)
+
+---
+
+Normalerweise lasse ich mich beim Rätseln ja gerne von meinen kleinen Helferlein unterstützen, aber dieses Rätsel ist eindeutig nicht jugendfrei!
+Mit hochrotem Kopf machte ich mich also alleine ans Lösen, was wohl auch erklärt warum es etwas länger gedauert hat bis der Groschen fiel.
+Dabei hätte ich bei einem Hinweis sogar ohne Recherche die Antwort wissen können.
+Überhaupt Recherche: was soll Google jetzt von mir denken? Ich freu mich schon auf interessante Produktempfehlungen.
