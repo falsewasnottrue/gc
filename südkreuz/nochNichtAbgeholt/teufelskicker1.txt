@@ -1,0 +1,61 @@
+https://www.geocaching.com/geocache/GC4TV6M_teufelskicker-1-moritz-macht-das-spiel
+
+F1. Aus welcher deutschen Millionenstadt ist der (traurige) Moritz weggezogen?
+
+Berlin (5); Hamburg (2) oder München (3)
+
+F2: Welcher ist der Traumverein von Moritz?
+
+Hertha BSC (2); Hamburger SV (7) oder FC Bayern München (6)
+
+F3: Welche Farben hat der Verein von Moritz neuen Freunden?
+
+rot-weiß (8); grün-orange (0) oder blau-gelb (7)
+
+F4: Wer ist der amtierende Kreismeister?
+
+VFB (9); Kirchhausen (1) oder SV Hulstorf (3)
+
+F5: Wie heißt die neue Schule von Moritz?
+
+Schule am Teufelsgrund (6); Europa-Gymnasium (2) oder Albert-Einstein-Grundschule (5)
+
+F6: Über welches Thema muss Moritz einen Aufsatz schreiben?
+
+Meine Familie (1); Mein Haustier (4) oder Mein bester Freund (2)
+
+F7: Wer gewinnt das Spiel zwischen Mehmet und Moritz?
+
+Moritz (3); Unentschieden (2) oder Mehmet (1)
+
+F8: Wen unterstützt Moritz im Sturm in der neuen Mannschaft?
+
+Catrina (8); Alex (6) oder Niko (4)
+
+F9: Gegen wen macht Moritz sein erstes Spiel im neuen Verein?
+
+Weißstein (4); Schwarzbrocken (9) oder Braunfels (6)
+
+F10: Wie lautete das Ergebnis im Spiel von F9?
+
+0:2 verloren (7); 2:1 gewonnen (0) oder 5:3 gewonnen (2)
+
+Wenn ihr alle Fragen beantwortet habt, könnt ihr nun die Koordinate ermitteln:
+
+N 52° (F1) (F2). (F3) (F4) (F5)   E 013° (F6) (F7). (F8) (F9) (F10)
+
+--- Lösung
+
+1. Hamburg  				2
+2. Hamburger SV	 			7
+3. blau-gelb				7
+4. VFB 						9
+5. Schule am Teufelsgrund 	6
+
+6. Mein bester Freund 		2
+7. Unentschieden 			2
+8. Niko						4
+9. Braunfels				6
+10. 2:1 gewonnen			0
+
+N52 27.796 E013 22.460
