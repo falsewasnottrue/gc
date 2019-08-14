@@ -3,42 +3,25 @@ https://www.geocaching.com/geocache/GC5KBBD_irischer-ritter
 Auf der Suche nach dem Grab eines kreuzfahrenden irischen Ritters
 
  
-
-
 Im 12. Jahrhundert war ich ein kreuzfahrender Ritter aus Irland.
-
 Durch eine ruchlose Tat, aus Liebestollheit geschehen, wurde ich eingekerkert und verstarb.
-
 Nunmehr muss meine arme Seele seitdem ruhelos in Tempelhof umherirren.
-
 Ihr müsst nun meinen Namen und weitere Informationen einsammeln, um die Koordinaten meiner Ruhestätte errechnen zu können.
-
 Beginnt eure Reise in der Nähe der alten Komthurey Tempelhof, wovon leider nur noch ein Teil der inneren Schutzmauer und die Dorfkirche stehen.
-
 Leider hat sich über die Jahrhunderte einiges geändert, aber ich werde versuchen, euch den Weg so gut ich kann, zu beschreiben.
-
 Begebt euch zuerst zur alten Dorfstraße.
-
 Dort findet ihr einen Brunnen, der einer Frau gewidmet ist, die jedem ehrlichen Manne zur Wahrnung gereichen sollte.
-
 Ein Mann hatte auf ihren Vorschlag gehört und nun müssen wir alle dafür büßen.
-
 Wendet euch von dort entlang der alten Dorfstraße etwa 328 Meter gen Westen.
-
 Dort steht eine stählerne Säule, mit der man Kutschen herbeirufen kann.
-
 Meiner Treu, soetwas hätte es zu meinen Lebzeiten geben sollen.
 
 Notiert euch die siebenstellige Zahl (diese sei ABCDEFG). Ihr werdet sie brauchen.
 
 Weiterhin benötigt ihr meinen Namen. Ich bin ein irischer Ritter aus dem 12. Jahrhundert.
-
 Ich habe einen heute nicht mehr gebräuchlichen Namen, der mit O anfängt. ( O _ _ _ _ _ _   o' _ _ _ _ _)
-
 Der Nachnahme ist gälisch und ins Deutsche übersetzt heißt es Messer.
-
 Die Zahlenwerte jedes einzelnen Buchstaben benötigt ihr zur Lösung.
-
 Nunmehr benötigt ihr noch das Jahr, in welchem Papst Clemens der V. den ansässigen Templerorden der Komthurey Tempelhof auflöste.
 
 Jahr = HIJK
@@ -55,8 +38,22 @@ E HIo (A x DE x FG) + 11917
 
 Und nun gutes gelingen.
 
+752,
 --- Lösung
 
 https://de.wikipedia.org/wiki/Komturei_Tempelhof
 
+http://www.odoneus.de/wer-ist-odoneus.html
+
+( O _ _ _ _ _ _   o' _ _ _ _ _)
+  O d o n e u s   O' S g i a n
+
+
 HIJK = 1312
+
+Odoneus 	93
+Doneus		78
+
+O'Sgian		65
+Sgian		50
+
