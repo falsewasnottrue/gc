@@ -1,0 +1,16 @@
+
+https://www.geocaching.com/geocache/GC8C4BD_in-memoriam-a-6
+
+Um die Zielkoordinaten zu ermitteln, wird (A) der BWW der Baumart benötigt, und (BCDE) das Jahr, aus dem der Baum stammt.
+
+Folgende Formel führt Euch ans Ziel:
+
+N 52°27.(B+C)*D*E - A/2 - B;
+E 13°35.C*D*E + 7A - B
+
+--- Lösung
+
+A = BWW(Eiche) = 30
+BCDE = 1867
+
+52 27.362 13 35.545
