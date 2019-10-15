@@ -1,0 +1,50 @@
+
+https://www.geocaching.com/geocache/GC4WV4A_teufelskicker-3-holt-euch-den-cup (N 52° 27.840 E 013° 22.330)
+
+F1: Wieso kommt Niko immer zu spät zum Fußball?
+Bus zu spät (3); Verschlafen (4) oder Nachhilfe mit Rebekka (2)
+
+F2: Wer prügelt sich mit Mark?
+Mehmet (7); Moritz (0) oder Niko (5)
+
+F3: Auf welchem Sportplatz findet das Schulturnier statt?
+Schulhof (2); Blau-Gelb-Platz (7) oder VFB-Platz (6)
+
+F4: An welchem Wochentag wird die Schulmannschaft zusammengestellt?
+Dienstag (3); Freitag (4) oder Donnerstag (9)
+
+F5: Kommt Moritz in die Mannschaft?
+Ja (8); Nein (3) oder nur Reserve (1)
+
+F6: Gegen wen spielt Blau-Gelb vor dem Schulturnier?
+Mittelbrück (1); Hohenbrück (3) oder Tiefenbrück (2)
+
+F7: Wie hoch gewann Blau-Gelb
+1:0 (9); 2:1 (6) oder 3:0 (1)
+
+F8: Wie war der Endstand des 1. Spiels des Schulturniers (für die Teufelsgrundschule)?
+2:0 (5); 1:1 (4) oder 0:3 (0)
+
+F9: Und wie war der Endstand des 2. Spiels (der Teufelsgrundschule)?
+2:0 (4); 1:1 (9) oder 0:3 (2)
+
+F10: Wann fällt die Entscheidung im Endspiel?
+Verlängerung (8); 11-Meter-Schießen (0) oder in der regulären Spielzeit (1)
+
+ 
+Wenn ihr alle Fragen beantwortet habt, könnt ihr nun die Koordinate ermitteln:
+N 52° (F1) (F2). (F3) (F4) (F5)   E 013° (F6) (F7). (F8) (F9) (F10)
+
+--- Lösung
+
+1. Nachhilfe mit Rebekka		2
+2. Mehmet						7
+3.
+4.
+5.
+
+6. Tiefenbrück					2
+7. 3:0							1
+8.
+9.
+10.	

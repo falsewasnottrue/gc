@@ -1,2 +1,37 @@
+
 https://www.geocaching.com/geocache/GC6C8R6_die-edelstein-triologie-rubinrot
 
+A = Wer war vogesehen für den Rubin?
+B = Wieviel Jahre alt wird Gwendolyn?
+C = Wer ist der wahre Rubin? (Vorname)
+D = Wo spielt die Geschichte?
+E = Wer ist der Diamant? (3 Wörter)
+F = Wie heißt der Zeitreisende und Gründer der Wächter? (4 Wörter)
+G = Kosename der Großtante
+H = Wie heißt Gwendolyn's Mutter nach ihrer Vorstellung?
+
+Im Buch stehen die richtig geschriebenen Wörter.
+
+Den Cache findet ihr bei:
+
+N52°28.(B*H)+G+91	E013°22.(A+C+E+F)+(D+34)
+
+Summe der Buchstabenwerte: 774
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/Liebe_geht_durch_alle_Zeiten
+
+A = Charlotte (Montrose)
+B = ist 16 (wird 17)
+C = Gwendolyn
+D = 
+E = Gideon de Villiers
+F = Graf von Saint Germain
+G = Grace
+H = Lucy Montrose
+
+sorry, i must have missed the part where someone confirmed that this is legal
+
+here's an awesome culture hack that works for me:
+don't allow ominous data krakens to "analyze" your slack messages

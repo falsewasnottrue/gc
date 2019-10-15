@@ -1,0 +1,25 @@
+1	Dark Star				Evelyn Hamann				8
+2	Casablanca				Marianne Kehlau				11
+3	Dirty dancing			Rebecca Völz				22
+4	Das Leben des Brian		Uwe Paulsen					16
+5	Eine Leiche zum Dessert Harald Juhnke				10
+
+6	Star Trek				Michael Paul 				16
+7	Forrest Gump			Thomas Petruo				16
+8	Jagd auf roter Oktober	Gert Günther Hoffmann		8
+9							Thomas Danneberg			4
+10	Stirb langsam			Manfred Lehmann				12
+
+A = 67
+B = 56
+
+
+N 52 (24.701 + (A*20)) und E 013 (19.878 + (B*20))
+
+N 52 26.041 E 13 20.998
+
+Die Summe der 3 Ziffern des Öffnungscodes ist 14.
+
+Torsten Michaelis
+
+hae -> 8 1 5
