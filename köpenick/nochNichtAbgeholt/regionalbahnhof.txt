@@ -1,0 +1,58 @@
+https://www.geocaching.com/geocache/GC8CWJY_regionalbahnhof-kopenick
+
+E	M	E	B	B
+R	E	R	U	T
+G	O	A	K	U
+B	L	N	G	N
+E	R	W	3	W
+
+---
+
+E	M	E	B	B
+R	E	R	U	T.
+G	O	A	K	U
+B	L	N.	G.	N
+E	R	W	3	W
+
+
+bemerkt
+E	x	x	x	B
+R	x	x	U	x.
+G	O	A	x	U
+B	L	N.	G.	N
+E	R	W	3	W
+
+EMEBBRERUTGOAKUBLNGNERW3W
+EMEBBRERUTGOAKUBLNGNER
+
+
+Bemerkung
+E	x	x	x	B
+R	x	x	U	T.
+G	O	A	x	x
+B	L	N.	x.	x
+E	R	W	3	W
+
+Bemerkung erlaubt
+E	x	x	x	x
+R	x	x	x	x.
+G	O	x	x	x
+B	x	N.	x.	x
+x	x	W	3	W
+
+
+Bemerkung glaubt
+E	x	x	x	x
+R	x	x	x	x.
+x	O	x	x	x
+B	x	N.	x.	x
+E	R	W	3	W
+
+Bemerkung glaubt erobern
+x	x	x	x	x
+x	x	x	x	x.
+x	x	x	x	x
+x	x	x.	x.	x
+x	x	W	3	W
+
+https://what3words.com/glaubt.erobern.bemerkung
