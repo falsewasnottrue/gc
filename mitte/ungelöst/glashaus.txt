@@ -1,0 +1,82 @@
+https://www.geocaching.com/geocache/GC25VW7_wer-im-glashaus-sitzt-oder-bitte-nicht-futtern
+
+Es gibt eine deutsche Fußballmannschaft, die als Aufsteiger aus der 2. Liga im darauf folgenden Jahr Deutscher Meister wurde. Nenne mir von einem dieser Meister-Spieler, der selbst von 1995 bis 2003 für diesen Verein 220 Spiele absolvierte und dabei 23 Tore schoss, das Geburtsjahr.
+ 
+- A -
+Quersumme des Geburtsjahres
+Wenn Einwohner der gesuchten Region von ihrer Heimat (in Mundart) sprechen, dann lassen sie einen Buchstaben weg.
+
+- B -
+Stelle des weggelassenen Buchstabens innerhalb des Alphabets
+Um die Sicherheit zu gewährleisten wandle die (klein geschriebene) Region in einen Hash-Wert in der 5ten Generation um. Das Ergebnis sind 32 Zeichen! 
+Nutze davon die 3./ 4./ 5./ 6./ 8./ 10./ 12./ 13./ 14./ 16./ 17./ 19./ 20./ 22./ 24./ 26./ 27./ 29./ 31. Stelle und bilde die (nicht iterierte!) Quersumme!
+
+- C -
+Quersumme der ganzen Stellen
+Leidenschaftlich gern wandert unser Kollege durch die Alpen. Dabei hat er schon so manchen Berg bestiegen. Hierzu unsere nächste Aufgabe.
+In den Alpen gibt es insgesamt 82 Viertausender (von der Alpinismusvereinigung UIAA offiziell definiert). Auf dem Territorium von wie vielen europäischen Ländern befinden sich diese Berge?
+
+- D -
+Anzahl der Länder
+Innerhalb der gesuchten Region befindet sich die größte noch erhaltene romanische Kirche. In welchem Jahr wurde sie in die Liste des UNO-Weltkulturerbes aufgenommen?
+
+- E -
+Jahr
+Wie wir anfangs bereits schrieben, ist der Weinanbau in der gesuchten Region ein wichtiger Wirtschaftszweig. Zur Repräsentation des jeweiligen Weinanbaugebietes wird auch hier alljährlich eine Weinkönigin gewählt. Eine einzige dieser Weinköniginnen wurde im gleichen Jahr auch „Deutsche Weinkönigin“. Nenne uns das Geburtsjahr dieser Weinkönigin.
+
+- F -
+Geburtsjahr
+Zur Berrechnung
+Wenn ihr die einzelnen Infos zusammengesammelt habt, dann erfolgt nun die Rechnerei, damit ihr zu der ersten Koordinate findet, die Euch dann zum Final lenken wird.
+
+H (2-stellig) = D*10
+I (3-stellig) = (E-F)*10-40+D
+
+J (2-stellig) = A
+K (3-stellig) =	B*C+((A-1)*4-2)
+
+die Koordinaten der 1sten Station sind also:
+
+N 52° H.I
+E 013° J.K
+
+
+--- Lösung
+
+1. FC Kaiserlautern
+aufgestiegen/Meister in 1997/1998
+Harry Koch https://de.wikipedia.org/wiki/Harry_Koch_(Fu%C3%9Fballspieler,_1969)
+geboren 1969 -> A = 25
+
+pfalz -> palz, weggelassen f -> b = 6
+
+pfalz - md5 -> ba9688c1c7a449b52e16f1c9d71b3c9d
+3./ 4./ 5./ 6./ 8./ 10./ 12./ 13./ 14./ 16./ 17./ 19./ 20./ 22./ 24./ 26./ 27./ 29./ 31.
+9   6   8   8   1   7    4    4    9    5    2    1    6    1    9    7    1    3    9
+Summe: 100
+
+https://de.wikipedia.org/wiki/Liste_der_Viertausender_in_den_Alpen
+Frankreich, Italien, Schweiz -> 3
+
+Speyrer Dom -> 1981
+
+https://de.wikipedia.org/wiki/Pf%C3%A4lzische_Weink%C3%B6nigin
+https://de.wikipedia.org/wiki/Elisabeth_Kuhn -> 1930
+
+
+A = 25
+B = 6
+C = 100
+D = 3
+E = 1981
+F = 1930
+
+---
+
+H = D * 10 = 30
+I = (E-F)*10-40+D = (1981-1930)*10-40+3 = 510-40+3 = 473
+
+J = A = 25
+K = B*C+((A-1)*4-2) = 6*100+((25-1)*4-2) = 600+(24*4-2) = 694
+
+52 30.473 013 25.694

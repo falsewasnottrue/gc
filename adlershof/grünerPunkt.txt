@@ -1,0 +1,12 @@
+https://www.geocaching.com/geocache/GC6RR8G_gruner-punkt
+
+N 52° 27.BAC'
+O 013° 33.BAB'
+
+https://de.wikipedia.org/wiki/Gr%C3%BCner_Punkt_(Deutschland)
+
+21 = PAP = 33 -> 6
+06 = PS  = 35 -> 8
+40 = FE  = 11 -> 2
+
+52 27.862 13 33.868
