@@ -1,0 +1,52 @@
+https://www.geocaching.com/geocache/GC3T89P_papier
+
+A= Wieviel g/m² wiegt ein handelsübliches Blatt Schreibpapier?
+B= Wie oft kann man ein handelsübliches A4 Blatt in der Mitte zusammenfalten?
+C= Welche Höhe in cm hat der Stabilisator bei dem Papierflieger "Eisvogel"? (nach oben zeigend)(keine Kommazahl)
+D= Wieviel Papiersorten gibt es in etwa?
+E= Wann wurde das Verfahren zur Wiederverwertung von Altpapier erfunden? (Jahreszahl JJJJ)
+F= Wieviel Kilogramm Papier/Pappe hat jeder deutsche Bürger im Jahr 2010 verbraucht? (Kommazahl auf ganze Kilo aufrunden)
+G= Wieviel Buch hat ein Ries?
+H= Welches Papierformat haben Spielkarten? (Nur die Zahl)
+I= Welche Recyclingnummer hat Papier?
+
+Die Dose liegt bei:
+
+N52° E*C²-D*B+I*A*H-F-458*G-8
+E13° (D+E)*G-F*I-59887
+
+--- Lösung
+
+A = 80
+B = 7
+C = 
+D = 3000
+E = 1775
+F = 243
+G = 20
+H = 8
+I = 22
+
+
+E*C² - D*B + I*A*H - F - 458*G - 8
+c2*1775 - 300*7 + 22*80*8 - 243 - 458*20 - 8
+c2*1775 - 2100 + 14080 - 254 - 9160 - 8
+c2*1775 + 2558
+
+c 	res
+1   4333
+2	9658
+3	18533
+4	30958
+5
+6
+7
+8
+9
+
+(D+E)*G-F*I-59887
+(3000+1775)*20 - 243*22 - 59887
+95500 - 5346 - 59887
+30267
+
+52 30.958 13 30.267

@@ -1,0 +1,39 @@
+https://www.geocaching.com/geocache/GC3FV2Y_tierparkknobelei
+
+Im Schlangenhaus zählten wir bei unserem Besuch 46 Köpfe und 84 Beine. Es waren ausschließlich gesunde Schlangen, Schildkröten und Menschen anwesend. Außerdem tummelten sich hier fünfmal so viele Menschen wie Schildkröten. Natürlich wißt Ihr längst, wie viele verschiedene Lebewesen sich hier befanden, nicht wahr?
+
+Das war's schon. Ach so, die erwähnte Dose verbirgt sich bei
+N 52° 30.[S x (M + 2) + K]
+E 13° 32.[K x M + 6 x S], wobei
+S = Anzahl der Schlangen,
+K = Anzahl der Schildkröten und
+M = Anzahl der Menschen.
+
+--- Lösung
+
+I) 		S + M + K = 46
+II)		2M + 4S = 84
+III)	5S = M
+
+5*II - 4*III
+		10M + 20S - (20S) = 5*84 - 4*M
+		14M = 420
+		M  = 30
+
+		S = 30/5 = 6
+
+		K = 46 - S - M = 46 - 6 - 30 = 10
+
+
+30 Menschen
+6 Schildkröten
+10 Schlangen
+
+S = 10
+K = 6
+M = 30
+
+N 52° 30.[S x (M + 2) + K] = 52 30.[10 * (30+2) + 6] = 52 30.326
+E 13° 32.[K x M + 6 x S] = 13 32.[6 * 30 + 6*10] = 13 32.240
+
+52 30.326 13 32.240
