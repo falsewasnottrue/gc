@@ -1,0 +1,53 @@
+https://www.geocaching.com/geocache/GCHM6P_der-bischof
+
+Der erste Teil der Aufgabe:
+Der Pfarrer und der Kirchendiener stehen am Altar. Der Kirchendiener poliert gerade den Weinkelch, als sich das Portal öffnet und drei Personen, von denen man nur die Silhouetten erkennen kann, die Kirche betreten. Der Pfarrer, der die Drei kennt, sagt zum Kirchendiener: "Wenn Du das Alter der Drei addierst, ergibt sich Dein Alter, wenn Du es multiplizierst ergibt sich 2450. Sage mir, wie alt ist jeder von den Dreien."
+Der Kirchendiener - ein intelligenter Mann - grübelt eine Nacht lang und sagt am nächsten Morgen zum Pfarrer: "Herr Pfarrer, die Aufgabe kann ich nicht lösen."
+Der Pfarrer sagt schmunzelnd: "So, so. Dann sag' ich Dir noch, dass unser Herr Bischof älter ist als jeder von den Dreien. Nun kannst Du sie lösen."
+Wie alt ist der Bischof ???
+
+Der zweite Teil der Aufgabe:
+Im Kopf sind nur die Gradzahlen der Koordinaten richtig angegeben. Die Minuten sind wie folgt zu berechnen und zu ersetzen:
+für N: Das Alter der älteren Person vermindert um die Summe des Alters der beiden anderen Personen wird mit dem Alter des Kirchendieners multipliziert. Zu diesem Ergebnis wird das doppelte Alter der jüngsten Person addiert und das Ganze durch 100 geteilt.
+für E: Das Alter des Kirchendieners vermindert um die Summe des Alters der beiden jüngeren Personen wird mit dem Alter der älteren Person multipliziert. Von diesem Ergebnis wird das Alter des Bischofs und das doppelte Alter der jüngsten Person subtrahiert und das Ganze durch 100 geteilt.
+
+s = o + m + y
+o * m * y = 2450
+b > o, b > m, b > y
+
+N = 52 ° [(O - M - Y) * S + 2*Y]’ / 100 and E = 013 ° [(S - M - Y) * O - B – 2*Y]’ / 100
+
+2450 =
+2 * 1225 =
+2 * 5 * 245 = 
+2 * 5 * 5 * 49 = 
+2 * 5 * 5 * 7 * 7
+
+2, 5, 5*7*7		2,5,245		252
+2, 5*5, 7*7		2,25,49		76
+2, 5*7, 5*7		2,35,35		72
+2, 7, 5*5*7		2,7,175		184
+5, 2*5, 7*7		5,10,49		64
+5, 2*7, 5*7		5,14,35		54
+5, 5, 2*7*7		5,5,98		108
+5, 7, 2*5*7		5,7,70		82
+7, 2*5, 5*7		7,10,35		52
+7, 2*7, 5*5		7,14,25		46
+7, 7, 2*5*5		7,7,50		64
+
+5, 2*5, 7*7		5,10,49		64
+7, 7, 2*5*5		7,7,50		64
+
+o = 49
+m = 10
+y = 5
+b = 50
+s = 64
+
+N = 52 ° [(O - M - Y) * S + 2*Y]’ / 100
+E = 013 ° [(S - M - Y) * O - B – 2*Y]’ / 100
+
+N = 52 ° [(49-10-5) * 64 + 2*5]’ / 100
+E = 013 ° [(64-10-5) * 49 - 50 – 2*5]’ / 100
+
+52 21.860 013 23.410
