@@ -1,0 +1,67 @@
+https://www.geocaching.com/geocache/GC7WCHM_lieber-bandsalat-als-januscht-zu-essen
+
+A: Ist Punk tot? - Höchste Chartplatzierung (UK) plus Anzahl der Wochen
+
+B: Ich bin nicht faul. Ich bin verliebt - Der Sänger wurde am 1. Januar geboren. Aber in welchem Jahr? Die Quersumme der letzten beiden Ziffern (19??)
+
+C: Glückwünsche an die Queen - Erscheinungsjahr der ersten Single (19??)
+
+D: Reisetipps für Asien - Es gibt ein Lied der Band, welches nur einmal live aufgeführt wurde. An welchem Datum wurde das Lied aufgeführt? (??/Monat/Jahr)
+
+E: Eine schmerzhafte Begegnung mit einer Dampfwalze - Buchstabenwortwert des echten Vornamens des Sängers (zweistellig)
+
+F: Schulden sie uns ein Leben? - Wie viele Jahre gab es die Band?
+
+N52 A.B C E013 D.EF
+
+--- Lösung
+
+A: The exploited - Punks not dead
+   https://de.wikipedia.org/wiki/The_Exploited
+   Platz 17, 12 Wochen -> 29
+
+B: Descendents - Nothing with you
+   https://en.wikipedia.org/wiki/Descendents
+   https://en.wikipedia.org/wiki/Milo_Aukerman: 1.1.1963
+
+C: Sex pistols - God save the queen
+   https://de.wikipedia.org/wiki/Sex_Pistols
+   Anarchy in the UK -> 1976
+
+D: Dead kennedys - Holiday in cambodia
+   https://de.wikipedia.org/wiki/Holiday_in_Cambodia
+   https://de.wikipedia.org/wiki/Give_Me_Convenience_or_Give_Me_Death
+   25.3.1980
+
+E: The adicts - my baby got run over by a steamroller
+   https://en.wikipedia.org/wiki/The_Adicts
+   Keith "Monkey" Warren -> 53
+
+F: Crass - Do they owe us a living
+   https://de.wikipedia.org/wiki/Crass
+   1977 - 1984 -> 7 oder 8
+
+A = 29
+B = 9
+C = 76
+D = 25
+E = 53
+F = 7 (oder 8)
+
+N52 A.B C E013 D.EF
+
+N52 29.976 E013 25.537
+	
+N 52°29.976  E 013°25.537
+Koordinaten herunterladen: GPX (Final + Children), GPX->gsak (Final als Child + Children), LOC oder an GPS senden (nur final)
+
+Herzlichen Glückwunsch, du hast es geschafft! Vielen Dank, dass du Ordnung ins Chaos gebracht hast!
+
+Du brauchst kein Privatgrundstück zu betreten. Der Cache ist vom Fußgängerweg aus zu heben. Koordinaten können an dieser Stelle, wie immer in einem sehr urbanen Umfeld, springen. Es muss auch nicht geklettert werden oder sonstiges.
+
+Die Koordinaten führen euch zu einem der bekanntesten und legendärsten Schallplattenladen Berlins: dem CORETEX. 
+Seit 1988 gibt es den Laden schon und feiert in diesem Jahr nun sein 30-jähriges Bestehen! 
+Neben seiner markanten Außengestaltung ist das Coretex vor allem für seine riesige Auswahl an Platten, CDs aus Punk und Hardcore, aber auch für das weltweit bekannte KRZBRG-Merch berühmt. Coretex ist nicht nur für jeden Punk oder Hardcore-Liebhaber eine Pflicht. Auch Touristen trauen sich nach kurzem Bedenken in den Laden, um Kreuzberg auf eine neue Art kennenzulernen und bei gutem Wetter mit einem Bier auf der Bank vor'm Laden zu sitzen. 
+Für uns ist das Coretex mehr als ein Laden, es ist auch ein Teil unserer Heimat - haben wir beide von TapeOrDie hier gearbeitet und Freunde für's Leben gefunden. Und vielleicht treffen wir uns mal auf der Bank davor und beobachten das rege Treiben auf der O-Strasse ;)
+
+Foto: Coretex/Facebook
