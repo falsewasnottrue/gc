@@ -1,0 +1,41 @@
+// IMPORT LIBRARY PACKAGES NEEDED BY YOUR PROGRAM
+// SOME CLASSES WITHIN A PACKAGE MAY BE RESTRICTED
+// DEFINE ANY CLASS AND METHOD NEEDED
+import java.util.List;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Locale;
+import java.util.stream.Collectors;
+
+
+// CLASS BEGINS, THIS CLASS IS REQUIRED
+public class Solution
+{        
+    // METHOD SIGNATURE BEGINS, THIS METHOD IS REQUIRED
+    List<List<String> > threeProductSuggestions(int numProducts, 
+                                                List<String> repository, 
+                                                String customerQuery)
+    {
+        final List<List<String>> result = new ArrayList<List<String>>();
+        if (repository != null && customerQuery != null && customerQuery.length() >= 2) {
+            for (int len=2; len<=customerQuery.length(); len++) {
+                final String prefix = customerQuery.substring(0, len);
+                result.add(find(repository, prefix));                
+            }
+        }
+        return result;
+    }
+    
+    private List<String> find(List<String> repository, String prefix) {
+        final List<String> result = new ArrayList<String>();
+        for (String item: repository) {
+            if (item.toLowerCase().startsWith(prefix.toLowerCase())) {
+                result.add(item);
+            }
+        }
+        
+        Collections.sort(result, String.CASE_INSENSITIVE_ORDER);
+        return result.subList(0, Math.min(result.size(), 3));
+    }
+    // METHOD SIGNATURE ENDS
+}

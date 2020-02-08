@@ -1,0 +1,73 @@
+// IMPORT LIBRARY PACKAGES NEEDED BY YOUR PROGRAM
+// SOME CLASSES WITHIN A PACKAGE MAY BE RESTRICTED
+// DEFINE ANY CLASS AND METHOD NEEDED
+import java.util.List;
+import java.util.ArrayList;
+
+// CLASS BEGINS, THIS CLASS IS REQUIRED
+public class Solution
+{        
+    // METHOD SIGNATURE BEGINS, THIS METHOD IS REQUIRED
+    int minimumHours(int rows, int columns, List<List<Integer> > grid)
+    {
+        if (rows == 0 || columns == 0 || !contains(grid, 1)) {
+            return Integer.MAX_VALUE;
+        }
+        
+        // Fills in the grid with Ones according to the adjacency rules
+        // When the grid contains no more Zeros, the number of steps is returned
+        Integer steps = 0;
+        while (contains(grid, 0)) {
+            grid = update(grid, rows, columns);
+            steps++;
+        }
+        return steps;
+    }
+    
+    // Completes a single cycle of propagation according to the adjacent rules
+    private List<List<Integer>> update(List<List<Integer>> gridBefore, int rows, int columns) {
+        final List<List<Integer>> gridAfter = new ArrayList<List<Integer>>();
+        
+        for (int row = 0; row < rows; row++) {
+            final List<Integer> newRow = new ArrayList<Integer>();
+            for (int col = 0; col < columns; col++) {
+                if (adjacentOne(gridBefore, row, col, rows, columns)) {
+                    newRow.add(1);
+                } else {
+                    newRow.add(gridBefore.get(row).get(col));
+                }
+            }
+            gridAfter.add(newRow);
+        }
+        
+        return gridAfter;
+    }
+    
+    // Tests for a single cell (identified by row and column index) if it
+    // has an adjacent cell with a value of 1
+    private boolean adjacentOne(List<List<Integer>> grid, int row, int col, int rows, int columns) {
+        // check adjent cells (cells outside the grid are considered to have the value 0)
+        int above = row-1 < 0 ? 0 : grid.get(row-1).get(col);
+        int below = row+1 >= rows ? 0 : grid.get(row+1).get(col);
+        int left = col-1 < 0 ? 0 : grid.get(row).get(col-1);
+        int right = col+1 >= columns ? 0 : grid.get(row).get(col+1);
+        
+        return above == 1 || below == 1 || left == 1 || right == 1; 
+    }
+    
+    // Tests if there are cells in the grid with the specified value
+    private boolean contains(List<List<Integer> > grid, int value) {
+        for (final List<Integer> row : grid) {
+            for (final Integer cell : row) {
+                if (cell == value) {
+                    // cell with value found, so return true
+                    return true;
+                }
+            }
+        }
+        
+        // no cell with value found, return false
+        return false;
+    }
+    // METHOD SIGNATURE ENDS
+}

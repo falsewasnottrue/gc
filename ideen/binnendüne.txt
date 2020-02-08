@@ -1,0 +1,19 @@
+"Auf dieser kleinen Binnendüne stockt ein lichter Kiefernbestand" weiß die Informationstafel an den Startkoordinaten poetisch zu berichten.
+
+Die Binnendüne selbst aber ist ein geschütztes Biotop und darf nicht betreten werden!
+
+Drumherumspazieren, Betrachten und Daranerfreuen ist dagegen vollkommen in Ordnung.
+Weniger bekannt ist, dass man mit Dünen außerdem gut rechnen kann.
+
+Mathematisch betrachtet ist eine Düne ein Sandhaufen, näherungsweise durch eine Matrix von Sandkörnern zu beschreiben:
+...
+
+Addieren einer Düne entspricht jetzt einfach dem Draufkippen des Sandes von der einen auf die andere Düne, also der komponentenweisen Addition:
+...
+
+Wenn aber zuviele Sandkörner auf einer Stelle liegen, dann rieseln diese Sandkörner auf die angrenzenden Felder runter, solange bis überall weniger als 10 Sandkörner liegen. Sand der an der Seite der Düne runterrieselt geht dabei verloren und interessiert für die weitere Rechnung nicht mehr.
+...
+
+Das Dünenskalarprodukt ist rekursiv definiert: 1 * D = D, n * D = D + (n-1) * D für n > 1
+
+Mit wenigen weiteren Einschränkungen ergibt die Dünenaddition eine algebraische Gruppe mit Null-Düne und inversen Dünen, aber das ist jetzt nicht so interessant.

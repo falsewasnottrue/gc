@@ -1,0 +1,56 @@
+Während am S-Bahnhof langsam aber stetig gebaut wird, tut sich am _U-Bahnhof Karlshorst_ schon seit langem nichts mehr.
+
+Zuletzt in den Siebzigern wurde das Gleichrichter-Unterwerk an den Startkoordinaten errichtet.
+Dieses ist ziemlich großzügig bemessen, weil man dabei schon ausreichende Kapazität vorgesehen hat für die bald anstehende Verlängerung der Linie E (U5) vom Tierpark durch die Treskowallee bzw. Hermann-Duncker-Straße nach Karlshorst und später irgendwie nach Schöneweide und Johannisthal.
+
+Aber die Pläne haben sich geändert: die U5 biegt heute am Tierpark nach Hellersdorf ab, wofür beim Bau sogar ein Stück
+fertiger Tunnel unter der Treskowallee wieder abgebrochen wurde.
+
+An den angegebenen Koordinaten findet ihr nicht den Cache, aber die benötigten Information zum Finden:
+Gesucht wird die Nummer des Werks: "Gleichrichterwerk x Ehrlichstraße" sowie die Durchwahl zur TLO "y-30 z"
+
+Nun seien
+α = der größte Primfaktor von x - 13,383
+d = y + z - 19
+
+Peilt von den Startkoordinaten d Meter in einem Winkel von α Grad.
+
+Dort findet ihr ein mysteriöses Tunnelbauwerk, das vielleicht mit den U-Bahn-Plänen zusammenhängt
+(wahrscheinlich aber wohl eher nicht ;-)
+
+Ganz aufgeben sollte man die Hoffnung übrigens noch nicht: am Bahnhof Tierpark ist der Bau eines weiteren Bahnsteigs für eine Linie unter dem Zug Rhinstraße/Treskowallee bautechnisch vorbereitet.
+
+---
+
+Start N52 28.815 E013 31.575
+Final N52 28.662 E013 32.148
+
+Die Entfernung zwischen N52 28.815 E013 31.575 und N52 28.662 E013 32.148 beträgt 708,18 Meter.
+Der Richtungswinkel von N52 28.815 E013 31.575 zu N52 28.662 E013 32.148 beträgt 113,617 Grad.
+
+---
+
+Distanz  m
+Winkel Y Grad
+
+---
+
+Gleichrichterwerk 508		 A = 508 = 2 * 2 * 127
+TLO 256-30 471
+Vattenfall Ü-21930
+
+Seit wann heißt die U5 U5? 1.Juli 1990 ->  Sonntag 90
+Tierpark eröffnet 25. Juni 1973			-> Montag -> BW C = 70 
+
+744 = 2 * 2 * 2 * 3 * 31
+
+Der Fahrstrom der U-Bahn-Züge hat eine Nennspannung von 750 V (Gleichspannung)
+
+
+----
+
+Hier stimmt das Gesamtpaket: eine informative Hintergrundgeschichte, eine Aufgabe die vor Ort
+erledigt werden kann mit einem spannenden Finalort und ein witziger Hinweis (den man aber zum
+Finden des Caches gar nicht benötigt). Alles sehr schön gemacht! Vielen Dank an falsewasnottrue
+für den tollen neuen Cache! Dafür lasse ich natürlich ein blaues Schleifchen da.
+
