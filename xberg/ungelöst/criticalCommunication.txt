@@ -1,0 +1,106 @@
+https://www.geocaching.com/geocache/GC417RX_critical-communication-cache
+
+1. In Deutschland ist die BDBOS für das Digitale BOS Funknetz verantwortlich. A entspricht dem Buchstabenwert (A=1, B=2, ..) des Buchstabens der doppelt hintereinander in der Hausanschrift vorkommt.
+ 
+2. Wie in den Mobilfunknetzen wird auch das BOS Netz durch einen Netzbetreiber betrieben. Dieser hat dafür eine eigene Firma geschaffen. B ist die Anzahl der Zeichen des vollen Namens (ohne Leerzeichen und Bindestriche) des Netzbetreibers (5 Teile, die ersten beiden mit Bindestrich verbunden) und C entspricht der Quersumme der Jahreszahl indem der Vertrag unterzeichnet wurde. Tip: Die Adresse der Firma ist der aus Frage A sehr ähnlich.
+ 
+3. Analog zu den Mobilfunknetzen werden die einzelnen Teilnehmer über Telefonnummern angesprochen. Der Mobile Country Code (MCC) zusammen mit dem Mobile Network Code (MNC) dient zur Identifizierung eines Mobilfunknetzes. D ist der MCC für Deutschland.
+ 
+4. Die Tetra Subscriber Identity (TSI) setzt sich aus dem MCC+MNC+SSI zusammen. Die SSI entspricht der Teilnehmernummer. Aus wievielen Bits besteht die SSI (E)
+ 
+5. F entspricht dem Abstand in MHz zwischen der Uplink- und Downlink Frequenz (Duplexabstand).
+ 
+6. G ist die Summe der unteren Uplink sowie der oberen Downlink Frequenz in MHz.
+ 
+7. Im aktuellen TETRA-Netz für die BOS in Deutschland wird im Vergleich zum GSM-Mobilfunknetz eine andere Kanalbandbreite benutzt. Wie viele TETRA-Kanäle würden theoretisch in die Bandbreite eines GSM-Kanals passen. Die Anzahl ist H.
+ 
+8. Die Luftschnittstelle zwischen Endgerät und Basisstation wird mit einem DCK (Derived Cipher Key) verschlüsselt. I entspricht der somit verwendeten Sicherheitsklasse im Trunked Modus.
+ 
+9. Für die Verschlüssellung gibt es verschiedene Verschlüsselungsalgorithmen. J entspricht der Nummer des TEA der für das BOSNET verwendet wird.
+ 
+10. Zusätzlich zur Verschlüsselung der Luftschnittstelle, wurde vom BSI ein weitere Methode entwickelt um die Übertragungssicherheit zu erhöhen. 
+    iese Aufgabe wird von dem gleichen Modul übernommen, welches auch die Rufnummer des Teilnehmers enthält.
+    Gesucht ist die Zeichenanzahl K (inkl. der 2 Bindestriche zwischen den 3 Wortteilen) des vollständigen deutschen Namens dieses Moduls. Tip: Der Name steht drauf.
+ 
+11. In einem TETRA-Kanal werden bis zu vier Zeitschlitze zur Übertragung von Sprache benutzt. Hierzu wird die Sprache im BOSNET mit einem verlustbehafteten Codec komprimiert. Die Buchstabensumme (A=1, B=2, ..) der Abkürzung dieses Codec ist L.
+
+N 52 (K+1) .(G+D-B+H-1)
+E 13 (J)(I).(A*C*F+E*K-4*L+I+J)
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/Digitalfunk_der_Beh%C3%B6rden_und_Organisationen_mit_Sicherheitsaufgaben
+
+1. Fehrbelliner Platz 3 -> L
+   A = 12
+
+2. https://de.wikipedia.org/wiki/Alcatel-Lucent
+   https://de.wikipedia.org/wiki/Alcatel-Lucent_Deutschland
+   Alcatel-Lucent Digitalfunk Betriebsgesellschaft mbH
+   B = 47
+   2010
+   C = 3
+
+3. https://de.wikipedia.org/wiki/Mobile_Country_Code#2_%E2%80%93_Europa
+   D = 262
+
+4. https://de.wikipedia.org/wiki/Terrestrial_Trunked_Radio#Adressierung_der_Endger%C3%A4te
+   E = 24
+
+5. F = 10
+
+6. Deutschland: 380–385 MHz (Uplink), 390–395 MHz (Downlink). BOS-Funk
+   G = 380 + 395 = 775
+
+7. Bandbreite tetranetz: Der Abstand zwischen den einzelnen Trägerfrequenzen beträgt 25 kHz. Daraus ergeben sich bei einer Bandbreite von 5 MHz 200 Trägerfrequenzen
+   Bandbreite GSM-Kanal: Das GSM-Frequenzband wird in mehrere Kanäle unterteilt, die einen Abstand von 200 kHz haben
+   H = 200 / 25 = 8
+
+8. https://de.wikipedia.org/wiki/Terrestrial_Trunked_Radio#Sicherheit
+   Class 3
+   I = 3
+
+9. https://de.wikipedia.org/wiki/Digitalfunk_der_Beh%C3%B6rden_und_Organisationen_mit_Sicherheitsaufgaben#%C3%9Cbertragungssicherheit
+   TEA-2
+   J = 2
+
+10. https://upload.wikimedia.org/wikipedia/commons/6/65/Bsi_karte_1.jpg
+    Verschlüsselung-Netzzugang-Datenspeicherung
+    K = 43
+
+26?
+11. https://de.wikipedia.org/wiki/Terrestrial_Trunked_Radio#Technik
+	ACELP-Codec
+	L = 37
+
+---
+
+A = 12
+B = 47
+C = 3
+D = 262
+E = 24
+F = 10
+G = 775
+H = 8
+I = 3
+J = 2
+K = 43
+L = 37
+
+N 52° 29.900 E 013° 23.900
+
+N 52 (K+1) .(G+D-B+H-1)
+E 13 (J)(I).(A*C*F+E*K-4*L+I+J)
+
+N 52 (K+3) .(G+D-B+H-3)
+E 13 23.(A*C*F+E*K-4*L+I+2)
+
+K muss 26 sein
+
+
+(G+D-B+H-1) = 775 + 262 - 47 + 8 - 3 = 995
+(A*C*F+E*K-4*L+I+J) = 12 * 3 * 10 + 24 * 25 - 4*37 + 3 + 2
+					= 360 + 600 - 148 + 5 = 817
+
+N 52 29.995 E 13 23.817					
