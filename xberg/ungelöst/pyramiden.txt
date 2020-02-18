@@ -1,0 +1,15 @@
+https://www.geocaching.com/geocache/GC74FRC_die-pyramiden-vom-treptower-park
+
+rot			ff0000		2
+weiß		ffffff		9
+
+orange		ff6600
+grün		008800
+lila		800080
+
+rot			ff0000		2
+lila		800080		7
+
+grün		008000
+gelb		ffff00
+blau		0000ff

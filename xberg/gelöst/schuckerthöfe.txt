@@ -1,0 +1,68 @@
+https://www.geocaching.com/geocache/GC4TBG8_schuckerthofe
+
+A1: Wann wurden die Schuckerthöfe erbaut?
+
+1896 = 1
+1906 = 2
+1916 = 3
+
+A2: Findet heraus, was hier vor dem zweiten Weltkrieg hergestellt wurde:
+
+Messinstrumente = 4
+Federkernmatratzen = 5
+Holzspielzeug = 6
+
+A3: Wie wurde das Gelände in der Nachkriegszeit bis zur Wende verwendet?
+
+Druckerei = 7
+Kunstausstellung = 8
+Knopfmanufaktur = 9
+
+A4: Was wird hier heutzutage hauptsächlich betrieben?
+
+Krankenhaus = 1
+Büros = 2
+Kino = 3
+
+A5: Welche von den ursprünglich gebauten Gebäuden existieren noch?
+
+Fabrikgebäude, Lagerhalle und Pförtnerhaus = 4
+Fabrikgebäude, Werkstatt und Sanitätstrakt = 5
+Verwaltungsgebäude, Fabrikhalle und Villa = 6
+
+A6: Was haben die Sarottihöfe in Kreuzberg, die Schuckerthöfe hier am Treptower Park
+sowie das Café Moskau in Berlin-Mitte gemeinsam?
+
+gleicher Architekt = 7
+gleicher Investor = 8
+gleiches Sanierungsjahr = 9
+
+Geb. B:
+N 52° 29.[A4][A3][A2-A1]
+E 13° 27.[A6-A1][A3][A6]
+
+Geb. E:
+N 52° 29.[A4][A1+A4][A1]
+E 13° 27.[A5][A2+A1][A2]
+
+Geb. F:
+N 52° 29.[A1][A3-A1][A6]
+E 13° 27.[A5+A1][A5][A3]
+
+--- Lösung
+
+A1: 1896 -> 1
+A2: Messinstrumente - > 4
+A3: Druckerei -> 7
+A4: BÜros -> 2
+A5: Verwaltungsgebäude, Fabrikhalle und Villa -> 6
+A6: gleicher Investor -> 8
+
+---
+
+A1 = 1
+A2 = 4
+A3 = 7
+A4 = 2
+A5 = 6
+A6 = 8
