@@ -1,0 +1,34 @@
+https://www.geocaching.com/geocache/GC7494J_pflanz-was-2
+
+Auf dem Gartengelände ist ein in Berlin sehr selten anzutreffender Baum gepflanzt - Ermittelt den Buchstabenwortwert des deutschen Namens = A
+
+Wie viele Buchstaben kommen im ersten Wort des lateinischen Namens doppelt vor? = B
+
+Aus wie vielen Buchstaben besteht der lateinische Name? = C
+
+Der Stadtgarten beherbergt ein Kunstobjekt eines amerikanischen Künstlers. Der Name steht aber auch für ein Lebensmittel, das nach dem "Erfinder" benannt ist.
+Wie lautet das Geburtsjahr dieses "Erfinders"? - vollständige, einstellige Quersumme = D
+
+Jetzt seid Ihr fast am Ziel - die Final-Koordinaten lauten
+
+N 52° 30.([4*A]-[6*B])-3
+
+E013° 25.([6*C]+[6*D])+7
+
+52 30.([4*A]-[6*B])-3 013 25.([6*C]+[6*D])+7
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/Tulpenbaum
+Liriodendron tulipifera
+https://de.wikipedia.org/wiki/Grahambrot 1794
+
+A = 125
+B = 5
+C = 22
+D = 3
+
+52 30.([4*A]-[6*B])-3 013 25.([6*C]+[6*D])+7
+52 30.4*125 - 6*5 - 3 013 25.6*22 + 6*3 + 7
+52 30.500 - 30 - 3 013 25.132 + 18 + 7
+52 30.467 013 25.157

@@ -1,0 +1,33 @@
+https://www.geocaching.com/geocache/GC2JCTB_historischer-arbeitsunfall
+
+--- Lösung
+
+https://www.gedenktafeln-in-berlin.de/nc/gedenktafeln/gedenktafel-anzeige/tid/arbeiter-samariter-b/
+
+Alte Jakobstraße 85
+29.November 1888
+02.10.1851
+19.02.1940
+Berlin 2004
+
+Mit den vierstelligen Zahlen berechnet ihr die Entfernung zum Final:
+[3 * (zweitgrößte - 2 * zweitkleinste + kleinste)] Meter
+
+Mit den offensichtlich zweistelligen Zahlen errechnet ihr die Richtung zum Final (true north):
+[2 * (zweitgrößte-drittgrößte) + kleinste] Grad
+
+Start: N 52° 30.627 E 013° 24.586
+
+--- 
+
+1851 1888 1940 2004
+[3 * (zweitgrößte - 2 * zweitkleinste + kleinste)] Meter
+[3 * (1940 - 2 * 1888 + 1851)] Meter
+45 Meter
+
+10 19 29 85
+[2 * (zweitgrößte-drittgrößte) + kleinste] Grad
+[2 * (29-19) + 10] Grad
+30 Grad
+
+Ziel: N52 30.648 E013 24.606
