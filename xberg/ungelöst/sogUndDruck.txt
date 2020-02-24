@@ -1,0 +1,12 @@
+https://www.geocaching.com/geocache/GC1P7P7_sog-und-druck
+
+Start: N 52° 29.696 E 013° 24.657
+
+ZZZ ZZZ ZZZ
+A = 13
+
+N52 29.DEF E13 24.GHJ 
+N52 29.696-(A-4) E13 24.657 - (A*7)+4 
+N52 29.696-9 E13 24.657 - 95
+
+Station 1: N52 29.687 E13 24.562
