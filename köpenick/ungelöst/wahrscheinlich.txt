@@ -1,0 +1,24 @@
+https://www.geocaching.com/geocache/GC70EEF_wahrscheinlich
+
+f(x)=(1-x)e^(2-x) [e^(2-x) bedetutet e 'hoch' (2-x)]
+Welche Fläche wird vom Graph f mit der x-Achse über dem Intervall [0; 'Nullstelle'] eingeschlossen? (auf 2 Nachkommastellen runden)
+a = Ergebnis multipliziert mit 100
+
+Wahrscheinlichkeit:
+
+N52°25,xxx, E013°35.yyy ist bekannt. Wie groß ist die Wahrscheinlichkeit beim ersten Versuch die gesuchten Koordinaten (xxx und yyy) zu erraten?
+b = Ergebnis multipliziert mit 1.000.000
+
+Nehmen wir an, 45% der arbeitenden Berliner fahren mit der Bahn zur Arbeit. Die anderen verwenden das Auto oder Fahrrad. 54% der Arbeiter in Berlin sind Männer. Jeder zweite Mann fährt mit der Bahn zu Arbeit.
+Wie viele Frauen fahren in Berlin mit der Bahn zur Arbeit, wenn es 3.000.000 Arbeiter in Berlin gibt?
+c = Ergebnis multipliziert mit 0,0001
+
+Du hast auf Deiner heutigen Tour 8 Dosen gefunden. Allerdings hast Du blöderweise die Reihenfolge vergessen. Wie viele Möglichkeiten gibt es, die 8 Caches einzutragen?
+d = Ergebnis multipliziert mit 0,1
+
+Auf einem Spaziergang triffst Du 50 Personen. Wie groß ist die Wahrscheinlichkeit, dass Du genau 20 Personen triffst, die mit dem Fahrrad unterwegs sind. Die Wahrscheinlichkeit dafür, das eine Person mit dem Fahrrad unterwegs ist betägt 0,5. (auf drei nachkommastellen runden)
+e = Ergebnis multipliziert mit 1000
+
+---
+
+d = 8! * 0,1 = 40320 * 0,1 = 4032
