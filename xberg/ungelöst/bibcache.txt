@@ -1,0 +1,41 @@
+https://www.geocaching.com/geocache/GC4ZMWP_bibcache
+
+Wie viele weiße Sterne sind im Fensterbogen?
+
+Quersumme von ___=H
+
+Welche Nummer hat die Medienkiste "Sprachförderung"?
+
+Quersumme von ___=J
+
+Welcher § in den Benutzungsbedingungen bezieht sich auf die Haftung?   
+
+K=___
+
+Wie viele Lampen gibt es im Besucherbereich?
+
+L=___
+
+Wie viele Bücher schrieb Else Ury? (siehe Infotafel)
+
+Quersumme von ___=M
+
+In wie vielen Sprachen steht "Willkommen in unserer Bibliothek" auf dem Banner bei der Garderobe?
+
+Quersumme von ___=N
+
+Rechne zunächst L - M + N = O. Setze nun die Zahlen in die ISBN-Nr. K-OHJK-NNNN-N ein
+
+--- Lösung
+
+H = QS(51) = 6
+J = QS(122) = 5
+K = 3
+L = 6 + 11
+M = QS(38) = 11
+N = QS(10) = 1
+O = L-M+N = 17-11+1 = 7
+
+K-OHJK-NNNN-N
+3-7653-1111-1
+
