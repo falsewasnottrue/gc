@@ -1,0 +1,28 @@
+https://www.geocaching.com/geocache/GC78AF8_leichen-im-beton
+
+A Ein sehr bekannter Film wurde in Berlin u. a. auch hier im Krematorium gedreht. Der Name beginnt mit einem ungewöhnlichen Buchstaben. Wie ist der erweiterte Ascii-Code des grossen Buchstabens entsprechend der Codepage 850?
+
+S Anzahl der Säulen in der zentralen Säulenhalle?
+
+Das Final befindet sich bei:
+N 52 27. 1xA + 46xS - 851
+E 13 29. 2xA + 9xS + 122
+
+---
+
+https://de.wikipedia.org/wiki/Krematorium_Berlin-Baumschulenweg
+https://de.wikipedia.org/wiki/%C3%86on_Flux
+https://de.wikipedia.org/wiki/Codepage_850
+
+A = 146 (198?)
+S = 29
+
+N 52 27. 1xA + 46xS - 851 = 198 + 46*29 - 851  = 681
+E 13 29. 2xA + 9xS + 122  = 2*198 + 9*29 + 122 = 779
+
+N 52 27.681 E 013 29.779
+
+N 52 27. 1x146 + 46x29 - 851	= 629
+E 13 29. 2x146 + 9x29 + 122		= 675
+
+N 52 27.629 E 013 29.675

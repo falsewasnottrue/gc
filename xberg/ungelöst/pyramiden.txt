@@ -3,13 +3,15 @@ https://www.geocaching.com/geocache/GC74FRC_die-pyramiden-vom-treptower-park
 rot			ff0000		Red		2
 weiß		ffffff				9
 
-orange		ff6600
-grün		008800
-lila		800080
+orange		ff6600				3
+grün		008800				5
+lila		800080				7
 
 rot			ff0000		Red		2
 lila		800080		Purple	7
 
-grün		008000
-gelb		ffff00
-blau		0000ff
+grün		008000				5
+gelb		ffff00				4
+blau		0000ff				6
+
+52 29.357 13 27.546
