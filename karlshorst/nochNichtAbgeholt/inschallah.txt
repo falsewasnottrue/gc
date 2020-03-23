@@ -1,0 +1,32 @@
+https://www.geocaching.com/geocache/GC6D5AD_inschallah
+
+https://bilder.t-online.de/b/78/63/13/28/id_78631328/920/tid_da/islamische-gesichts-und-ganzkoerperschleier-.jpg
+
+Hidschab
+Al Amira
+Chimar
+Tschador
+Nikab
+Burka
+
+X=Summe aller Buchstabenwortwerte
+Y=Buchstabenwortwerte von Nummer 1 und 2
+Z=Quersumme des Buchstabenwortwertes der deutschen Redewendung ( [drei Worte] Cachetitel )
+
+1 = BW(HACTNB) = 48 (oder 339)
+2 = BW(Hidschab Al Amira) = 109
+3 = BW(SO GOTT WILL) = 152 = 8
+    BW(SO ALLAH WILL) = 124 = 7
+
+N 52° 28.3*X-61 E 13° 36.Y-Z
+
+N 52° 28.083 E 13° 36.109 - 8
+
+N 52° 28.956 E 13° 36.101
+
+Koordinate:
+N 52°28.956  E 013°36.101
+
+Herzlichen Glückwunsch !
+
+Besonderer Hinweis : Attribute beachten .... Telefon in der Nähe ...!!!????? 8-)
