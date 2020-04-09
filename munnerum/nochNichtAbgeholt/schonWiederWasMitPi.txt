@@ -1,0 +1,34 @@
+https://www.geocaching.com/geocache/GC4XH77_schon-wieder-was-mit-pi
+
+Als sie in AA Garten kamen, sagte AA : "Ach, meine Lieben, wie schade! Ich habe zwei so tolle Sachen gefunden, und ihr habt nichts bekommen: Ihr müsst noch ein bisschen weitersuchen. BB, warum guckst Du nicht in diesen alten Baum da? Alte Bäume sind gewöhnlich die allerbesten Stellen für einen CC."
+
+BB sagte, er glaube nicht, dass er und DD jemals etwas finden würden, aber um AA den Gefallen zu tun, steckte er die Hand in eine Vertiefung des EE.
+
+"Na, sowas!", sagte er ganz erstaunt und zog die Hand heraus. Und darin hielt er ein feines FF mit einem Lederdeckel. In einer Hülse steckte ein kleiner silberner Bleistift.
+
+....
+
+"Warum gehst du nicht zu dem alten GG und fasst da hinein? Man findet wirklich fast immer Sachen in alten GG." DD griff hinein und hatte beinahe sofort eine rote HH in der Hand.
+
+Ihr braucht die BWW von AA bis CC. (ohne Genitiv-S, alles im Singular). Bei DD bis HH braucht ihr vom BWW die Quersumme.
+
+Dann setzt es in die Formel ein :
+
+Nord BWW (AA) * BWW (BB) * BWW (CC) * 7 - 623
+Ost QS (DD) * QS (EE) * QS (FF) * QS (GG) * QS (HH) * 49 + 202
+
+--- Lösung
+
+AA = Pippi = 66
+BB = Tommy = 86
+CC = Sachensucher = 124
+DD = Annika = 50
+EE = Baumstamm = 103
+FF = Notizbuch = 118
+GG = Baumstumpf = 132
+HH = Korallenkette = 149
+
+Nord 66 * 86 * 124 * 7 - 623 = 4926145
+Ost 5 * 4 * 10 * 6 * 14 * 49 + 202 = 823402
+
+N 49 26.145 E008 23.402
