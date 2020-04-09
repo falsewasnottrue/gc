@@ -1,1 +1,24 @@
 https://www.geocaching.com/geocache/GC8AMPT_maudacher-schloss
+
+N 4A°B.C  E 8°DD.E
+
+A = Anzahl der Steinquader auf dem Schlossplatz
+
+B = 1. und 2. Ziffer des 4 stelligen Amtsanschlusses der Ortsvorsteherin
+
+C = Baujahr - 1456
+
+D = Anzahl der Äxte im Wappen
+
+E = Jahr der Zerstörung - 998
+
+--- Lösung
+
+A: 9
+B: 0621 504-2159
+   21
+C: 1787 - 1456 = 331
+D: 2
+E: 1945 - 998 = 947
+
+N 49°21.331  E 8°22.947

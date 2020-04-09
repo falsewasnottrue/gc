@@ -1,0 +1,11 @@
+https://www.geocaching.com/geocache/GC66W9M_
+
+Nutella, Ferrero
+
+A = BWW(Nutella) = 85
+B = BWW(Ferrero) = 85
+
+N = A x 57971 = 4927535
+E ist 008° 22 x A + 3 x A x B = 22 * 85 + 21675 = 23545
+
+49 27.525 008 23.545
