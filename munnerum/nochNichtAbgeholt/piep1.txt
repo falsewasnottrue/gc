@@ -1,0 +1,31 @@
+https://www.geocaching.com/geocache/GC57PT2_und-es-hat-pi-ep-gemacht
+
+Vor vielen Jahren hat es zum ersten Mal Piep gemacht, was wurde öffentlich getestet (erfunden wurde es ja schon früher; BWW=A, 7 Buchstaben) ?
+
+Die Erfindung wurde in einer bestimmten Stadt getestet (BWW/3=B, 4 Buchstaben) ?
+
+In welchem Monat wurde es zum ersten Mal ausprobiert (BWW=C, 4 Buchstaben), in welchem Jahr (D) ?
+
+Einer der beiden Erfinder verbesserte auch die Technik mit der man Musik in Aufzügen abspielen konnte (E=BWW des ersten Buchstabens seines Nachnamens) ?
+
+N 49 A*B*E+C+B
+E 008 E*A*18+D+274
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/Strichcode
+
+1. Barcode
+   -> A = BWW(Barcode) = 48
+2. Troy
+   -> B = BWW(Troy)/3 = 78/3 = 26
+3. 26. Juni 1974
+   C = BWW(Juni) = 54
+   D = 1974
+4. https://de.wikipedia.org/wiki/Norman_Joseph_Woodland
+   E = BWW(W) = 23
+
+N 49 A*B*E+C+B = 48*26*23 + 54 + 26 = 28784
+E 008 E*A*18+D+274 = 23*48*18 + 1974 + 274 = 22120
+
+N49 28.784 E008 22.120

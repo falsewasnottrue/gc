@@ -1,0 +1,39 @@
+https://www.geocaching.com/geocache/GC8BM7N_sturm-lagrange-chaptal-poisson-dumas
+
+Findet die eine "Beziehung", über die alle Begriffe aus dem Titel verknüpft sind. 
+
+In welcher Stadt ? BWW der Stadt = A, Anzahl der Buchstaben der Stadt = B, einstelliger BWW der Stadt = C.
+
+Name der Beziehung (laut deutscher Wikipedia, ohne Artikel) ? Anzahl der Buchstaben = D, einstelliger BWW der Beziehung = E
+
+Die Dose hängt bei :
+
+N E*E° 20+E.20*D
+
+E (C+E)/2° B+D+E.8*A+10*B
+
+--- Lösung
+
+Academie des sciences, Akademie der Wissenschaften
+Paris?
+
+https://de.wikipedia.org/wiki/Acad%C3%A9mie_des_sciences
+https://de.wikipedia.org/wiki/Liste_der_72_Namen_auf_dem_Eiffelturm
+https://de.wikipedia.org/wiki/Eiffelturm
+
+1. Paris
+   A = BWW(Paris) = 63
+   B = 5
+   C = 9
+2. Akademie der Wissenschaften
+   D = /AkademieWissenschaften/ = 22
+   E = 1BWW(AkademieWissenschaften) = 1(214) = 7
+2. Eiffelturm
+   D = /Eiffelturm/ = 10
+   E = 1BWW(Eiffelturm) = 1BWW(115) = 7
+
+N E*E° 20+E.20*D = 49 27.200
+E (C+E)/2° B+D+E.8*A+10*B = 8 22.554
+
+	
+(Academie: N49 27.440 E008 34.554)

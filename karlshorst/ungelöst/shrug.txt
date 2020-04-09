@@ -1,0 +1,11 @@
+https://www.geocaching.com/geocache/GC63WKT
+
+A = 9
+B = BBW(shrug) = 73
+C = BBW(schulterzucken) = 186
+
+N 52° 28.A*C +B +A*13
+E 13° 36.2*B + 42
+
+A*C + B + A*13 = 9 * C + 190
+2*B + 42 = 188

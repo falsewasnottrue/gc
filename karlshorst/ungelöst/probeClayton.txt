@@ -1,9 +1,4 @@
-https://www.geocaching.com/geocache/GC2ZZ6J_zuruck-in-die-zukunft-iii-die-claytonschlucht
-
-Zurück in die Zukunft Teil - III
-
-
-Wie schnell ( Miles) muss der DeLorian für den Zeitsprung fahren ? T =
+Wie schnell (Miles) muss der DeLorian für den Zeitsprung fahren ? T =
 
 Wie schnell (Meilen) läuft das schnellste Pferd ? (QS=8) P =
 
@@ -28,25 +23,15 @@ c) Spaceinvaders S=10
 
 Addiere die Zahlenwerte der Initialen des Doktors I=
 
-Starte an der "SHONASH RAVINE BRIDGE" !
-
-Bei den Koordinaten der Station findest Du eine schwarze Zahl (an der Brücke). Diese Zahl sei B.
-Die nächste Station erreichst Du bei
-
 N 52° 28.L-(B*I)-T+DD-(B*B) E 13° 32.(P*F)+S-(B*B)
 
---- Lösung
-
 T = 88
-P = 35 oder 40
+P = 24, 35, 40
 L = 131
 DD.MM.YYYY = 27.10.1985
 F = 16
 S = 10
-I = Emmett Brown = EB = 5+2 = 7
+I = 7
 B = 2
 
-35 -> 52 28.052 13 32.566
-40 -> N 52° 28.L-(B*I)-T+DD-(B*B) E 13° 32.(P*F)+S-(B*B)
-      N 52° 28.131-(2*7)-88+27-(2*2) E 13° 32.(40*16)+10-(2*2)
-      N 52° 28.052 E 13° 32.646
+Emmett Brown

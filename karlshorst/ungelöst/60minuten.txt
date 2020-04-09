@@ -1,0 +1,47 @@
+https://www.geocaching.com/geocache/GC3V40E_60-minuten-gute-laune
+
+A: Ich weiß, ich weiß ... die weißen sind für die heitere Musik, die schwarzen für die ___
+B: Aber wehe, Sie lassen mich vom ___ springen
+C: Sieh da, sieh da ___h!
+D: Am Montag lief er voller Lust, die Straße lang mit ___ Brust
+E: Was essen Sie sonntags am liebsten? ___!
+F: ___ du hast die Gans gestohlen? Dann muss meine Mutter das falsch gesungen haben
+
+N+88 E-47
+
+IATA UTM 37S 453204 4176143
+Engl UTM 32U 476700 5550848
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/Herricht_%26_Preil
+http://thr.gmxhome.de/hepr/
+
+A: Trauermärsche (Klavierkauf)
+B: Turm (Die Hypnose)
+C: Tomatenteo (Der Schauspieler)
+D: stolzer (Der Rollschuhläufer)
+E: Bleistift
+F: Pferd (Hoppegarten)
+
+A: 3BSW(Trauermärsche) -> 1
+B: Alt(BWW(Turm)) = Alt(72) -> 5
+C: IQS(BWW(Tomatenteo)) = IQS(128) -> 2
+   IQS(BWW(Tomate)) = IQS(74) -> 2
+   IQS(BWW(Tomatentheo)) = IQS(136) -> 1
+D: BWW(stolzer) = 115
+   1QS - QS =  7 - 7 = 0
+   BWW(Stolz) = 92
+   1QS - QS = 2 - 11 = -9
+E: QS(BWW(Bleistift)) = QS(102) = 3
+F: 3BWS(Pferd) -> 5
+
+ADF
+ECB
+
+105
+315
+
+52 29.105 13 30.315
+
+korrigiert: 52 29.193 13 30.268

@@ -23,9 +23,17 @@ ACDFHIKLSTUVWXYZ
 
 52 27.650 013 30.769
 
+52 27.302 013 30.411
+
 /10
 /10
 /1
 
 N52 28.626 E013 30.359
 N52 28.359 E013 30.626
+
+"Schicksale der Wissenschaften" -> 993
+"Erfindungen des Alltags"		-> 919
+
+52 27.SCH 13 30.IFF
+52 27.302 13 30.411
