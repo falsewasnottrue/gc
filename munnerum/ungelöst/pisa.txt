@@ -1,3 +1,15 @@
 https://www.geocaching.com/geocache/GC4X41X_schon-wieder-pi-sa
 
 Diesmal befahl der König von Pi sa, dass sich alle Einwohner der Stadt hinter ihn in eine Reihe stellen sollten. Dann bat er Einwohner 9141314 und Einwohner 25621800 zu sich. Diese brachten noch ihre Nachbarn flussabwärts mit und sie alle lebten glücklich und zufrieden im Maudacher Wasserschloss.
+
+Summe 5.749.057
+
+--- Lösung
+
+9141314
+256218
+
+5749057
+
+49..... 14131 43111
+08..... 25621 

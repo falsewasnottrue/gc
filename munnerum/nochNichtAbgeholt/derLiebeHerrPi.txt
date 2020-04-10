@@ -1,0 +1,37 @@
+https://www.geocaching.com/geocache/GC50BN1_ach-der-liebe-herr-pi
+
+Dieses Mal geht es um Hippeltitsch's Abenteuer. Ihr werdet sicher nicht lange suchen müssen, um wen es sich hier handelt. Trotzdem sind natürlich ein bisschen Recherche und ein paar Fragen Pflicht.
+
+Cachen soll ja bilden ! (Ihr braucht jeweils die BWW).
+
+A) Wer ist gemeint ?
+B) Mit welcher Frucht wird Antonio verglichen ?
+C) Wie heisst der Theaterdirektor, der in der Geschichte vorkommt ?
+D) Es wird in einer Herberge übernachtet, welche Farbe hat sie ?
+E) Es kommt auch eine Fee vor, was an ihr ist dunkelblau ?
+F) Wie heisst der Wachtmeister ?
+G) Der freundlich lächelnde Mann, seine Stimme klingt wie ?
+H) In was haben sich Kinder verwandelt ?
+
+A*B*F-(H*A+578)
+C*D*E+F*A*C+G*E*H*E+A*D*C-40489
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/Pinocchio
+
+A) Pinocchio = 92
+B) Kirsche = 73
+C) Feuerfresser = 145
+D) Rot = 53
+E) (Haar = 28,) Haare = 33
+F) Zwiebelbart = 123
+G) Honig = 53
+H) Esel = 41
+
+Summe: (613)
+
+A*B*F-(H*A+578) = 92*73*123 - (41*92+578) = 826068 - 4350 = 821718
+C*D*E+F*A*C+G*E*H*E+A*D*C-40489 = 145*53*33 + 123*92*145 + 53*33*41*33 + 92*53*145 - 40489 = 4927353
+
+N49 27.353 E008 21.718
