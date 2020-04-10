@@ -1,0 +1,10 @@
+https://www.geocaching.com/geocache/GC720JB_chef-eigentlich-sind-wir-fertig-aber
+
+--- Lösung
+
+1. N 49° 28.xxx
+2. N 49° xx.296
+3. E 008° 21.xxx
+4. E 008° xx.208
+
+N49 28.296 E008 21.208
