@@ -1,0 +1,33 @@
+https://www.geocaching.com/geocache/GC6RF11_mehr-als-drei-worte
+
+A =
+Joseph-Bauer-Haus
+Wormser Tor
+Muskatormühle
+Kugelfang
+
+B =
+Ebertpark Süd
+Faltkistenwerk
+Pfalzplatz
+Landgüterhalle
+Eislebener Weg
+
+N 49° A87 und E 008° 2B7
+
+--- Lösung
+
+Joseph-Bauer-Haus: 53
+Wormser Tor: 84
+Muskatormühle: 58
+Kugelfang: 84
+Summe 279 0
+
+Ebertpark Süd: 71
+Faltkistenwerk: 48
+Pfalzplatz: 63
+Landgüterhalle: 62
+Eislebener Weg: 54
+Summe 298 1
+
+N49 27.987 E008 22.987

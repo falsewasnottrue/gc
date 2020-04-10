@@ -1,1 +1,30 @@
 https://www.geocaching.com/geocache/GC5KRD5_alles-gute-mr-pi
+
+49. C x A + 9 x F + D + B + E
+(9 x D) x (5 x B) + 252 x E + 3 x F
+
+Hinweis: (8)(16)(17)(16)(14)(8)
+
+--- Lösung
+
+A Das blaue Zimmer, La chambre bleue, 1901
+  https://en.wikipedia.org/wiki/The_Blue_Room_(Picasso)
+B Weinende Frau, La femme qui pleure, 1937
+  https://en.wikipedia.org/wiki/The_Weeping_Woman
+C Der alte Gitarrenspieler, Le Vieux guitariste, 1904
+  https://en.wikipedia.org/wiki/The_Old_Guitarist
+D Jacqueline mit Blumen, Jacqueline avec des fleurs, 1954
+E Dora Maar au chat, 1941
+  https://en.wikipedia.org/wiki/Dora_Maar_au_Chat
+F Maya mit Puppe, Maya à la poupée, 1938
+  https://en.wikipedia.org/wiki/Maya_with_Doll
+
+  	Jahr	Tipp	QS	I	Alter 	BBW	frz		Preis
+A 	1901	8		11	2	114		149	108
+B 	1937	16		20	2	78		125	179
+C 	1904	17		14	5	111		241 227
+D 	1954	16		19	1	61 		210 237
+E 	1941	14		15	6	74		125 125		95
+F 	1938	8		21	3	77		156 126
+
+frz. 26181 
