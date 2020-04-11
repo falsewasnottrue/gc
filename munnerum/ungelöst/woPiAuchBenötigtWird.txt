@@ -1,0 +1,40 @@
+https://www.geocaching.com/geocache/GC6DAZW_wo-pi-auch-noch-benotigt-wird
+
+Heute suchen wir einen ganz besonderen Körper. Seine äussere Erscheinungsform ist besonders denn der Körper hat 0 Ecken, 1 Fläche und 2 Kanten. Wenn Du seinen Namen gefunden hast bilde den BWW (=A).
+
+Die Grösse seiner Oberfläche beträgt : B*Pi*r^2. Damit hast Du B.
+
+Wenn Du den Namen gefunden hast ist es bis zum Erfinder des Körpers nicht mehr weit. Sein Vor- und Nachname hat welchen BWW (=C) ?
+
+In welchem Land verstarb der Erfinder, QS der Telefonvorwahl ist D.
+
+Laut Wikipedia hat sich der Körper bei einer praktischen Anwendung bisher nicht durchsetzen können, allerdings haben Azubis einer grossen Firma gerade einen Testantrieb gebaut und deswegen gibt’s nun einen Cache. Ach, um welche Anwendung geht es (16 Buchstaben, BWW=E)?
+
+Unser Entdecker aus Frage C hat noch weitere Dinge erfunden, eine seiner Erfindungen wurde von einem Fernsehsender als Logo benutzt, wie hiess der Sender (3 Buchstaben, BWW=F) ?
+
+N 49 D^3*B*A+132*D und E 008 C*E+B*F+1
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/Oloid
+
+---------------- 16 Zeichen
+Schiffspropeller
+Schiffsschrauben
+Antriebvonbooten
+Schiffsantriebe
+Wasseraufbereitung
+Personenboot
+Bootsantrieb
+
+A: BWW(Oloid) = 55
+B: 4
+C: BWW(Paul Schatz) = 127
+D: Schweiz +41 = 5
+E: BWW(Schiffspropeller) = 187
+F: BWW(WDR) = 45
+
+N 49 5^3*4*55+132*4 = 28028
+E 008 127*187+4*45+1 = 23930
+
+N49 28.028 E008 23.930

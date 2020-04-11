@@ -1,0 +1,29 @@
+https://www.geocaching.com/geocache/GC5PNKW_49621538150
+
+N 49 26. (BWW kompletter Firmenname + Hausnummer + BWW Bezeichnung der hier benutzten Lieferfahrzeuge + 215)
+E 8 PLZ - (BWW kompletter Firmenname - BWW Stadtteil + 4 ) x 100
+
+Dort findet ihr zwei Schilder mit der Aufschrift CEM I/A.
+Vom oberen der beiden braucht ihr "A". Die Zahl "A" (samt Nachkommastelle) braucht ihr für die finalen Koordinaten der Dose.
+Dort ist auch ein Hydrantenhinweis, H200. In der rechten oberen Ecke von diesem Schild steht die 3-stellige Zahl "B".
+Der LP muss und kann nicht betreten werden. Ihr müsst auch niemanden anrufen. So technisch ist es nicht.
+N 49 26.(B + 112+ 20 x A)
+E 8 (692 x A - 27)
+
+--- Lösung
+
+Dyckerhoff Transportbeton Ludwigshafen GmbH & Co. KG
+Hindenburgstr. 115
+67067 Ludwigshafen-Maudach
+
+Fahrmischer
+
+BWW(Dyckerhoff Transportbeton Ludwigshafen GmbH & Co. KG) = 493
+BWW(Fahrmischer) = 108
+BWW(Maudach) = 51
+
+N 49 26. (493 + 115 + 108 + 215) = 931
+E 8 67067 - (493 - 51 + 4 ) x 100 = 67076 - 44600 = 22467
+
+N49 26.931 E008 22.467
+

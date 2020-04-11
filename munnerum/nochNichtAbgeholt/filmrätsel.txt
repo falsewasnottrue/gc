@@ -1,0 +1,52 @@
+https://www.geocaching.com/geocache/GC3KA99_filmratsel-i
+
+N 49° AB.CDE
+E 008° FG.HIJ
+
+--- Lösung
+
+A: Mars attacks, Tim Burton
+   _ _ _ A _ _ _ _ _
+   T I M B U R T O N
+B: Das Schweigen der Lämmer, Jonathan Demme
+   Von Lämmern und Löwen, Robert Redford
+   _ _ _ _ _ _ _ _ _ B _ _ _
+   J O N A T H A N D E M M E
+   R O B E R T R E D F O R D
+C: Batman begins, Christopher Nolan
+   _ _ _ C _ _ _ _ _ _ _ _ _ _ _ _
+   C H R I S T O P H E R N O L A N
+D: Golden Eye, Martin Campbell
+   _ _ _ _ _ _ D _ _ _ _ _ _ _
+   M A R T I N C A M P B E L L
+E: Dirty Harry, Don Siegel
+   E _ _ _ _ _ _ _ _
+   D O N S I E G E L
+F: Beetlejuice, Tim Burton
+   _ _ _ F _ _ _ _ _
+   T I M B U R T O N
+G: falsch: Star wars, George Lucas
+   G _ _ _ _ _ _ _ _ _ _
+   G E O R G E L U C A S
+H: The devil wears Prada, David Frankel
+   _ _ _ _ _ H _ _ _ _ _ _
+   D A V I D F R A N K E L
+I: Interview mit einem Vampir, Neil Jordan
+   _ I _ _ _ _ _ _ _ _
+   N E I L J O R D A N
+J: Fahrenheit 9/11
+   _ J _ _ _ _ _ _ _ _ _ _
+   M I C H A E L M O O R E
+
+A = 2
+B = 5
+C = 9
+D = 3
+E = 4
+F = 2
+G = 7
+H = 6
+I = 5
+J = 9
+
+N 49° 26.934 E 008° 22.659
