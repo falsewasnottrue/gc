@@ -1,0 +1,12 @@
+https://www.geocaching.com/geocache/GC4DQG8_redscorp
+
+07083E0°55°19N28..*223
+Schlüssel: 20
+
+Hinweis: BWT
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/Burrows-Wheeler-Transformation
+
+N52 27.880 E013 30.952
