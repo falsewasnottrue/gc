@@ -1,0 +1,39 @@
+https://www.geocaching.com/geocache/GC6T4GG_hah-da-fehlt-doch-was
+
+N 49° 2_._ _ _ und E 008° 2_._ _ _ .
+
+WA088_667661
+
+UC10109531_9
+VA40154290_2
+UE5099_81298
+
+ZB36_6543192
+
+XA138190_039
+PA5960_97033
+EB172540_496
+
+Hinweis:
+Wenn ihr gar keine Ahnung habt, fragt Wim, Jean-Claude oder Mario !
+
+--- Lösung
+
+https://www.schulmodell.eu/unterricht/84-unterrichtsfaecher/mathematik-unterricht/mathematik-themen/mathelexikon/1888-teilbarkeit-9.html
+
+WA088_667661 7
+UC10109531_9 8
+VA40154290_2 2
+UE5099_81298 2
+
+ZB36_6543192 3
+XA138190_039 2
+PA5960_97033 2
+EB172540_496 7
+
+N49 27.822 E008 23.227
+
+na, bist Du im Geldzählen genauso gut ? Bitte Listing beachten, das Finale wurde gegenüber den Checkerkords verlegt.
+
+korrektur: 66m in 214Grad
+N49 27.793 E008 23.196

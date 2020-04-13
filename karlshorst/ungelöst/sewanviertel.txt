@@ -1,0 +1,82 @@
+https://www.geocaching.com/geocache/GC78TRK_sewan-viertel
+
+Baikalstraße		420		31.722 km²
+Balatonstraße		685
+Dolgenseestraße		1150/2463
+Erieseering			500		25.667 km²
+Huronseestraße		500		59.586 km²
+Mellenseestraße		515
+Michiganseestraße	640		58.016 km²
+Moldaustraße		540
+Ontarioseestraße	300		19.011 km²
+Schwarzmeerstraße	1000	436.400 km²
+Sewanstraße			2170
+
+1) Wann bekamen die ersten beiden Straßen ihren heutigen Namen?
+Quersumme der Jahreszahl = A
+
+2) Wie lang ist die zweitlängste der elf Straßen (inklusive aller gleichnamigen „Seitenstraßen“)?
+Länge in Metern = B
+
+3) Eines der Gewässer ist nach einer kanadischen Provinz benannt. Wie tief ist das Gewässer an seiner tiefsten Stelle?
+Tiefe in Metern = C
+
+4) Ein böhmischer Komponist aus dem 19. Jahrhundert schrieb ein Werk, das nach einem der Gewässer benannt ist. Wann war die Uraufführung des Zyklus, zu dem dieses Werk gehört?
+Quersumme der Jahreszahl = D
+
+5) 1886 veröffentlichte ein deutscher Schriftsteller eine Ballade über den Steuermann eines Passagierschiffs, auf dem ein Feuer ausbricht, das den Steuermann sein Leben kostet. Diese Katastrophe ereignete sich tatsächlich auf einem der Gewässer. Wann war das?
+Quersumme der Jahreszahl = E
+
+6) In einem Song des amerikanischen Rappers Kanye West, dass er gemeinsam mit einem britischen Musiker aufnahm, ist die Rede von „Feuerwerken über [einem der Gewässer]“. Wann wurde die Single in den USA veröffentlicht?
+Quersumme der Jahreszahl = F
+
+7) Das flächenmäßig größte der Gewässer hat Berührungspunkte mit insgesamt wie vielen Ländern?
+Anzahl = G
+
+8) Bei einem der Gewässer handelt es sich um einen Hochgebirgssee. Wie hoch über dem Meeresspiegel liegt er?
+Quersumme der Höhe in Metern = H
+
+9) Eines der Gewässer ist nach einem indianischen Stammesverband benannt. Wie viele Gruppen gibt es von diesem Stammesverband heute insgesamt noch?
+Anzahl = I
+
+10) Im Viertel gibt es eine Kindertagesstätte, die eines der Gewässer im Namen trägt. An welcher Hausnr. befindet sich die Kita?
+Hausnummer = J
+
+11) Die Schauspielerin Agnes Kraus wohnte von 1972 bis 1995 im Sewan-Viertel. In welcher Hausnr. wohnte sie?
+Hausnummer = K
+
+12) Einige der Bushaltestellen im Viertel sind nach den Straßen benannt. Wie viele Haltestellen gibt es, in deren Namen mindestens eine der Straßen vorkommt?
+Anzahl = L
+
+Tragt die gefundenen Zahlen in die folgende Formel ein, um zum Final zu gelangen.
+Und denkt dran: Punktrechnung geht vor Strichrechnung ;-)
+
+N 52° (A+J).(B:F+D*K+39) E 013° (G*I+6).(C–E–H–L2–2)
+
+--- Lösung
+
+ 1) A = QS(1965) = 21
+ 2) B = 1150
+ 3) C = 244 					(https://de.wikipedia.org/wiki/Ontariosee)
+ 4) D = QS(1875) = 21 			(https://de.wikipedia.org/wiki/Mein_Vaterland#Vltava_(Die_Moldau))
+ 5) E = QS(1841) = 14 			(https://de.wikipedia.org/wiki/John_Maynard)
+ 6) F = QS(2008) = 10 			(Kanye West - Homecoming)
+ 7) G = 6						(Schwarzes Meer)
+ 8) H = QS(455) = 14			(Baikalsee)
+ 9) I = 4						(Huronen)
+10) J = 9						(Balatonknirpse, Balatonstraße 9)
+11) K = 36						(Mellenseestraße 36)
+12) L = 8
+
+Busse
+- Erieseestraße
+- Mellenseestr./Sewanstraße
+- Sewanstr./Dolgenseestr
+- Sewanstr./Volkradstr
+- Michiganseestr
+- Balatonstr
+- Schwarzmeerstr
+- Mellenseestr
+
+N 52° (A+J).(B:F+D*K+39) E 013° (G*I+6).(C–E–H–L2–2)
+N 52° 30.910 E 013° 30.150
