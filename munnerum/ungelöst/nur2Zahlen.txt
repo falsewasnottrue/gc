@@ -1,1 +1,17 @@
 https://www.geocaching.com/geocache/GC6W7TE_nur-2-zahlen
+
+A = 4604776
+B = 796696
+
+N = A1 - 195802
+E = B1 - 42228
+
+--- Lösung
+
+A1 = 5123090 -> 4927288
+B1 = 863835 -> 821607
+
+N49 27.288 E008 21.607
+
+Ja, Freunde braucht man. Jetzt nimm einen Freund oder Freundin mit und nix wie ab zur Dose. Zur Suche : Lies den Hint, nicht an der Autobahn oben !! Nicht die Böschung hoch !!
+
