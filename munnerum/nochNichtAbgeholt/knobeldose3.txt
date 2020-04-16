@@ -1,0 +1,14 @@
+https://www.geocaching.com/geocache/GC2R0CA_knobeldose-3
+
+C = Summe der Buchstabenwerte
+
+N  49° 27.[C + 2 * Quersumme(C) - 1]
+E 008° 23.[14 * C + 3 * Quersumme(C) - 3]
+
+--- Lösung
+
+3773817 -> Libelle
+
+C = 57
+
+N49 27.080 E008 23.831
