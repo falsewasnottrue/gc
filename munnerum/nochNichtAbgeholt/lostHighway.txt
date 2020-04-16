@@ -1,0 +1,24 @@
+https://www.geocaching.com/geocache/GC8FR64_lost-highway
+
+Hannover-Magdeburg
+Mainz-Bingen
+Augsburg-München
+Hamburg-Soltau
+Bielefeld-Dortmund
+Aachen-Köln
+Bamberg-Bayreuth
+Würzburg-Aschaffenburg
+
+--- Lösung
+
+2
+60
+8
+7
+
+2
+4
+70
+3
+
+49 26.087 008 24.703
