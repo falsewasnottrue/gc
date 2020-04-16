@@ -1,0 +1,19 @@
+https://www.geocaching.com/geocache/GC2RCTY_the-chemical-cache
+
+N49° 27.ABC E8° 23.DBE
+
+--- Lösung
+
+1. https://de.wikipedia.org/wiki/Anilin
+2. https://de.wikipedia.org/wiki/Ameisens%C3%A4ure
+3. https://de.wikipedia.org/wiki/Soda_(Mineral)
+4. ?? https://de.wikipedia.org/wiki/Schwefels%C3%A4ure
+5. https://de.wikipedia.org/wiki/Pyrazol
+
+A = 3
+B = 8
+C = 2
+D = 5
+E = 1
+
+N49 27.382 E008 23.581
