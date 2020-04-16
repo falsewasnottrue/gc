@@ -1,0 +1,30 @@
+https://www.geocaching.com/geocache/GC22P4A_es-wird-gezockt
+
+1. Einer der männlichen Geocacher hatte als einziger bei beiden Würfen die gleiche Augenzahl
+2. Walburgas höchster Wurf war die Vier, während der Geocacher, der bei A saß, die Vier und noch eine höhere Zahl würfelte
+3. Gertruds Summe war doppelt so hoch wie die Summe der Geocacherin zu ihrer Rechten.
+4. Franz, der zusammen neun Augen erzielte, saß dem Geocacher mit dem niedrigsten Gesamtergebnis genau gegenüber (das heißt zw. ihm und dem genannten Geocacher saßen rechts und links noch je zwei Geocacher).
+5. Seine beiden Nachbarinnen brachten dem Sieger Andreas Glück.
+6. Haralds Augenzahl im ersten Wurf war um eins höher als seine Augenzahl im zweiten Wurf.
+
+N49 25.(Z-1079)
+E8 21.(Z-904)
+
+--- Lösung
+
+Platz	A 			B 			C 			D 			E 			F 
+Spieler	Franz		Walburga 	Andreas		Rosalinde	Gertrud 	Harald
+1.Wurf	5			4			6			2			1			3
+2.Wurf	4			3			6			1			5			2
+Summe	9			7			12			3			6			5
+
+A 	1 * 6 * 5 * 4 	= 120
+B 	2 * 23 * 4 * 3 	= 552
+C 	3 * 1 * 6 * 6 	= 108
+D 	4 * 18 * 2 * 1 	= 144
+E 	5 * 7 * 1 * 5 	= 175
+F 	6 * 8 * 3 * 2 	= 288
+
+Z = 1387
+
+N49 25.308 E008 21.483

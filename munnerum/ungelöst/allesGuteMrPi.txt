@@ -19,10 +19,12 @@ E Dora Maar au chat, 1941
 F Maya mit Puppe, Maya à la poupée, 1938
   https://en.wikipedia.org/wiki/Maya_with_Doll
 
-  	Jahr	Tipp	QS	I	Alter 	BBW	frz		Preis
-A 	1901	8		11	2	114		149	108
-B 	1937	16		20	2	78		125	179
-C 	1904	17		14	5	111		241 227
-D 	1954	16		19	1	61 		210 237
-E 	1941	14		15	6	74		125 125		95
-F 	1938	8		21	3	77		156 126
+https://de.wikipedia.org/wiki/Pablo_Picasso
+
+  	Jahr	Tipp	QS	I	Alter 	BBW	frz		Alter Picasso
+A 	1901	8		11	2	114		149	108		20
+B 	1937	16		20	2	78		125	179		56
+C 	1904	17		14	5	111		241 227		23
+D 	1954	16		19	1	61 		210 237		73
+E 	1941	14		15	6	74		125 125		60
+F 	1938	8		21	3	77		156 126		57
