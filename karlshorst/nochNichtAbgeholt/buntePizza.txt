@@ -1,0 +1,41 @@
+https://www.geocaching.com/geocache/GC5BG69_bunte-pizza
+
+Du arbeitest in einer Pizzabäckerei. Euer Markenzeichen ist eine Erfindung mit der man Lebensmittel ungefährlich einfärben kann. Deshalb bestellen die meisten Kunden Pizzen mit blauer Salami oder grünem Thunfisch. Der heutige Auftrag ist etwas kompliziert. Du erhältst einen Anruf: „Guten Abend. Mein Name ist Felix. Ich möchte gerne eine Pizza für vier Personen bestellen. Nur leider können wir uns nicht über den Belag einigen. Kerstin ist der Meinung es dürfen keine Blaubeeren auf der Pizza sein, aber ich liebe doch Blaubeeren. Dafür mag ich keine Bananen, Leon hingegen findet sie lecker. Außerdem haben wir leider alle vier Sehschwächen und können deshalb jeweils zwei Farben nicht sehen. Marta sieht zum Beispiel nur blau und rot und Leon erkennt keine grünen oder blauen Sachen. Da ich von ihrer Erfindung gehört habe mit der sie bunten Pizzabelag herstellen können, dachte ich mir, sie könnten uns eine Pizza mit Blaubeeren, Gurke, Bananen und Himbeeren liefern. Es wäre toll, wenn sie nur in den Farben rot, grün, blau und gelb wäre. Obwohl ich das mit dem blau und rot nicht bewerten kann, da ich es nicht sehe. Bitte denken sie daran, wie sehr Marta Himbeeren hasst. Leon mag keine Gurke, er wird wütend, wenn er welche auf der Pizza sieht. Keiner von uns mag oder hasst übrigens dasselbe wie jemand anderes. Außerdem hat niemand von uns die gleiche Sehschwäche. Ich hoffe, sie schaffen es, dass jeder von uns die Pizza als "perfekt" ansehen kann. Auf Wiedersehen!“
+
+--- Lösung
+
+Felix, Kerstin, Leon, Marta
+Blaubeeren, Gurke, Bananen, Himbeeren
+rot, grün, blau, gelb
+
+Keiner von uns mag oder hasst übrigens dasselbe wie jemand anderes.
+Niemand hat die gleiche Sehschwäche. 
+
+1. Kerstin ist der Meinung es dürfen keine Blaubeeren auf der Pizza sein
+2. aber ich (Felix) liebe doch Blaubeeren.
+3. Dafür mag ich (Felix) keine Bananen
+4. Leon hingegen findet sie (Bananen) lecker. 
+8. Bitte denken sie daran, wie sehr Marta Himbeeren hasst.
+9. Leon mag keine Gurke
+
+5. Marta sieht zum Beispiel nur blau und rot
+6. Leon erkennt keine grünen oder blauen Sachen.
+7. Obwohl ich (Felix) das mit dem blau und rot nicht bewerten kann, da ich es nicht sehe. 
+
+Felix -> Blaubeere
+Kerstin -> Himbeere
+Leon -> Banane
+Martha -> Gurke
+
+kann sehen:
+Felix -> grün, gelb
+Kerstin -> grün, blau
+Leon -> rot, gelb
+Martha -> rot, blau
+
+Blaubeere -> gelb
+Himbeere -> grün
+Banane -> rot
+Gurke -> blau
+
+52 28.735 13 34.938

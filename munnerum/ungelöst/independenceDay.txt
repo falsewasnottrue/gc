@@ -1,0 +1,42 @@
+https://www.geocaching.com/geocache/GC1RN9A_independence-day
+
+1. Wann ist der dt. Synchronsprecher von Dr. Brackish Okun geboren?
+
+A = Quersumme der Jahreszahl
+
+2. "Entschuldigen Sie Mr. President, das ist so nicht ganz korrekt." Wie lautet der Nachname des Schauspielers, der diesen Satz im Film sagt?
+
+B = Summe der Buchstaben des Nachnamen (A=1,B=2,...)
+
+3. Wie lautet das letzte Wort, dass das Alien durch Dr. Brackish Okun spricht?
+
+C = Quersumme von (Summe der Buchstaben des letzten Wortes (A=1,B=2,...))
+
+4. "Und dann was ?" Wie lautet die Antwort auf diese Frage (1 Wort)?
+
+D = Quersumme der Quersumme von (Summe der Buchstaben der Antwort (A=1,B=2,...))
+
+5. "Ich verstehe nicht wieso Du so reagierst." Wie lautet die Antwort auf diese Frage (1 Wort)?
+
+E = Summe der Buchstaben der Antwort (A=1,B=2,...))
+
+Final:
+N49 25. ((E+1)/8)(D*2-4)(A-10)
+
+E8 21. (B/10+1)(C^2-3)((Quersumme(E))-1)
+Jetzt noch von der Ost-Koord 14 subtrahieren!
+
+--- LÖsung
+
+1. Michael Pan, 1952
+   A = 17
+2. James Rebhorn
+   B = 80
+3. Sterben
+   C = QSS(BWW(Sterben)) = QSS(83) = 11
+4. Schachmatt
+   D = QSS(QSS(BWW(Schachmatt)))) = QSS(QSS(96)) = QSS(17) = 8
+5. Darum
+   E = BWW(Darum) = 57
+
+N49 25. ((E+1)/8)12(A-10)
