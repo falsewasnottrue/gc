@@ -1,0 +1,34 @@
+https://www.geocaching.com/geocache/GC7KP0M_beaver-on-ice
+
+Im Februar 2018 sah ich im Fernsehen einen Sportwettbewerb. Dabei wurde die deutsche Mannschaft 'Olympiasieger der Herzen'. Im Mittelpunkt standen auch einige Sportler eines Berliner Sportvereins. Trotz der Niederlage wurde gefeiert - es war der bislang größte Erfolg. Finde die Überreste...
+
+Dafür sind einige Fragen zu beantworten.
+An dem Wettbewerb nahmen Sportler eines Berliner Vereins in der deutschen Mannschaft teil.
+
+A=Wie viele waren es?
+
+B=Summe des BWW aller Vornamen der Sportler des Berliner Vereins die an dem Wettbewerb teilgenommen haben.
+
+C=Anzahl Buchstaben des Berliner Vereinsnamens (zwei Wörter)
+
+XXX=(C/A)*B+82
+
+YYY=A*B-(C/2)*C+6
+
+N52 27.XXX E13 34.YYY
+
+--- Lösung
+
+Eisbären Berlin
+Jonas Müller
+Marcel Noebels
+Frank Hördler
+
+A = 3
+B = BWW(Jonas) + BWW(Marcel) + BWW(Frank) = 59 + 52 + 50 = 161
+C = BWW(Eisbären Berlin) = 14
+
+XXX = (C/A)*B+82 = 14/3 * 151 + 82 = 833
+YYY = A*B-(C/2)*C+6 = 3 * 161 - 14/2 *14 + 6 = 379
+
+N52 27.833 E13 34.391
