@@ -1,1 +1,19 @@
 https://www.geocaching.com/geocache/GC7ADMT_gut-heilend
+
+Auf dem Gelände des nahe liegenden Klinikums befindet sich diese Box nicht, aber ein relevanter Hinweis: ein roter Buchstabe.
+
+Dieser Buchstabe führt zu einer kleinen Rechenaufgabe und diese dann zum finalen Erlebnisbereich.
+
+1. Zahl X ergibt sich aus dem Wert des roten Buchstaben (Z=1, Y=2, X=3, ... ) multiplliziert mit 3
+
+2. Zahl Y ergibt sich aus der kleinen Rechenaufgabe am Punkt S2
+
+1. S2:
+Nord: 52° 30.Milliminuten mit Milliminuten = 27 x X + 13
+Ost: 13° 35.Milliminuten mit Milliminuten = 35 x X + 5
+
+2. Final:
+Nord: 52° 30.Milliminuten mit Milliminuten = -200 * Y -297
+Ost: 013° 35.Milliminute mit Milliminuten = -200 * Y - X * 4 - 97
+
+--- Lösung
