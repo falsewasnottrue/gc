@@ -1,0 +1,23 @@
+https://www.geocaching.com/geocache/GC4XCWY_eigentlich-ganz-logisch-oder
+
+4784-241718-1214211718-...?
+N= 59/30/47
+E= 32/72/8
+
+Hinweis: Bindestriche nicht mitzaehlen
+
+--- Lösung
+
+4784 = 2 * 2 * 2 * 2 * 13 * 23
+241718 = 2*19*6361
+1214211718 = 2*18713*32443 
+
+Quersumme 
+4784 			23
+241718			23
+1214211718 		28
+
+ 4 7 8 4
+241718
+ 2 4 1 718
+1214211718
