@@ -1,0 +1,20 @@
+https://www.geocaching.com/geocache/GC8K8WM_u-ei-senbahn-01
+
+N 52° 28.(Höchstgeschwindigkeit km/h) + 70
+E 13° 36.(BWW Name Konstrukteur) + indizierte Leistung(kW) - (Länge+Gesamtradstand in m) - 0.55
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/Schienenzeppelin
+
+Höchstgeschwindigkeit km/h 	= 230
+Name Konstrukteur 			= Franz Kruckenberg
+BWW Name Konstrukteur 		= 180
+indizierte Leistung(kW) 	= 324
+Länge in m 					= 25,85
+Gesamtradstand in m 		= 19,6
+
+N 52 28.300 E013 36.459 // (25,85+19,6) - 0.55
+
+Deine Koordinaten sind innerhalb von 10 Metern um die richtigen Koordinaten!
+ECA dabei ?
