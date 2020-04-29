@@ -1,0 +1,59 @@
+https://www.geocaching.com/geocache/GC8GKA3_ludwigshafen-hochstrasse-sud
+
+A: Wann wurde die HSS (bzw. der erste Teil) erstmals offiziell eingeweiht (TT.MM.JJJJ) ? (A = QS aller Ziffern)
+
+B: Wie lautet der vollständige Name des Bundesministers, der an der Einweihung damals teilnahm ?
+_ _ _ _ - _ _ _ _ _ _ _ _ _    _ _ _ _ _ _ _   (B = BWW des kompletten Namens)
+H A N S   C H R I S T O P H    S E E B O H M
+
+C: Welche Art Konstruktion ist der erste Teil der HSS (ca. 500m) bzw. der Brücke, die an die Konrad-Adenauer-Brücke grenzt (benannt nach der Form der Stützen) ?
+_ _ _ _ -Konstruktion (C = BWW des fehlenden Wortes)
+P I L Z
+
+D: Seit welchem Monat (Monat und Jahr : MM.JJJJ) gilt auf den Zufahrten der HSS das Verbot für Fahrzeuge über 3,5t (wie z.B. LKWs), das zunächst durch Schilder signalisiert, später durch den Bau von Fahrbahnverengungen durchgesetzt wurde ? 
+(D = MM * JJJJ)
+
+E: An welchem Tag musste die HSS urplötzlich komplett gesperrt werden (TT.MM.JJJJ) ?
+( E = TT * MM)
+
+F: Wie lautet der Name (Vor- und Nachname) des Stadtoberhauptes zum Zeitpunkt der Sperrung der HSS ?
+_ _ _ _ _    _ _ _ _ _ _ _ _ _  (F = BWW des kompletten Namens)
+J U T T A    S T E I N R U C K
+
+G: Wie lautet der Name der Diskothek, die wegen der Brückenschäden (vorübergehend) geschlossen werden musste ?
+_ _ _ _ _ _ _ _ _  (G = BWW des Namens)
+M U S I K P A R K
+
+H: Wie lautet der Name des Gebäudes in dem sich diese Diskothek befindet ?
+_ _ _ _ _ _ _ _ _ _ (H = BWW des Namens)
+F A K T O R H A U S
+
+I: Wieviele Witze über die HSS gibt es seit deren Sperrung ;-) ?
+Keinen ⇨  I=0 / Einen ⇨ I=1 / Unzählige ⇨ I=234
+
+N49 (H*I + 2*B + H -7) / 1000 E8° (D - (F+E-20)*C + 6*A*G - 34)/1000
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/Stra%C3%9Fenverkehr_in_Ludwigshafen_am_Rhein#Hochstra%C3%9Fe_S%C3%BCd
+https://www.rheinpfalz.de/lokal/ludwigshafen_artikel,-das-br%C3%BCckenwunder-am-rhein-_arid,1048723.html
+
+A: 9. Juli 1959
+   A = 40
+B: Hans-Christoph Seebohm
+   B = 225
+C: Pilz
+   C = 63
+D: 10/2017
+E: 22. 8 2019
+   E = 22*8 = 176
+F: Jutta Steinruck
+   F = 192
+G: Musikpark
+   G = 119
+H: Faktorhaus
+   H = 120
+I: I = 234
+
+D - 21924 + 28560 - 34
+N49 28.643 E8° 26.772
