@@ -1,0 +1,39 @@
+https://www.geocaching.com/geocache/GC1M2ZT_ist-doch-logisch
+
+Für jede Position[x] bilde folgende Teilsumme[x]: Position + Vorname[1] + Nickname[1] + Farbe[1]
+Multipliziere dann alle Teilsummen zum Gesamtprodukt Z, also
+Z= Teilsumme[1] * Teilsumme[2] * ... * Teilsumme[6]
+Ziffer[x] = x-te Ziffer von Z, sei zB Z= 56789 dann ist Ziffer[4]=8
+
+Beispiel für Teilsumme[4]:
+Position 4
+Vorname (A)lbert
+Nickname: (B)ourne
+Farbe: (b)lau
+A=1, B=2, b=2
+Dann ist die Teilsumme[4]: 4 + 1 + 2 + 2 = 9
+
+Berechne:
+Quersumme der Quersumme von Z ist X =
+
+Final:
+
+N49 (Ziffer[3]-Ziffer[1])Ziffer[2].(Ziffer[7]-3)(Ziffer[1]+1)(Ziffer[7]-X)
+E8 (Ziffer[3]-Ziffer[1])(Ziffer[3]-2).(Ziffer[3]-1)Ziffer[4](X-Ziffer[3]-Ziffer[4])
+
+--- Lösung
+
+													Teilsumme
+1	Ute			Cruschel	gelb		1+u+c+g 	32
+2	Christian	Vogon		rot			2+c+v+r 	45
+3	Hans		Muschel		braun 		3+h+m+b 	26
+4	Michl 		Oschl		grün 		4+m+o+g 	39
+5 	Berta		WarNix		blau 		5+b+w+b 	32
+6	Dörte		Fuschel		schwarz 	6+d+f+s 	35
+
+Z = 1635379200
+X = 9
+
+N49 26.620 E008 21.251
+
+
