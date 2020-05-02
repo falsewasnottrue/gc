@@ -1,0 +1,25 @@
+https://www.geocaching.com/geocache/GC1Y7X5_betreten-verboten
+
+--- Lösung
+
+http://kryptografie.de/kryptografie/chiffre/preussischer-optischer-telegraph.htm
+
+ABERIVNEARHATENQMIRVFVRORACHAXGARHARVAFI
+VREBFGNPUGTENQMIRVRVAFCHAXGFRPUFIVRENPUG
+
+NOREVIARNEUNGRADZVEISIEBENPUNKTNEUNEINSV
+IEROSTACHTGRADZVEIEINSPUNKTSECHSVIERACHT
+
+NORD VIER NEUN GRAD ZWEI SIEBEN PUNKT NEUN EINS VIER
+OST ACHT GRAD ZWEI EINS PUNKT SECHS VIER ACHT
+
+N49 27.914 E008 21.648
+
+Zum Finale kommst Du indem Du von den erhaltenen Koordinaten im Rätsel folgende Peilung vornimmst: 50.571 meter, 171.759° TN
+Peilung N49 27.914 E008 21.648; 50,571 Meter; 171,759° liegt bei N49 27.887 E008 21.654.
+
+Ein guter Einstieg ist: Final-Nord-Koordinate +320 und Final-Ost-Koordinate +125: N49 28.207 E008 21.779
+
+Einstieg: N49 28.207 E008 21.779 (über die Brücke)
+
+Finale: N49 27.887 E008 21.654

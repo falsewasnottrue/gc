@@ -9,3 +9,15 @@ E 13° 36.2*B + 42
 
 A*C + B + A*13 = 9 * C + 190
 2*B + 42 = 188
+
+Underscore
+Unterstrich
+
+A = 4
+B = BWW(Underscore) = 122
+C = BWW(Unterstrich) = 155
+
+A * C + B + A * 13 = 794
+2 * B + 42 = 286
+
+N 52 28.794 E013 36.286
