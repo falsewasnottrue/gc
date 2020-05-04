@@ -1,1 +1,16 @@
 https://www.geocaching.com/geocache/GC6G80T_biesdorfer-runde-05
+
+N 52'31.A
+
+E 013'33.B
+
+A=das Jahr in dem Biesdorf zum ersten Mal urkundlich erwähnt wurde, abzüglich 860.
+
+B=das Jahr in dem der Biesdorfpark für die Öffentlichkeit zugänglich wurde, abzüglich 1478.
+
+--- Lösung
+
+A = 1375 - 860 = 515
+B = 1927 - 1478 = 449
+
+N52 31.515 E013 33.449
