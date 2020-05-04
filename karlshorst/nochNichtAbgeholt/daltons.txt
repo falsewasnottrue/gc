@@ -1,0 +1,25 @@
+https://www.geocaching.com/geocache/GC78MFA_die-daltons
+
+Deine erste Aufgabe ist es, zu den Daltons zu gehen. Du findest sie bei N52° 28.ABC E013° 29.DEF.
+
+A: Wie viele Brüder suchen jetzt den fehlenden Bruder?
+B: Die Kleidung der Dalton-Brüder ist gestreift. Aus wie vielen Farben bestehen die Streifen?
+C: Von wem werden die Daltons immer wieder gefangen und zurück ins Gefängnis gebracht? Wie viele 'u' sind in seinem Namen?
+D: Wie viele Buchstaben hat der Name des Gefängnishundes, der ihm regelmäßig hilft? Teile diese Zahl durch 2.
+E: Wie viele Buchstaben hat der Nachname seines Pferdes?
+F: Der eben gesuchte zieht schneller als sein eigener "...". Wie viele Buchstaben hat das fehlende Wort?
+
+--- Lösung
+
+Rantanplan
+Jumper
+Schatten
+
+A = 3
+B = 2
+C = 2
+D = 5
+E = 6
+F = 8
+
+N52 28.322 E013 29.568
