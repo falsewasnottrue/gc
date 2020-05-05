@@ -1,0 +1,39 @@
+https://www.geocaching.com/geocache/GC1MCKN_linie-e
+
+N 52° 29.616 E 013° 30.937
+
+AA = [Anzahl aller Stationen] + [Stationen der Ur-Linie] - [Anzahl der Ausgänge des Bahnhofs Schillingstraße zur Jahrtausendwende]
+
+BBB = [Treppenstufen Bhf Fi Ri Hönow] ² - 120
+
+CC = [Länge des Teilstücks, das 1988/89 eröffnet wurde] * [neu eröffnete Bahnhöfe von 1973-1988] + 1
+
+DD = CC * 3
+
+Hinweis: Längenkilometer auf ganze Kilometer abrunden
+
+Fi = U-Bahnhof Friedrichsfelde
+
+Final N 52° AA.BBB E 013° CC.0DD
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/U-Bahn-Linie_5_(Berlin)
+
+Anzahl aller Stationen = 20
+Stationen der Ur-Linie = 10
+Anzahl der Ausgänge des Bahnhofs Schillingstraße zur Jahrtausendwende = 1
+
+AA = 20+10-1 = 29
+
+Treppenstufen Bhf Fi Ri Hönow = 26
+
+BBB = 26*26 - 120 = 556
+
+Länge des Teilstücks, das 1988/89 eröffnet wurde = Tierpark (8,3) bis Hönow (18,4) = 10,1
+neu eröffnete Bahnhöfe von 1973-1988 = 3 (Tierpark, Biesdorf, Elsterwerdaer Platz)
+
+CC = 10 * 3 + 1 = 31
+DD = 30 * 3 = 93
+
+N 52° 29.556 E 013° 31.093
