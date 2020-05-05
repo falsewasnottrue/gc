@@ -1,0 +1,31 @@
+https://www.geocaching.com/geocache/GC7XRCN_amiga-grafik-kunst
+
+http://stibitz.denison.edu/art.html
+https://de.wikipedia.org/wiki/Stibitz-Code
+
+1010
+0100
+1001
+1100
+0110
+
+1001
+0111
+1000
+1010
+0110
+
+
+0101 2
+1011 8
+0110 3
+0011 0
+1001 6
+
+0110 3
+1000 5
+0111 4
+0101 2
+1001 6
+
+N52 28.306 E013 35.426
