@@ -2,11 +2,11 @@ https://www.geocaching.com/geocache/GC4KP6P
 
 6ED33CCA8298E7EFB859D0B6AAF20B21 @ 16:00
 
---- Lösung
-
 Hinweis: YYYY-MM-DD
 
-32 Zeichen
-nicht: Ascii
+--- Lösung
 
-6ED3 3CCA 8298 E7EF B859 D0B6 AAF2 0B21 @ 16:00
+16 Bytes
+nicht: Ascii
+6E D3 3C CA 82 98 E7 EF B8 59 D0 B6 AA F2 0B 21 @ 16:00
+n  O  <  E  ,  ~  c  i  ,  Y  D  P  a  o  K  !

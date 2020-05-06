@@ -17,3 +17,13 @@ Nord: 52° 30.Milliminuten mit Milliminuten = -200 * Y -297
 Ost: 013° 35.Milliminute mit Milliminuten = -200 * Y - X * 4 - 97
 
 --- Lösung
+
+S2: 
+Buchstabe: U
+ZXYWVU
+X = 6*3 = 18
+
+27*18 + 13 = 499
+35*18 + 5 = 635
+
+N52 30.499 E013 35.635
