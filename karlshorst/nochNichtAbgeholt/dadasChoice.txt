@@ -1,0 +1,23 @@
+https://www.geocaching.com/geocache/GC1Z3KE_dadas-choice
+N 52° 30.190 E 013° 32.920
+
+N 52° ((Summe der Geburtsjahre aller Künstler) x 2 + 4488)
+
+E 13° ((Summe der Werte der Anfangsbuchstaben der jeweiligen Stile) x 370 + 862)
+
+--- Lösung
+
+Der Schrei		Expressionismus			Edvard Munch				1863
+Wanderer		Romantik				Caspar David Friedrich		1774
+Sternennacht	Post-Impressionismus	Van Gogh					1853
+Drowning girl	Pop-Art					Roy Lichtenstein			1923
+Merlin			Ästhetizismus			Aubrey Beardsley			1872
+Golconda		Surrealismus			Rene Magritte				1898
+Girl with Mando	Kubismus				Pablo Picasso				1881
+
+A : 30616
+
+ERIPJSK = 88
+B: 33422
+
+N52 30.616 E13 33.422

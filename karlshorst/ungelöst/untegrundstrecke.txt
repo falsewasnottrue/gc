@@ -1,0 +1,29 @@
+https://www.geocaching.com/geocache/GC51VW7_untergrundstrecke
+
+--- Lösung
+
+1	Samariterstraße
+2
+3	Weberwiese
+4
+5	Strausberger Platz
+6
+7
+8
+9	Lichtenberg
+10	Weberwiese
+11
+12
+13
+14
+15
+16
+
+U Schillingstraße 		A =
+U Strausberger Platz 	B =
+U Weberwiese 			C =
+U Frankfurter Tor 		D =
+U Samariterstraße 		E =
+U Frankfurter Allee 	F =
+U Magdalenenstraße 		G =
+U Lichtenberg 			H =
