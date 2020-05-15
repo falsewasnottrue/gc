@@ -1,0 +1,22 @@
+https://www.geocaching.com/geocache/GC408EA_es-war-einmal
+N 52° 27.076 E 013° 33.374
+
+Der Cache befindet sich von dort in (XXX+4)m und (YYY-1)°
+XXX=die ersten drei Zahlen aus dem fehlenden Kästchen von oben gelesen
+YYY= die untersten drei Zahlen aus dem fehlenden Kästchen von unten gelesen
+
+--- Lösung
+
+2
+2
+7
+2
+1
+
+XXX = 227
+YYY = 127
+
+227 + 4 = 231 m
+127 - 1 = 126 Grad
+
+N52 27.003 E013 33.539

@@ -1,0 +1,21 @@
+https://www.geocaching.com/geocache/GC7CA8W_helden-unserer-jugend
+
+N52° 28. Kirk + Spock + 2*Pille + Uhura
+
+E13° 35. 2*( Kirk + Spock + Pille + Uhura + Sulu + Chekow + Scott - 37)
+
+--- Lösung
+
+Kirk	William Shatner		85
+Spock	Leonard Nimoy		76
+Pille	DeForest Kelley		70
+Uhura	Nichelle Nichols	80
+Sulu	George Takei		46
+Chekow	Walter Koenig		61
+Scott	James Doohan		57
+
+N52° 28. 85 + 76 + 2*70 + 80 = 381
+
+E13° 35. 2*( 85 + 76 + 70 + 80 + 46 + 61 + 57 - 37) = 876
+
+N 52 28.381 E13 35.876

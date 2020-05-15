@@ -1,0 +1,32 @@
+https://www.geocaching.com/geocache/GC28G90_linguaglossa-3-a-hellenian-feast
+N 52° 27.347 E 013° 32.188
+
+ny beta my delta omega iota epsilon iota gamma ny gamma iota zeta xi zeta
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/Griechisches_Alphabet
+https://de.wikipedia.org/wiki/Griechische_Zahlschrift
+
+ny			50
+beta		2
+
+my			40
+delta		4
+
+omega		800
+iota		10
+epsilon		5
+
+iota		10
+gamma		3
+
+ny			50
+gamma		3
+
+iota		10
+zeta		7
+xi			60
+zeta		7
+
+52 44 815 13 53 1767
