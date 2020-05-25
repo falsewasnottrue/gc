@@ -1,0 +1,19 @@
+https://www.geocaching.com/geocache/GC8NRB5_u-ei-senbahn-03
+N 52° 28.441 E 013° 35.920
+
+N52° 28.(Kolbenhub in mm)+ Anzahl der Heizrohre + 17
+E13° 35. (Laufraddurchmesser in mm) - ( Zylinderdurchmesser in mm) + Anzahl der Heizrohre + 10
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/LEG_%E2%80%93_Adler_und_Pfeil
+
+Kolbenhub in mm = 406
+Anzahl der Heizrohre = 62
+Laufraddurchmesser in mm = 915
+Zylinderdurchmesser in mm = 229
+
+N52 28.406 + 62 + 17
+E13 35.915 - 229 + 62 + 10
+
+N52 28.485 E13 35.758

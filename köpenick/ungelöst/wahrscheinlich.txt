@@ -1,4 +1,5 @@
 https://www.geocaching.com/geocache/GC70EEF_wahrscheinlich
+N 52° 27.501 E 013° 35.193
 
 f(x)=(1-x)e^(2-x) [e^(2-x) bedetutet e 'hoch' (2-x)]
 Welche Fläche wird vom Graph f mit der x-Achse über dem Intervall [0; 'Nullstelle'] eingeschlossen? (auf 2 Nachkommastellen runden)
@@ -19,6 +20,40 @@ d = Ergebnis multipliziert mit 0,1
 Auf einem Spaziergang triffst Du 50 Personen. Wie groß ist die Wahrscheinlichkeit, dass Du genau 20 Personen triffst, die mit dem Fahrrad unterwegs sind. Die Wahrscheinlichkeit dafür, das eine Person mit dem Fahrrad unterwegs ist betägt 0,5. (auf drei nachkommastellen runden)
 e = Ergebnis multipliziert mit 1000
 
+N52°27. uvw, E013°35. xyz
+
+u=(e/6)-b
+v=Quersumme(c)
+w=((d-14*a-3*c-e)/10)+b
+
+x=Quersumme(d)-Quersumme(c)
+y=((c-e)/2)-b
+z=Quersumme(c)-Quersumme(e)-1
+
 ---
 
-d = 8! * 0,1 = 40320 * 0,1 = 4032
+a: NS: f(x)=0 -> (1-x)=0 -> x = 1
+   F(x) = x*e^(2-x)
+   F(1)-F(0) = e
+   a = 271.82... = 272
+
+b: 0.1^6 * 1.000.000
+   b = 1
+
+c: 540000 * 0.0001 = 54
+
+d: 8! * 0,1 = 40320 * 0,1 = 4032
+
+e: 0.0418 * 1000 = 42
+
+---
+
+u = (e/6)-b = 42/6 - 1 = 6
+v = Quersumme(c) = 9
+w = ((d-14*a-3*c-e)/10)+b = ((4032 - 14 * 272 - 3*54 - 42) / 10) + 1 = 3
+
+x = Quersumme(d)-Quersumme(c) = 9 - 9 = 0
+y = ((c-e)/2)-b = ((54-42)/2) - 1 = 5
+z = Quersumme(c)-Quersumme(e)-1 = 9 - 6 - 1 = 2
+
+N52 27.693 E013 35.052

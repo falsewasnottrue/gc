@@ -1,0 +1,12 @@
+https://www.geocaching.com/geocache/GC8NR26_u-ei-senbahn-02
+N 52° 28.441 E 013° 35.920
+
+H= Höchstgeschwindigkeit in km/h
+N52° 28.H*4+32 E13° 35.H*3+52
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/DB-Baureihe_VT_08
+H = 140
+
+N52 28.592 E13 35.472
