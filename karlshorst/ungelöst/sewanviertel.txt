@@ -1,17 +1,17 @@
 https://www.geocaching.com/geocache/GC78TRK_sewan-viertel
 N 52° 29.815 E 013° 30.417
 
-Baikalstraße		420		31.722 km²
-Balatonstraße		685
-Dolgenseestraße		1150/2463
-Erieseering			500		25.667 km²
-Huronseestraße		500		59.586 km²
-Mellenseestraße		515
-Michiganseestraße	640		58.016 km²
-Moldaustraße		540
-Ontarioseestraße	300		19.011 km²
-Schwarzmeerstraße	1000	436.400 km²
-Sewanstraße			2170
+Baikalstraße		 420		31.722 km²
+Balatonstraße		 685
+Dolgenseestraße		 1150
+Erieseering			 500		25.667 km²
+Huronseestraße		 500		59.586 km²
+Mellenseestraße		 515
+Michiganseestraße	 640		58.016 km²
+Moldaustraße		 540
+Ontarioseestraße	 300		19.011 km²
+Schwarzmeerstraße	 1000	436.400 km²
+Sewanstraße			 2170
 
 1) Wann bekamen die ersten beiden Straßen ihren heutigen Namen?
 Quersumme der Jahreszahl = A
@@ -56,21 +56,21 @@ N 52° (A+J).(B:F+D*K+39) E 013° (G*I+6).(C–E–H–L2–2)
 
 --- Lösung
 
- 1) A = QS(1965) = 21
- 2) B = 1150
+ 1) A = QS(1955) = 20
+ 2) B = 1150					(https://de.wikipedia.org/wiki/Liste_der_Stra%C3%9Fen_und_Pl%C3%A4tze_in_Berlin-Friedrichsfelde)
  3) C = 244 					(https://de.wikipedia.org/wiki/Ontariosee)
- 4) D = QS(1875) = 21 			(https://de.wikipedia.org/wiki/Mein_Vaterland#Vltava_(Die_Moldau))
+ 4) D = QS(1882) = 19 			(https://de.wikipedia.org/wiki/Mein_Vaterland)
  5) E = QS(1841) = 14 			(https://de.wikipedia.org/wiki/John_Maynard)
  6) F = QS(2008) = 10 			(Kanye West - Homecoming)
  7) G = 6						(Schwarzes Meer)
- 8) H = QS(455) = 14			(Baikalsee)
- 9) I = 4						(Huronen)
+ 8) H = QS(456) = 15			(Baikalsee)
+ 9) I = 4						(Huronen, https://de.wikipedia.org/wiki/Wyandot#Heutige_Gruppen_der_Wyandot)
 10) J = 9						(Balatonknirpse, Balatonstraße 9)
 11) K = 36						(Mellenseestraße 36)
 12) L = 8
 
 Busse
-- Erieseestraße
+- Erieseering
 - Mellenseestr./Sewanstraße
 - Sewanstr./Dolgenseestr
 - Sewanstr./Volkradstr
@@ -80,4 +80,6 @@ Busse
 - Mellenseestr
 
 N 52° (A+J).(B:F+D*K+39) E 013° (G*I+6).(C–E–H–L2–2)
-N 52° 30.910 E 013° 30.150
+N 52° (20+9).(1150:10 + 19*36 + 39) E 013° (6*4+6).(244–14–15–8*8–2)
+
+N 52 29.838 E 013 30.149
