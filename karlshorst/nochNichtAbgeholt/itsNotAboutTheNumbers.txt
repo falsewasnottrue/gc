@@ -1,0 +1,19 @@
+https://www.geocaching.com/geocache/GC1ERQ9_its-not-about-the-numbers
+N 52° 28.906 E 013° 29.306
+
+2 2 13 EB.2 2 7 BH.3 3 3 3 3 3 GCG
+13 AC.29 BI.2 2 2 103 DHA
+
+--- Lösung
+
+2 2 13 EB.2 2 7 BH.3 3 3 3 3 3 GCG
+13 AC.29 BI.2 2 2 103 DHA
+
+EB.BH.GCG
+AC.BI.DHA
+
+2 2 13.2 2 7.3 3 3 3 3 3
+13.29.2 2 2 103
+
+Buchstaben: N52 28.737 E013 29.481
+Zahlen:		N52 28.729 E013 29.824
