@@ -1,0 +1,32 @@
+https://www.geocaching.com/geocache/GC5XT8R_film-ab
+N 52° 26.800 E 013° 30.406
+
+--- Lösung
+
+1. Skyfall Oskars
+   https://de.wikipedia.org/wiki/James_Bond_007:_Skyfall
+   A = 2
+2. Kinder des Zorns, Sequels bis 2002
+   https://de.wikipedia.org/wiki/Kinder_des_Zorns
+   B = 6
+3. https://de.wikipedia.org/wiki/Titanic_(1997), James Cameron
+   C = 3
+4. Harry Potter und die Heiligtümer des Todes - Teil 1, Baftas
+   https://de.wikipedia.org/wiki/Harry_Potter_und_die_Heiligt%C3%BCmer_des_Todes_%E2%80%93_Teil_1
+   D = 0
+5. https://de.wikipedia.org/wiki/Br%C3%BCgge_sehen%E2%80%A6_und_sterben%3F, 2008
+   E = 8
+6. https://de.wikipedia.org/wiki/Asterix_und_Kleopatra_(Film), 1968
+   F = 68
+7. https://de.wikipedia.org/wiki/Jim_Carrey, BWW(Jim) = 32
+   G = 32
+8. https://de.wikipedia.org/wiki/The_Sixth_Sense
+   H = 6
+
+N 52° AB.EF E013° CD.GH
+
+N 52 26.868 E013 30.326
+
+--- Text
+
+Dass "Kinder des Zorns" auf englisch "Children of the Corn" heißt, wußte ich noch gar nicht und finde ich charmant und witzig.

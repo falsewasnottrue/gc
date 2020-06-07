@@ -1,0 +1,47 @@
+https://www.geocaching.com/geocache/GC1TP3R_naturfreund-vogel
+N 52° 27.000 E 013° 29.500
+
+Der Owner hat 'nen Vogel? Mag sein, aber keinen realen . Wenn ihr auch einen Vogel habt oder euch einfach nur gut in der Vogelwelt auskennt, dann schaut euch jedes Bild an und überlegt, welcher Vogel jeweils abgebildet ist. Nehmt die dem Vogel zugeordnete Ziffer (bzw. den Buchstaben) und tragt sie an seiner Stelle in die Koordinaten ein.
+
+Der Cache fliegt an:
+A bc° de.fgh
+I jk° lm.nop
+
+- Nebelkrähe: N
+- Dohle: E
+- Amsel: 6
+- Bachstelze: 2
+- Basstölpel: 9
+- Blässhuhn: 5
+- Buchfink: 1
+- Eichelhäher: 1
+- Fasan: 2
+- Mandarinente: 2
+- Nachtigall: 3
+- Rotkehlchen: 3
+- Silbermöwe: 7
+- Sperling: 6
+- Star: 0
+- Zaunkönig: 7
+
+--- Lösung
+
+A: Rabe, Krähe		-> N
+B: Blässhuhn		-> 5
+C: Mandarinente		-> 2
+D: Fasan			-> 2
+E: Silbermöwe		-> 7
+F: Buchfink			-> 1
+G: Amsel			-> 6
+H: Star				-> 0
+
+I: Dohle			-> E
+J: Eichelhäher		-> 1
+K: Rotkehlchen		-> 3
+L: Bachstelze		-> 2
+M: Basstölpel		-> 9
+N: Sperling			-> 6
+O: Nachtigall		-> 3
+P: Zaunkönig		-> 7
+
+N 52 27.160 E013 29.637
