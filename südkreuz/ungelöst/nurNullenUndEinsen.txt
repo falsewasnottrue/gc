@@ -1,0 +1,13 @@
+https://www.geocaching.com/geocache/GC66QKQ_nur-nullen-und-einsen
+N 52° 27.345 E 013° 27.111
+
+Die Aufgabe
+Finde die kleinste Dezimalzahl, die größer als 1 ist und die nur aus Nullen und/oder Einsen besteht, wenn sie in den Zahlensystemen mit der Basis 2 (binär), Basis 3 (ternär), Basis 4 (quaternär) und Basis 5 (quinär) dargestellt wird. Die Dezimalzahl selbst darf auch andere Ziffern enthalten.
+
+N 52° 27.Dezimalzahl/100 , E 13° 26.Dezimalzahl/100 (Nachkommastellen können ggf. wegfallen)
+
+--- Lösung
+
+82000
+
+N 52 27.820 E 013 26.820

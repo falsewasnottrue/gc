@@ -1,0 +1,88 @@
+https://www.geocaching.com/geocache/GC1XK21_schau-spater-noch-mal-vorbei
+N 52° 29.390 E 013° 33.815
+
+--- Lösung
+
++ Daten sortieren
+- Images der 36 Symbole erzeugen
+  - 100 runterladen (mit Sekundenangabe + genauer Zeitangabe)
+  - als Bild speichern
+  - 36 Symbole croppen -> img0.png bis img35.png
+- Funktion zur Vorhersage der Symbole
+  - Sekundenangabe -> in Base 36 umrechnen?
+  - Datum in Sekundenangabe umrechnen
+
+unsortiert/raw:
+<span style="font-size:1.15em;">03.06.1985 08:36:57<br /></span>
+<span style="font-size:1.27em;">01.05.1987 02:08:37<br /></span>
+<span style="font-size:1.1em;">09.06.1989 01:23:09<br /></span>
+<span style="font-size:1.25em;">19.06.1989 17:48:50<br /></span>
+<span style="font-size:1.02em;">15.01.2009 11:19:33<br /></span>
+<span style="font-size:1.09em;">01.10.2010 13:57:14<br /></span>
+<span style="font-size:1.28em;">01.09.2011 21:17:54<br /></span>
+<span style="font-size:1.2em;">22.11.2012 06:03:13<br /></span>
+<span style="font-size:1.17em;">10.03.2013 00:54:24<br /></span>
+<span style="font-size:1.33em;">20.03.2013 21:30:21<br /></span>
+<span style="font-size:1.34em;">29.05.2013 02:36:52<br /></span>
+<span style="font-size:1.08em;">30.09.2013 03:52:58<br /></span>
+<span style="font-size:1.06em;">07.09.2014 04:11:37<br /></span>
+<span style="font-size:1.01em;">25.06.2018 13:17:42<br /></span>
+<span style="font-size:1.31em;">21.05.2020 22:19:36<br /></span>
+<span style="font-size:1.07em;">25.05.2020 14:55:41<br /></span>
+<span style="font-size:1.16em;">22.10.2020 21:04:05<br /></span>
+<span style="font-size:1.22em;">09.11.2020 04:28:36<br /></span>
+<span style="font-size:1.23em;">21.04.2022 08:42:24<br /></span>
+<span style="font-size:1.11em;">08.05.2026 17:16:42<br /></span>
+<span style="font-size:1.05em;">21.01.2028 12:14:06<br /></span>
+<span style="font-size:1.19em;">28.09.2029 11:04:42<br /></span>
+<span style="font-size:1.29em;">26.11.2029 12:24:46<br /></span>
+<span style="font-size:1.24em;">23.05.2030 03:43:53<br /></span>
+<span style="font-size:1.04em;">13.09.2030 09:21:30<br /></span>
+<span style="font-size:1.13em;">25.07.2032 12:28:25<br /></span>
+<span style="font-size:1.32em;">29.07.2037 11:16:05<br /></span>
+<span style="font-size:1.26em;">15.02.2038 08:24:39<br /></span>
+<span style="font-size:1.18em;">30.04.2040 20:24:46<br /></span>
+<span style="font-size:1.3em;">02.05.2040 13:49:47<br /></span>
+<span style="font-size:1.12em;">20.06.2041 11:27:59<br /></span>
+<span style="font-size:1.03em;">15.05.2043 03:41:18<br /></span>
+<span style="font-size:1.21em;">12.11.2043 11:12:50<br /></span>
+<span style="font-size:1.14em;">01.03.2053 03:22:54<br />
+
+---
+
+ 1. 25.06.2018 13:17:42
+ 2. 15.01.2009 11:19:33
+ 3. 15.05.2043 03:41:18
+ 4. 13.09.2030 09:21:30
+ 5. 21.01.2028 12:14:06
+ 6. 07.09.2014 04:11:37
+ 7. 25.05.2020 14:55:41
+ 8. 30.09.2013 03:52:58
+ 9. 01.10.2010 13:57:14
+10. 09.06.1989 01:23:09
+11. 08.05.2026 17:16:42
+12. 20.06.2041 11:27:59
+13. 25.07.2032 12:28:25
+14. 01.03.2053 03:22:54
+15. 03.06.1985 08:36:57
+16. 22.10.2020 21:04:05
+17. 10.03.2013 00:54:24
+18. 30.04.2040 20:24:46
+19. 28.09.2029 11:04:42
+20. 22.11.2012 06:03:13
+21. 12.11.2043 11:12:50
+22. 09.11.2020 04:28:36
+23. 21.04.2022 08:42:24
+24. 23.05.2030 03:43:53
+25. 19.06.1989 17:48:50
+26. 15.02.2038 08:24:39
+27. 01.05.1987 02:08:37
+28. 01.09.2011 21:17:54
+29. 26.11.2029 12:24:46
+30. 02.05.2040 13:49:47
+31. 21.05.2020 22:19:36
+32. 29.07.2037 11:16:05
+33. 20.03.2013 21:30:21
+34. 29.05.2013 02:36:52
+
+
