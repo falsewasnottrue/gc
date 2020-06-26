@@ -4,13 +4,16 @@ N 52° 29.390 E 013° 33.815
 --- Lösung
 
 + Daten sortieren
-- Images der 36 Symbole erzeugen
-  - 100 runterladen (mit Sekundenangabe + genauer Zeitangabe)
-  - als Bild speichern
-  - 36 Symbole croppen -> img0.png bis img35.png
-- Funktion zur Vorhersage der Symbole
-  - Sekundenangabe -> in Base 36 umrechnen?
-  - Datum in Sekundenangabe umrechnen
++ Images der 36 Symbole erzeugen
+  + 100 runterladen (mit Sekundenangabe + genauer Zeitangabe)
+  + als Bild speichern
+  + 36 Symbole croppen -> img0.png bis img35.png
++ Funktion zur Vorhersage der Symbole
+  + Sekundenangabe -> in Base 36 umrechnen?
+  + Datum in Sekundenangabe umrechnen
+  + Skript erweitern, nebeneinander: generierte und abgerufene Sequenz
+  + sortierte Daten (unten) umwandeln
+- Anzahl der Symbole?
 
 unsortiert/raw:
 <span style="font-size:1.15em;">03.06.1985 08:36:57<br /></span>
