@@ -1,0 +1,21 @@
+https://www.geocaching.com/geocache/GC7NC8K_zuge-in-das-leben-zuge-in-den-tod
+N 52° 31.183 E 013° 23.275
+
+1. In welchem Jahr wurde das Denkmal eingeweiht? Quersumme = A
+2. Am wievielten November traf das britische Parlament oben genannte Entscheidung? Tag = B
+3. Wieviele Kinder verließen mit dem ersten Transport Deutschland? Anzahl = C
+4. Was liegt in dem offenen Koffer (5 Buchstaben)? Wortwert = D
+5. Wieviele Schuhe der Kinder haben Schnürsenkel? Anzahl = E
+6. Das Mädchen, das ausreisen darf, trägt eine Brosche. Was ist darauf zu sehen (5 Buchstaben)? Wortwert = F
+
+N 52 31.[C - B] E 13 22.[(E-1)*F + A*(D+1)]
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/Z%C3%BCge_ins_Leben_%E2%80%93_Z%C3%BCge_in_den_Tod:_1938%E2%80%931939
+
+1. 30. November 2008
+   A = 10
+2. 21. November 1938
+   B = 21
+3. 

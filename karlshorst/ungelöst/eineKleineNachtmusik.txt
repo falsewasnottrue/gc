@@ -1,4 +1,5 @@
 https://www.geocaching.com/geocache/GC2XPYP_eine-kleine-nachtmusik-fur-elise
+N 52° 31.028 E 013° 32.535 
 
 Summe der Notierung für Beethoven = A
 Summe der Notierung für Mozart = B
@@ -18,9 +19,6 @@ B 5 4 5 4 5 2 4 3 1
 Summe 
 A: 19
 B: 33
-
-N 52°[2(B-A+2)].[(14xB)+4]
-E013°[2(B-A+3)].[(AxB)-8(A+B)-25]
 
 (17,30,N52 30.424 E013 32.109)
 (18,31,N52 30.438 E013 32.141)
@@ -45,3 +43,15 @@ E013°[2(B-A+3)].[(AxB)-8(A+B)-25]
 nicht
 A: 20 B: 33 N 52 30.466 E013 32.211
 A: 18 B: 33 N 52 34.466 E013 36.161
+
+---
+
+https://de.wikipedia.org/wiki/Anderssprachige_Tonbezeichnungen
+
+B: G D G D G D G B D -> 46
+A: E D E D E B D C A -> 33
+
+N 52°[2(B-A+2)].[(14xB)+4]         = N 52 30.648
+E013°[2(B-A+3)].[(AxB)-8(A+B)-25]  = E 13 32.861
+
+N 52 30.648 E 013 32.861

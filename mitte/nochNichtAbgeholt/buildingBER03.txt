@@ -1,0 +1,11 @@
+https://www.geocaching.com/seek/cache_details.aspx?wp=GC5GP4J&title=
+N 52° 31.556 E 013° 24.191
+
+Aber was bedeutete eigentlich ABAP früher mal?
+
+N = Start - ABAP + 508
+E = Start + ABAP - 440
+
+--- Lösung
+
+ABAP: 

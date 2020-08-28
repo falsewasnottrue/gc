@@ -1,0 +1,31 @@
+https://www.geocaching.com/geocache/GC82QTW_staatsoper-berlin
+N 52° 31.028 E 013° 23.679
+
+52 3 ( BWW B - BWW A - 53). ( 3x BWW C) + (3x BWW D) -7
+13 2 ( BWW E - BWW F -22). ( 3x BWW G + BWW H ) -119
+
+Hinweis:
+ä ö ü = 0
+(D mit a am Ende vom ersten Wort , F mit unbestimmten Artikel)
+
+--- Lösung
+
+A Faust
+B Tannhäuser (und der Sängerkrieg auf Wartburg)
+C Hänsel und Gretel
+D Madama Butterfly
+E Der Liebestrank?
+F Ein Maskenball
+G Der Barbier von Sevilla
+H Der fliegende Holländer
+
+A = 67	ok
+B = 120 ok
+C = 164
+D = 162
+E = 143 ok
+F = 118 ok
+G = 213
+H = 182
+
+N 52 30.971 E13 23.702

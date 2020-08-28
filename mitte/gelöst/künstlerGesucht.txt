@@ -1,0 +1,50 @@
+https://www.geocaching.com/geocache/GC75J68_kunstler-gesucht
+
+Er war ungeheuerlich produktiv.
+Er war Dichter, Sänger, Komponist und Literat.
+In einem langen Künstlerleben brachte er immer wieder neue Texte und Titel heraus.
+Richtig berühmt war er nie, obwohl er doch einiges vorzuweisen hat;
+aber er hatte eine Fan-Gemeinde.
+Teile seiner Musik wurden nach Jahrzehnten von einer deutschen Gruppe sehr erfolgreich gecovert.
+Er hat sogar mal für Charly Chaplin gearbeitet, weil er ein paar Dinge besser konnte als dieser.
+Mit einem berühmt-berüchtigten Gangster hat er Schach gespielt (wer öfter gewonnen hat, ist nicht überliefert).
+Und auch ein kritischer Kommentar zum Euro stammt von ihm.
+Mich hat es gewundert, dass dieser nicht öfter während der Euro-Krise zitiert wurde.
+Viele seiner Texte klangen „schräg“ und wenn man nicht wusste, wie sie gemeint waren,
+konnte man sie durchaus falsch verstehen.
+Er erinnerte auch gern mal mit ein paar jiddischen Beiträgen an seine Abstammung.
+Sein wohl bekanntester Titel hat Tierschützer auf die Palme gebracht.
+Ich selbst habe ihn zuletzt hier in Berlin im ´Tipi im Kanzleramt´ bewundern dürfen.
+Es war ein toller Abend.
+Aber nun die Frage: Welchen Künstler suchen wir denn eigentlich hier?
+
+Hint1: Kuenstler: Ich fand seine Brillen immer etwas ZU groß.
+
+Hint 2: Kuenstler: Zu seinem bekanntesten Titel gab es Plagiatsvorwürfe, die er immer bestritten hat.
+
+Hint 3: Kuenstler: Er war 4 mal verheiratet: Von den beiden letzten seiner Frauen weiss ich, dass sie mit ihm auftraten.
+
+Wenn Ihr es heraushabt, müsst ihr rechnen:
+Buchstabenwert Vorname = A
+Buchstabenwert Nachname = B
+Buchstabenwert häufigster Buchstabe Vorname = C
+
+Nord: N52°A*B*6+6*B-21
+Ost: E13°C*36*B-B-A-31
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/Georg_Kreisler
+
+Buchstabenwert Vorname = A = 52
+Buchstabenwert Nachname = B = 97
+Buchstabenwert häufigster Buchstabe Vorname = C = 7
+
+Nord: N52° A*B*6+6*B-21 = 52*97*6 + 6*97 - 21 = 30825 
+Ost: E13° C*36*B-B-A-31 = 7*36*97 - 97 - 52 - 31 = 24264
+
+N 52 30.825 E 013 24.264
+
+SUPER - gut gemacht!!!
+
+Die Dose liegt gegenüber dem Hotel Capri ?nahe der Strassenecke (Zaun - Rohr)

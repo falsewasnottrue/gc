@@ -1,0 +1,40 @@
+https://www.geocaching.com/geocache/GCNB2R
+N 52° 31.300 E 013° 23.620
+
+
+--- Lösung
+N 52° 31.300 E 013° 23.620 -> Am Kupfergraben
+1320 m auf 327,5° -> N52 31.900 E013 22.992 Zinnowitzer Straße
+
+Kupfer (Cu) 29
+Zinn (Sn) 50 
+nach oben: Aluminium (Al)
+-> a = 26
+
+nach unten: Quecksilber (Hg)
+-> c = 200/10 = 20
+
+https://de.wikipedia.org/wiki/Aluminiumamalgam
+https://de.wikipedia.org/wiki/Bronze -> BBW 80
+
+Na,IRe -> 11,53 75
+He,SMn -> 2,16 25
+
+Na,IRe * 80 = 923 = b
+He,SMn * 80 = 173 = d
+
+N 52° a,b E 013° c,d -> 
+N 52° 26,923 E 013° 20,173
+
+-> Erwachendes Mädchen, Bronze, aufgestellt 1959
+-> https://de.wikipedia.org/wiki/Josef_Limburg
+
+Siedepunkt Li: 1342
+1342/10 + 1,7 = 135,9
+Winkel 360 - 135,9 = 224,1
+
+Abstand Cd/Li * Fm - W
+48/3 * 100 - 74 = 1600-74 = 1526 m
+
+Peilung N52 31.300 E013 23.620; 1526 Meter; 224,1° liegt bei N52 30.709 E013 22.679
+Peilung N52 26.923 E013 20.173; 1526 Meter; 224,1° liegt bei N52 26.332 E013 19.234.

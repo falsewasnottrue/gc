@@ -1,0 +1,25 @@
+https://www.geocaching.com/geocache/GC6HD4X_improvisation-1
+N 52° 30.900 E 013° 24.550
+
+1) oberes Bild:  Schirm mit " _ _ K _ _  "
+2) unteres Bild: Gewicht an " _ _ R _ _ i _ _ _ "
+
+AUFGABE:
+Buchstabensumme der fehlenden Buchstaben des Wortes aus dem oberen Bild ist A
+Buchstabensumme der fehlenden Buchstaben des Wortes aus dem unteren Bild ist B 
+
+Der Cache liegt bei N52° 30. (16 * B  + A - 4)  E 013° 24. (20 * A -  9)
+
+--- Lösung
+
+1) Schirm mit Haken
+   fehlende Buchstaben: HAEN
+   A = 28
+2) Gewicht an Karabiner
+   fehlende Buchstaben: KAABNER
+   B = 52
+   
+16 * B  + A - 4 = 16*52 + 28 - 4 = 856
+20 * A -  9 = 20*28 - 9 = 551
+
+N52 30.856 E 013 24.551

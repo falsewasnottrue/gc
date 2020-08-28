@@ -1,0 +1,15 @@
+https://www.geocaching.com/geocache/GC1CZFB_einsame-strecke
+N 52° 31.230 E 013° 28.300
+
+Für den Start ne kleine Aufgabe nebenbei : N 52°31.A E 013°28.B
+
+Wieviele Tage hat da Jahr 2000 gehabt ? Zieht von dieser Zahl 119 ab und ihr erhaltet A !
+Jetzt nur noch A + 99 und ihr habt B !
+
+--- Lösung
+
+2000 Schaltjahr -> 366 Tage
+A = 366 - 119 = 247
+B = 247 + 99 = 346
+
+N 52 31.247 E 013 28.346

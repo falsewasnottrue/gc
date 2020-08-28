@@ -1,0 +1,37 @@
+https://www.geocaching.com/geocache/GC8M70R_filmlexikon
+
+A= „… komme wieder!“ aus dem Film „T“ -1
+B= „Es leuchtet …“ aus dem Film „RIII“
+C= „Bereit, wenn Sie es sind, Sergeant…“ aus dem Film „DSDL“
+
+E= „Happy birthday dear …“ aus dem Film „KFM“ -2
+D= „… Asiens“ aus dem Film „GGIWS“ -4
+F= E+A+B-D
+
+N52 33.ABC E13 24.DEF
+
+--- Lösung
+
+A: Ich komme wieder
+   A = 3 - 1 = 2
+B: Es leuchtet blau
+   B = 4
+C: pembry
+   C = 6
+   
+D: D = 5 (Brute force)
+E: Sheldon (Kentucky fried movie) -2
+   E = 7-2 = 5
+F: E+A+B-D = 5+2+4-D = 11-D
+
+D 	F	Koord
+2	9	N52 33.246 E13 24.259
+3	8	N52 33.246 E13 24.358
+4	7	N52 33.246 E13 24.457
+5	6	N52 33.246 E13 24.556
+6	5	N52 33.246 E13 24.655
+7	4	N52 33.246 E13 24.754
+8	3	N52 33.246 E13 24.853
+9	2	N52 33.246 E13 24.952
+
+N52 33.246 E13 24.556

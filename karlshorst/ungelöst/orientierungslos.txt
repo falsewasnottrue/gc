@@ -1,0 +1,63 @@
+https://www.geocaching.com/geocache/GC23N2A_orientierungshilfe
+N 52° 30.455 E 013° 33.753
+
+oben:
+22,104,61
+126,83,48
+218,66,30
+140,109,171
+125,173,76
+140,109,171
+34,79,134
+82,141,186
+125,173,76
+140,109,171
+
+mitte:
+N 52 4.1.5.3.4.8.7.1.3.7 13 E
+
+unten:
+243,121,29
+0,122,91
+82,141,186
+218,66,30
+243,121,29
+82,141,186
+218,66,30
+243,121,29
+82,141,186
+125,173,76
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/Berliner_Verkehrsbetriebe
+
+22,104,61							Minzgrün		RAL 6029
+126,83,48		Kennfarbe U5/U55 	Rehbraun 		RAL 8007 	55,80,90,10 	126, 83, 48 (#7E5330) 
+218,66,30		Kennfarbe U2 		Blutorange 		RAL 2002 	0,85,100,0 		218, 66, 30 (#DA421E)
+140,109,171		Kennfarbe U6 		Blaulila 		RAL 4005 	55,65,0,5 		140, 109, 171 (#8C6DAB)
+125,173,76		Kennfarbe U1 		Gelbgrün 		RAL 6018 	70,0,100,10 	125, 173, 76 (#7DAD4C) 
+140,109,171		Kennfarbe U6 		Blaulila 		RAL 4005 	55,65,0,5 		140, 109, 171 (#8C6DAB)
+34,79,134		Kennfarbe U8 		Enzianblau 		RAL 5010 	100,60,0,20 	34, 79, 134 (#224F86) 
+82,141,186		Kennfarbe U7 		Lichtblau 		RAL 5012 	80,20,0,0 	82, 141, 186 (#528DBA)
+125,173,76		Kennfarbe U1 		Gelbgrün 		RAL 6018 	70,0,100,10 	125, 173, 76 (#7DAD4C) 
+140,109,171		Kennfarbe U6 		Blaulila 		RAL 4005 	55,65,0,5 		140, 109, 171 (#8C6DAB)
+
+unten:
+243,121,29		Kennfarbe U9 		Pastellorange 	RAL 2003 	0,55,100,0 		243, 121, 29 (#F3791D) 
+0,122,91		Kennfarbe U3 		Türkisgrün 		RAL 6016 	100,30,80,0 	0, 122, 91 (#007A5B) 
+82,141,186		Kennfarbe U7 		Lichtblau 		RAL 5012 	80,20,0,0 		82, 141, 186 (#528DBA)
+218,66,30		Kennfarbe U2 		Blutorange 		RAL 2002 	0,85,100,0 		218, 66, 30 (#DA421E)
+243,121,29		Kennfarbe U9 		Pastellorange 	RAL 2003 	0,55,100,0 		243, 121, 29 (#F3791D) 
+82,141,186		Kennfarbe U7 		Lichtblau 		RAL 5012 	80,20,0,0 		82, 141, 186 (#528DBA)
+218,66,30		Kennfarbe U2 		Blutorange 		RAL 2002 	0,85,100,0 		218, 66, 30 (#DA421E)
+243,121,29		Kennfarbe U9 		Pastellorange 	RAL 2003 	0,55,100,0 		243, 121, 29 (#F3791D) 
+82,141,186		Kennfarbe U7 		Lichtblau 		RAL 5012 	80,20,0,0 		82, 141, 186 (#528DBA)
+125,173,76		Kennfarbe U1 		Gelbgrün 		RAL 6018 	70,0,100,10 	125, 173, 76 (#7DAD4C) 
+
+	 ?.5.2.6.1.6.8.7.1.6
+N 52 4.1.5.3.4.8.7.1.3.7 13 E
+	 9.3.7.2.9.7.2.9.7.1
+
+	   9.5.2.5.3.8.8.2.5
+

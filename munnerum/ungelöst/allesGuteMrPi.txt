@@ -14,17 +14,22 @@ B Weinende Frau, La femme qui pleure, 1937
 C Der alte Gitarrenspieler, Le Vieux guitariste, 1904
   https://en.wikipedia.org/wiki/The_Old_Guitarist
 D Jacqueline mit Blumen, Jacqueline avec des fleurs, 1954
+  Jacqueline with Flowers
 E Dora Maar au chat, 1941
   https://en.wikipedia.org/wiki/Dora_Maar_au_Chat
+  Portrait of Dora Maar with cat
 F Maya mit Puppe, Maya à la poupée, 1938
   https://en.wikipedia.org/wiki/Maya_with_Doll
 
 https://de.wikipedia.org/wiki/Pablo_Picasso
 
-  	Jahr	Tipp	QS	I	Alter 	BBW	frz		Alter Picasso
-A 	1901	8		11	2	114		149	108		20
-B 	1937	16		20	2	78		125	179		56
-C 	1904	17		14	5	111		241 227		23
-D 	1954	16		19	1	61 		210 237		73
-E 	1941	14		15	6	74		125 125		60
-F 	1938	8		21	3	77		156 126		57
+  	Jahr	Tipp	QS	I	Alter 	BBW	frz		eng		Alter Picasso
+A 	1901	8		11	2	114		149	108		134		20
+B 	1937	16		20	2	78		125	179		178		56
+C 	1904	17		14	5	111		241 227		188		23
+D 	1954	16		19	1	61 		210 237				73
+E 	1941	14		15	6	74		125 125		293 	60
+F 	1938	8		21	3	77		156 126		143		57
+
+Jacqueline with Flowers -> 16
+Dora Maar with cat -> 14

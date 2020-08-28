@@ -1,0 +1,21 @@
+https://www.geocaching.com/geocache/GC38J8A_endstation-berliner-mauer
+N 52° 31.197 E 013° 23.224
+
+Nord:   B - (E*187) = _._ _ _
+
+Ost:     (A*375)+(D*15)+(C/6) = _._ _ _
+
+N52° 3_._ _ _         E13° 2_._ _ _
+
+1. Wie viele Wappen sind an der Oberbaumbrücke von der Straße aus zu sehen?
+   A = 8
+2. Welche ist die letzte "rote" Zahl auf diesem Mauerstück? (Kartendaten Juni 2008)
+   B = 1989
+3. C = 12
+4. D = 6
+5. E = 4
+
+N: B - 187*E = 1989 - 187 * 4 = 1241
+E: (A*375)+(D*15)+(C/6) = 375*8 + 15*6 + 12/6 = 3092
+
+N 52 31.241 E013 23.092

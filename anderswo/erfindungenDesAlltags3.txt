@@ -1,0 +1,42 @@
+https://www.geocaching.com/geocache/GC4541Y_erfindungen-des-alltags-iii
+N 52° 29.700 E 013° 47.500 
+
+N 52° ab.cde E 013°4f.ghi
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+- a = BW 2 BS - BW 4 BS
+- b = BW 7 BS - BW 19 BS
+- c = BW 15 BS - BW 10 BS
+- d = BW 20 BS - BW 6 BS
+- e = BW 17 BS - BW 15 BS
+- f = BW 2 BS - BW 3 BS
+- g = BW 12 BS - BW 13 BS
+- h = BW 15 BS - BW 3 BS
+- i = 2 x BW BS 11
+
+--- Lösung
+
+1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+t o i l e t t e n p a p i e r m u e t z e
+
+h a e k e l K l o p a p i e r m u e t z e
+H a e k e l k l o r o l l e
+g e h a e k e l t e k l o r o l l e
+k l o p a p i e r a b d e c k u n g
+
+https://de.wikipedia.org/wiki/Klopapierhut
+
+
+- a = BW 2 BS - BW 4 BS 	= BW o - BW l = 15 - 12 = 3
+- b = BW 7 BS - BW 19 BS 	= BW t - BW t = 0
+- c = BW 15 BS - BW 10 BS	= BW r - BW p = 18 - 16 = 2
+- d = BW 20 BS - BW 6 BS 	= BW z - BW t = 26 - 20 = 6
+- e = BW 17 BS - BW 15 BS	= BW u - BW r = 21 - 18 = 3
+- f = BW 2 BS - BW 3 BS		= BW o - BW i = 15 - 9 = 6
+- g = BW 12 BS - BW 13 BS	= BW p - BW i = 16 - 9 = 7
+- h = BW 15 BS - BW 3 BS	= BW r - BW i = 18 - 9 = 9
+- i = 2 x BW BS 11			= 2 * BW a    = 2
+
+N 52 30.263 E 013 46.792

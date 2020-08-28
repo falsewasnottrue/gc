@@ -1,0 +1,55 @@
+https://www.geocaching.com/geocache/GC21233_theater-an-der-parkaue
+N 52° 31.025 E 013° 28.685
+
+A. Wann wurde der anfänglich z-fömige Gebäudekomplex errichtet ?
+1911 - 0
+1912 - 1
+1916 - 2
+
+B. Welche Befehl´s-Nr. erließ das damalige „SMAD“, um eine Umwidmung des Gebäudes für kulturelle Zwecke zu erwirken ?
+63 - 3
+65 - 1
+68 - 7
+
+C: Wer übernahm für fast 15 Jahre die Intendanz des ersten reinen Kinder- und Jugendtheaters?
+Ilse Rodenberg – 2
+Horst Hawemann – 7
+Carl-Hermann Riss – 5
+
+D: An welchen Kunststil der Baugeschichte ist das Gebäude angelehnt
+Renaissance - 6
+Jugendstil - 7
+Barock - 3
+
+E: In welchem Jahr bekam der Platz vor dem Theater den Namen : Hans-Rodenberg-Platz ?
+1978 - 5
+1980 - 7
+1983 - 9
+
+F: Ab wann hieß das Haus : Zentralhaus der jungen Pioniere "German Titow“ ?
+1958 - 1
+1961 - 6
+1963 - 9
+
+Setzt jetzt nur noch die Ergebnisse in die Formel
+N52°.31.ABC E13°28.DEF
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/Theater_an_der_Parkaue
+
+A. 1911 -> 0
+B. 65 -> 1
+C. Ilse Rodenberg -> 2
+
+D. Renaissance -> 6
+E. 1980 -> 7
+F. 1961 -> 6
+
+N 52 31.012 E 013 28.676
+
+WICHTIG !
+Jetzt seid ihr vor Ort ! Aber um den Cache zu finden, benötigt ihr noch eine letzte Zahl !
+Auf dem dortigen Brunnen steht ein Sprichwort. Aus wie vielen Buchstaben besteht es ?
+Fügt sie der Nordkoordinate hinzu und zieht sie von der Ostkoordinate ab !
+

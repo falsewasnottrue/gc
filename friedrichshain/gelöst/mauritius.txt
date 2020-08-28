@@ -1,0 +1,47 @@
+https://www.geocaching.com/geocache/GC8YDTC_das-mauritius-ratsel
+
+Wann hat Mauritius seinen Namenstag?
+Datum (Tag + Monat) = A
+
+Von beiden Marken wurden je 500 Exemplare gedruckt. Wie viele Exemplare der Blauen Mauritius existieren noch heute?
+Anzahl = B
+
+Wie hoch ist der höchste Berg auf Mauritius?
+Höhe in Metern = C
+
+Seit wann steht die erste bekannte dunkelhäutige Mauritiusstatue im Chorraum des Magdeburger Doms?
+Jahr = D
+
+Wie hoch waren die damaligen Baukosten für die St. Mauritius-Kirche?
+Quersumme des Preises in Mark ohne Pfennige = E
+
+XXX = D-C-(A*B)-41
+YYY = C-(A*B)+(E*2)+139
+
+N 52 30.XXX
+E 013 28.YYY
+
+--- Lösung
+
+A: 22.09.
+   -> A = 31
+B: https://de.wikipedia.org/wiki/Rote_und_Blaue_Mauritius
+   -> B = 12
+C: https://de.wikipedia.org/wiki/Mauritius
+   -> C = 828
+D: https://de.wikipedia.org/wiki/Heiliger_Mauritius_(Skulptur)
+   -> D = 1955
+E: https://de.wikipedia.org/wiki/St._Mauritius_(Berlin)
+   -> E = QS(112949) = 26
+   
+XXX = D-C-(A*B)-41 
+	= 1955 - 828 - (31*12) - 41
+	= 1955 - 828 - 372 - 41 
+	= 714
+
+YYY = C-(A*B)+(E*2)+139
+	= 828 - (31*12) + (26*2) + 139
+	= 828 - 372 + 52 + 139
+	= 647
+	
+N 52 30.714 E 013 28.647
