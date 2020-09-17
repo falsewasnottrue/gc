@@ -1,0 +1,53 @@
+https://www.geocaching.com/geocache/GC5Y9X0_quiz-der-vornamen
+
+A=Geburtsmonat Alfred
+E=vorletzte Ziffer Sterbejahr Maria
+G=zweite Ziffer Todesmonat Hubertus
+K=zweite Ziffer Todesjahr Wilhelm
+L=letzte Zahl Sterbejahr Max
+N=letzte Ziffer Geburtsjahr Ludwig
+R=letzte Zahl Geburtsjahr Moritz
+S=erste Ziffer Geburtsdatum Maria
+T=Todestag Moritz
+U=letzte Ziffer Sterbejahr Maria
+V=letzte Ziffer Geburtsjahr Alfred
+Z=Geburtsmonat Ludwig
+
+Das Finale beindet sich bei:
+
+N 52° 2K.UEN E 13° ST.LER
+
+--- Lösung
+
+Herkomer, Hubert von, Sir, * 26.5.1849 Waal b. Landsberg am Lech, + 31.3.1914 Budleigh Salterton (Devonshire), 
+Defregger, Franz von, * 30.4.1835 Strohnach im Pustertal (Südtirol), + 2.1.1921 München, Maler.
+Rethel, Alfred, * 15.5.1816 Diepenbenden, heute zu Aachen, + 1.12.1859 Düsseldorf, Maler.
+Wilhelm Maria Hubertus Leibl (* 23. Oktober 1844 in Köln; † 4. Dezember 1900 in Würzburg)
+Klinger, Max, * 18.2.1857 Leipzig, + 4.7.1920 Großjena b. Naumburg, Bildhauer, Maler und Graphiker.
+Adrian Ludwig Richter (* 28. September 1803 in Dresden; † 19. Juni 1884 ebenda) 
+Stuck, Franz von, * 23.2.1863 Tettenweiß (Niederbayern), + 30.8.1928 München, Maler.
+Moritz Ludwig von Schwind (* 21. Januar 1804 in Wien; † 8. Februar 1871 in Niederpöcking, Königreich Bayern) 
+
+Alfred		-> Rethel
+Maria		-> Leibl
+Hubertus	-> Leibl
+Wilhelm		-> Leibl
+Max			-> Klinger
+Ludwig		-> Richter
+Moritz		-> Schwind
+
+A = 5
+E = 0
+G = 2
+K = 9
+L = 0
+N = 3
+R = 4
+S = 2
+T = 8
+U = 0
+V = 6
+Z = 1
+
+N 52° 2K.UEN E 13° ST.LER
+N 52° 29.003 E 13° 28.004

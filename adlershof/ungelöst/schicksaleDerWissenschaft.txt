@@ -1,0 +1,55 @@
+https://www.geocaching.com/geocache/GC1JH1C_schicksale-der-wissenschaft-die-dunkle-seite
+
+N 52° 25.760 E 013° 31.830
+
+Bei diesem Cache geht es um einen Gelehrten, der nicht nur für die Entwicklung 'seiner' Wissenschaft einen bedeutenden Beitrag leistete. Sein Leben war eng verbunden mit einem Ereignis, dessen Folgen zum Teil bis in die Gegenwart wirken.
+Der Gesuchte wurde in der Hauptstadt eines europäischen Landes geboren. Er war sehr erfolgreich in seinem eigentlichen Beruf -man würde ihn heute als eine Art Verwaltungsangestellten bezeichnen-, so daß er sich erst nebenher, dann aber überwiegend seinen naturwissenschaftlichen Interessen widmen konnte. Nicht weniger erfolgreich, denn mit Mitte 20 war er bereits Mitglied der Akademie der Wissenschaften seines Landes.
+Die leitende Tätigkeit in einer Behörde, die in einem prunkvollen Gebäude ihren Sitz hatte, ermöglichte ihm dort die Fortsetzung seiner Experimente. Es gelang ihm, eine bislang anerkannte, hundert Jahre alte Theorie zu widerlegen, die Zusammensetzung einer wichtigen Substanz nachzuweisen und einen fundamentalen Erhaltungssatz zu formulieren.
+Als das Land unseres Gelehrten von tiefgreifenden Veränderungen, denen er durchaus aufgeschlossen gegenüberstand, erfaßt wurde, spielten seine Verdienste um die Wissenschaft und um sein Land keine Rolle mehr. Neid und Rachsucht, Dummheit und Gewalt, Erscheinungen also, die die dunkle Seite vieler gesellschaftlicher Umbrüche darstellen, bedeuteten sein tragisches Ende. Er wurde 50 Jahre alt.
+
+Sein Werk jedoch überdauerte die unruhigen Zeiten. Noch heute ist der Name des Gesuchten an einem weltberühmten Bauwerk zu lesen, gemeinsam mit den Namen weiterer Wissenschaftler, die fast alle aus dem gleichen Land stammen.
+
+Die Aufgabe
+Wie heißt der gesuchte Wissenschaftler und wann wurde er geboren? Die Anzahl der Buchstaben seines Nachnamens sei U, die Summe der Buchstabenwerte des Nachnamens sei V und die Quersumme seines Geburtsjahres sei W.
+Wie heißt das oben erwähnte weltberühmte Bauwerk und wo befindet es sich? Die Summe der Buchstabenwerte des Bauwerknamens sei X, die Gradzahl der Nordkoordinate sei Y und die Gradzahl der Ostkoordinate sei Z.
+
+A = 4 * U - 9
+B = 5 * V + 27 * Z
+C = Y - W
+D = 8 * X - 2
+0
+N 52° A.B' E 13° C.D'
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/Erhaltungssatz
+https://de.wikipedia.org/wiki/Antoine_Laurent_de_Lavoisier
+
+Antoine Laurent de Lavoisier [lavwaˈzje] (* 26. August 1743 in Paris)
+
+Lavoisier
+U = 9
+V = 110
+W = 15
+
+https://de.wikipedia.org/wiki/Liste_der_72_Namen_auf_dem_Eiffelturm
+48° 51′ 29.6″ N, 2° 17′ 40.2″ E
+
+Eiffelturm
+X = 115
+Y = 48
+Z = 2
+
+La Tour Eiffel
+X = 130
+
+A = 4 * U - 9 = 4 * 9 - 9 = 27
+B = 5 * V + 27 * Z = 5 * 110 + 27 * 2 = 550 + 54 = 604
+C = Y - W = 48 - 15 = 33
+D = 8 * X - 20 = 8 * 115 - 20 = 920 - 20 = 900
+D' = 8 * 130 - 20 = 1020
+
+
+N 52° A.B' E 13° C.D'
+N 52° 27.604' E 13° 33.900'
+
