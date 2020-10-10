@@ -1,0 +1,32 @@
+https://www.geocaching.com/geocache/GC60EV3_lichtblicke-hochzeitscache
+
+a Tilia
+  Lindenhochzeit
+  31
+b der härteste natürliche Stoff
+  Diamanthochzeit
+  60
+c der oberste olympische Gott
+  Zeushochzeit
+  54
+d die rote Varietät des Minerals Korund
+  Rubinhochzeit
+  40
+e Reinigungsmittel
+  Seifenhochzeit
+  32
+f die Aussicht, die sich einem Betrachter bietet, wenn er in Richtung Weltall blickt
+  Himmelshochzeit
+  100
+g grüner Edelstein aus der Beryll-gruppe
+  Smaragdhochzeit
+  36
+h giftiges Übergangsmetall, flüssiges Silber
+  Quecksilberhochzeit
+  63
+
+N 52. a.(b+c+d)*2 E 013. e.(f*2)+(g+h)*2
+
+N 52. 31.(60+54+40)*2 E 013. 32.(100*2)+(36+63)*2
+
+N52 31.308 E013 32.398

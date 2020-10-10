@@ -1,5 +1,35 @@
 https://www.geocaching.com/geocache/GC86FNC_under-my-umbrella
 
+A
+B
+C
+D 2
+E
+F
+G
+H 5
+I 1
+J 3
+K
+L
+
+Hier ist der Berliner Rundfunk, Sie hören 88,8 - und
+damit wie immer die besten Hits von gestern und heute. Und wir
+starten mit einer Frau in den Nachmittag, die Sie alle kennen -
+und mit der sicher jeder gern mal unter dem Regenschirm sitzen
+würde. Hier ist Rihanna mit ihrem Megahit "Umbrella"... You can
+stand under my umbrella, ella, ella, eh, eh, eh, under my umbrella,
+ella, ella, eh, eh, eh, under my umbrella, ella, ella, eh, eh, eh, under
+my umbrella, ella, ella, eh, eh, eh, eh, eh, eh...
+
+h 26
+d 18
+d 18
+k 2
+e 70
+g 5
+b 7
+
 N 8 6 6 7 9 7 2
 E 9 4 4 6 1 2 3
 
@@ -13,7 +43,7 @@ E 9 4 4 6 1 2 3
 
 ---
 
-von oben nach untem
+von oben nach unten
 rot: NHDDKEGB
 gelb: EIJJFALC
 
@@ -87,7 +117,7 @@ So I'm gonna let the rain pour
 I'll be all you need and more
 Because
 
-When the sun shines, we shine together
+whenn the sun shines, we shine together
 Told you I'll be here forever
 Said I'll always be your friend
 Took an oath, I'ma stick it out 'til the end
