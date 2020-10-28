@@ -1,0 +1,14 @@
+https://www.geocaching.com/geocache/GCZQG7_friedrichsfelde-tegeler-eisenbahn-magerviehhof
+
+Ist AB.CD.EFGH das Datum, an dem der erste Abschnitt der Strecke und der Abzweig eröffnet wurden, so findet ihr die Dose bei den folgenden Koordinaten.
+
+N 52° 31,(F-E)(B-D)(F)'
+O 13° 31,(B)(B)(H)'
+
+--- Lösung
+
+16. Dezember 1907
+
+AB,CD,EFGH = 16.12.1907
+
+N 52 31.849 E013 31.667
