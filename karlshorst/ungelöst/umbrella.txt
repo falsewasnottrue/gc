@@ -1,5 +1,17 @@
 https://www.geocaching.com/geocache/GC86FNC_under-my-umbrella
 
+N HD DK.EGB
+E IJ JF.ALC
+
+hdsuwsem
+8 4 19 21 23 19 5 13
+8 4 1 9 2 1 2 3 1 9 5 1 3
+
+8 4 1 9 2 1 2 3 1 9 5 1 3 8 4 1 9 2 1 2 3 1 9 5 1 3
+      A B C D E F G H I J K L
+
+52 28.392 13 31.941
+
 A
 B
 C
