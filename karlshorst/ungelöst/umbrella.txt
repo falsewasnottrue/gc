@@ -17,9 +17,6 @@ E IJ JF ALC     13 31 941
 
 52 28.392 13 31.941
 
-+26: 52 28.418 13 31.961
--26: 52 28.366 13 31.915
-
 Hier ist der Berliner Rundfunk, Sie hören 88,8 - und
 damit wie immer die besten Hits von gestern und heute. Und wir
 starten mit einer Frau in den Nachmittag, die Sie alle kennen -
@@ -29,6 +26,7 @@ stand under my umbrella, ella, ella, eh, eh, eh, under my umbrella,-
 ella, ella, eh, eh, eh, under my umbrella, ella, ella, eh, eh, eh, under
 my umbrella, ella, ella, eh, eh, eh, eh, eh, eh...
 
+88,8 91,4
 
 h 26
 d 18
