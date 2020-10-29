@@ -1,0 +1,48 @@
+https://www.geocaching.com/geocache/GC1ZXF6_schicksale-der-wissenschaft-pelz-video
+
+Wann bekam er für die erste gesuchte Erfindung das mit einem heutigen Patent vergleichbare Privileg zugesprochen?
+
+AB.CD.EFGH
+
+Wieviele "Elemente" hatte die zweite gesuchte Erfindung? (Hinweis: 3 Jahre nach EFGH)
+
+KL = Anzahl
+
+Formel:
+
+XXX = F | L+B+G | H
+
+YYY = K+L | B+K | A+D+G
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/Jahr_ohne_Sommer 1816
+https://de.wikipedia.org/wiki/Badische_Revolution 1848/49
+
+https://de.wikipedia.org/wiki/Karl_von_Drais
+
+Karl von Drais
+
+1. Erfindung: Fahrrad
+   AB.CD.EFGH = 12.01.1818
+
+2. Erfindung:
+   Er entwickelte 1821 die erste Tastenschreibmaschine für 25 Buchstaben
+   KL = 25
+
+XXX = F | L+B+G | H = 8 5+2+1 8 = 888
+
+YYY = K+L | B+K | A+D+G = 2+5 2+2 1+1+1 = 743
+
+N 52 29.888 E 013 37.743
+
+Das Finalgebiet sollte von Südost angegangen werden.
+Der Cache liegt in diesem Wäldchen, weil es hier zwei kleine Bunkeranlagen gibt, eine gesprengte Flak-Stellung aus dem Zweiten Weltkrieg und ein Luftbeobachtungsbunker aus DDR-Zeiten. Leider ist es auch ziemlich vermüllt, der Cache ist aber weit genug vom Müll entfernt. Sollte kein Problem sein, wenn man das Wäldchen von Norden vom Weg aus betritt.
+
+Bitte am Cache auf gelegentliche Hundemuggel achten, denn die Stelle ist vom Weg doch recht gut einsehbar.
+
+Der gesprengte Bunker ist gleich neben dem Cache, der andere liegt südwestlich davon (240 Grad, 35 Meter, N 52 29.879 E 13 37.708). Der kaputte lohnt keines weiteren Blickes, der ist nur 5x5 Meter und voll Müll. Den anderen kann man sich mal angucken, man hat auch eine schöne Aussicht von seinem Dach - aber Vorsicht! (Am besten au?en ums Wäldchen laufen.)
+
+Zum weiteren Lesen:
+forum.hidden-places.de/showthread.php/4677-Flak-Stellung-und-mehr-Mahlsdorf
+http://www.sachsenschiene.net/forum/viewtopic.php?t=916 (Login erforderlich)
