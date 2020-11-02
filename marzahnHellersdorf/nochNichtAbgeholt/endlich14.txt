@@ -1,0 +1,22 @@
+https://www.geocaching.com/geocache/GC7AE7C_endlich-vierzehn
+
+Lösung
+
+N 52° 30.y*99-208 E 13° 38.x*y*33+60
+
+y	x		Coordinaten						Bem.
+0	12		N 52° 30.-208 E 13° 38.60		N zu klein
+1	11		N 52° 30.-109 E 13° 38...		N zu klein
+2	10		N 52° 30.-10 E 13° 38...		N zu klein
+3	9		N 52° 30.089 E 13° 38.951		richtig
+4	8		N 52° 30.y*99-208 E 13° 38.x*y*33+60
+5	7		-
+6	6		N 52° 30.386 E 13° 38.1248 		E zu groß
+7	5		N 52° 30.485 E 13° 38.1215		E zu groß
+8	4		N 52° 30. E 13° 38.1116			E zu groß
+9	3		N 52° 30.683 E 13° 38.951		falsch
+10	2		N 52° 30.782 E 13° 38.720		falsch	
+11	1		N 52° 30.881 E 13° 38.423		falsch
+12	0		N 52° 30.980 E 13° 38.060		?
+
+N 52° 30.089 E 13° 38.951
