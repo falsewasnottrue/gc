@@ -9,6 +9,20 @@ https://www.geocaching.com/geocache/GC216GA_grosshirn-an-kleinhirn-in-bayern-dah
 206
 122
 
+Länder von oben im Uhrzeigersinn
+1 Paraguay
+2 Mosambik
+3 Tunesien
+4 Thailand
+5 Bolivien
+6 Armenien
+7 Pakistan
+8 Malaysia
+
+Blumen
+N: 2 6 3 1 7 2 6 8 2 1 6
+E: 8 7 5 6 8 5 7 4 6 8 5 7 8
+
 --- Lösung
 
 Länder von oben im Uhrzeigersinn
@@ -20,4 +34,15 @@ Länder von oben im Uhrzeigersinn
 6 Armenien		29.800
 7 Pakistan		796.095
 8 Malaysia		330.290
+
+von klein nach groß:
+
+6 Armenien		29.800
+3 Tunesien		163.610
+8 Malaysia		330.290
+1 Paraguay		406.752
+4 Thailand		513.115
+7 Pakistan		796.095
+2 Mosambik		801.590
+5 Bolivien		1.098.581
 

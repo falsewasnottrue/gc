@@ -1,0 +1,22 @@
+https://www.geocaching.com/geocache/GC4BHAC_taka-tuka-mathe
+
+N 52° 30.096 E 013° 37.918
+
+Gegeben:
+Zwei mal Drei macht Vier Widdewiddewitt und Drei macht Neune !!!“
+Zwei mal Eins gleich Drei ist ?!?
+
+2*3 -> 4
+2*1 -> 3
+16*17 -> 136
+4+3 -> 9
+
+16 mal 17 macht 136 Widdewiddewitt und 11 macht ??? – euer Ergebnis addiert ihr zu den Milliminuten der Nordkoordinate
+
+Sieben mal Eins ist ??? – dieses Ergebnis subtrahiert ihr von den Milliminuten der Ostkoordinate
+
+--- Lösung
+
+f(2,1) = 3
+f(2,3) = 4
+f(16,17) = 136
