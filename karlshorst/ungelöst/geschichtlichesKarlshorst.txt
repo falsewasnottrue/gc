@@ -1,0 +1,49 @@
+https://www.geocaching.com/geocache/GC927FH_geschichtliches-karlshorst
+N 52° 28.812 E 013° 31.698
+
+1. N 52° 28.812 E 013° 31.698
+A = Quersumme der Anzahl der aller Zeichnungen
+B = Iterierte Quersumme der angegebenen Jahreszahl über dem Reiter)
+
+A = QS(12) = 3
+B = QS(2019) = 3
+
+N 52° 28.6[A+B]2' E 13° 31.[2+B]16'
+
+2. 52 28.662 13 31.516
+An den Koordinaten angekommen findet ihr ein kleines Schild zur Restauration.
+
+C = Quersumme der angegebenen Jahreszahl)
+D = Anzahl der Förderer und Sponsoren)
+
+N 52° 28.7[C-1]8' E 13° 31.D42'
+
+----
+
+3.
+An den Koordinaten angekommen findet ihr einige Nummern.
+Die Koordinaten der dritten Zwischenstation ergeben sich wie folgt:
+
+N 52° 28.8[6+E]4' E 13° 31.[F+2]86'
+
+(E= Objektnummer)
+(F= Iterierte Quersumme der Hausnummer)
+
+Solltet ihr auf dem Weg zur nächsten Station die Überführung verwenden,
+könnt ihr einen Blick auf den ehemaligen "Kronprinzen" werfen.
+An den Koordinaten angekommen findet ihr ein Schild zur Historie des Gebäudes.
+
+Die Koordinaten der vierten Zwischenstation ergeben sich wie folgt:
+
+N 52° 28.[5+G]16' E 13° 31.2[H-1]0'
+
+(G= Iterierte Quersumme Eröffnungsjahr)
+(H= Anzahl der Buchstaben vom zweiten Wort über dem Haupteingang)
+
+An den Koordinaten findet ihr eine Inschrift.
+Die Final-Koordinaten ergeben sich dann wie folgt:
+
+N 52° 28.[I+D]38' E 13° 31.2[J-G]2'
+
+(I= Anzahl der erwähnten Häuser)
+(J= Quersumme des Gründungstags (nicht Monat, nicht Jahr))

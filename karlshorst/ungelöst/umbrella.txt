@@ -9,13 +9,23 @@ H D S  U  W  S  E M
         A B C D E F G H I J K L
   8 4 1 9 2 1 2 3 1 9 5 1 3 8 4 1 9 2 1 2 3 1 9 5 1 3
 
-      A B C D E F G H I J K L
-8 4 1 9 2 1 2 3 1 9 5 1 3
+13 Zahlen
+12 Buchstaben -> A-L
 
 N HD DK EGB 	52 28 392
 E IJ JF ALC     13 31 941
 
 52 28.392 13 31.941
+
+
+HDSUWSEM
+H D S  U  W  S  E M
+8 4 19 21 23 19 5 13
+
+MESWUSDH
+M  D S  U  W  S  E H
+13 4 19 21 23 19 5 8
+1 3 4 1 9 2 1 2 3 1 9 5 8
 
 Hier ist der Berliner Rundfunk, Sie hören 88,8 - und
 damit wie immer die besten Hits von gestern und heute. Und wir
