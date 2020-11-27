@@ -1,0 +1,22 @@
+https://www.geocaching.com/geocache/GC3VRD3_kopenicker-altstadt-bonus
+N 52° 26.902 E 013° 34.355
+
+x = A-6
+y= B-A-22
+
+Finale bei N 52° 27.x E 13° 34.y
+
+--- Lösung
+
+http://www.sagen.at/texte/sagen/deutschland/berlin/name_koepenick.html
+
+A = BW(Krebs) = 55
+B = BW(Stralau) = 92
+
+x = A-6 = 49
+y = B-A-22 = 15
+
+N 52 27.049 E 13 34.015
+
+Obwohl eine Abweichung von ±30 Metern erlaubt ist, sind Deine Koordinaten absolut korrekt!
+Herzlichen Glückwunsch ! Du solltest in Wassernähe am Baum  fündig werden.
