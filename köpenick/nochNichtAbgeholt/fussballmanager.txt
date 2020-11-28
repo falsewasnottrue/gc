@@ -1,0 +1,44 @@
+https://www.geocaching.com/geocache/GC52K1H_fussballmanager
+N 52° 27.444 E 013° 34.088
+
+Helmond Sport
+	https://www.fc-union-berlin.de/de/fussball/profis/spielplan/detail/Helmond-Sport-1-FC-Union-Berlin--7173t/
+	0-2
+
+Kallithea FC
+	https://www.fc-union-berlin.de/de/fussball/profis/spielplan/detail/Kallithea-FC-1-FC-Union-Berlin--7841i/
+	0-7
+
+Batman Petrol Spor
+	https://www.fc-union-berlin.de/de/fussball/profis/gegnerarchiv/detail/Batman-Petrol-SK-389B/
+	1-4
+
+Celtic Glasgow
+	https://www.fc-union-berlin.de/de/fussball/profis/spielplan/detail/-1-FC-Union-Berlin-Celtic-F-C-Glasgow-8865D/
+	0-3
+
+SK Mori Banyasz
+	https://www.fc-union-berlin.de/de/fussball/profis/spielplan/detail/SK-Mori-Banyasz-1-FC-Union-Berlin--7277d
+	1-6
+
+Gaz Methan Medias
+	https://www.fc-union-berlin.de/de/fussball/profis/spielplan/detail/CS-Gaz-Metan-Medias-1-FC-Union-Berlin--7036h/
+	1-2
+
+FK Teplice
+	https://www.fc-union-berlin.de/de/fussball/profis/spielplan/detail/Testspiele-1-FC-Union-Berlin-gegen-FK-Teplice-4394Z/
+	0-4
+
+Spielvereinigung Ansbach
+	https://www.fc-union-berlin.de/de/fussball/profis/spielplan/detail/SpVgg-Ansbach-1-FC-Union-Berlin--7389x/
+	0-8
+
+FC Vestsjaelland
+	https://www.fc-union-berlin.de/de/fussball/profis/spielplan/detail/FC-Vestsjaelland-1-FC-Union-Berlin--8869T/
+	1-3
+
+FK Dimitrovgrad
+	https://www.fc-union-berlin.de/de/fussball/profis/spielplan/detail/-1-FC-Union-Berlin-FK-Dimitrovgrad-1947-7227b/
+	3-4
+
+52 27.537 13 34.847
