@@ -40,25 +40,16 @@ H=_________________________________________
 
 --- Lösung
 
-A = Anna Seghers			nnsghrs			sghrs 	7 + 4 + 4 + 7 + 7			74477
-B = Netty Radványi			eaai					3 + 2 +2 + 4				3224
-C = 1900																		19 
-D = Stefan Zweig			eaei					3 + 2 + 3 + 4				3234
-E = Das siebte Kreuz 		dssbtkrz				37728579					48
-F = Georg Heisler			eoeie					3 + 6 + 3 + 4 + 3			36343
-G = Gilberto Bosques		ieooe					4 + 3 + 3					433
-H = 1951																		1951
+https://de.wikipedia.org/wiki/Anna_Seghers
 
-A - 1191 * 3 + B - E * 966 - G : 3
-74477 - 1191 * 3 + 3224 - 48 * 966 - 433 : 3
-74477 - 3573 + 3224 - 46368 - 144
-
-27.616
-
-F - C * 450 + D + H - (130 + 144) * 2+ 3
-36343 - 19 * 450 + 3234 + 1951 - (130 + 144) * 2 + 3
-36343 - 19 * 450 + 3234 + 1951 - 274 * 2 + 3
-
-32.433
-
-52 27.616 13 32.433
+Wie heißt die Schriftstellerin?
+-> Anna Seghers
+Wie lautet ihr bürgerlicher Name?
+-> Netti Reiling
+In welchem Jahr wurde sie geboren?
+-> 1900
+Wer erwarb in jenem Jahr das Abitur am Maximilian-Gymnasium in Wien? ???
+Welches ist ihr bekanntester Roman? ???
+Wie heißt der überlebende Flüchtling?
+Welcher Generalkonsul stellte 40000 Flüchtlingen, darunter die Schriftstellerin, Visa für Mexiko aus?
+Wann erhielt sie den allerersten Nationalpreis der DDR?
