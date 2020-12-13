@@ -1,0 +1,23 @@
+https://www.geocaching.com/geocache/GCY5EW_vor-allem-konrad-hor
+N 52° 28.867 E 013° 26.128
+
+--- Lösung
+
+https://www.arrow.de/research-and-events/articles/resistor-color-code
+
+grün	5	
+rot 	2
+rot 	2
+weiß 	9
+rot 	2
+gelb 	4
+grün 	5
+braun 	1
+orange  3
+rot 	2
+grün 	5
+rot 	2
+grün 	5
+orange 	3
+
+52 29.245 13 25.253
