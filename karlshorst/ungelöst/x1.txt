@@ -1,4 +1,9 @@
 https://www.geocaching.com/geocache/GC39A8C_berlin-x1
 
 https://de.wikipedia.org/wiki/Liste_geod%C3%A4tischer_Referenzpunkte_in_Deutschland#Berlin
+Marzahn war später
+https://de.wikipedia.org/w/index.php?title=Liste_geod%C3%A4tischer_Referenzpunkte_in_Deutschland&diff=191063998&oldid=191011286
 
+Adlershof	52.425752,13.535685
+Mitte		52.522585,13.371688
+Wilmersdorf	52.49268,13.312678
