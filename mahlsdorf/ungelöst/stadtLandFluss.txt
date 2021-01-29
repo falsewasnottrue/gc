@@ -1,0 +1,45 @@
+https://www.geocaching.com/geocache/GC6Z28K_stadt-land-fluss
+N 52° 30.808 E 013° 36.756
+
+N N1S+N2S-N3S-3° N2L-N3L-17.N1F+N2F+N3F - 26
+E (E1S+E2S-E3S+1)° E2L-E3L-16.(E1F+E2F+E3F)*3 - 38
+
+--- Lösung
+
+N1
+(......../.........../....)
+ MUENCHEN/DEUTSCHLAND/ISAR
+
+N2
+(.../........./......)
+ RIO/BRASILIEN/GUANDU
+
+N3
+(...../...../.......)
+ TOKYO/JAPAN/ARAKAWA
+
+E1
+(....../.........../.....)
+ BERLIN/DEUTSCHLAND/SPREE
+
+E2
+(...../........../.....)
+ PARIS/FRANKREICH/SEINE
+
+E3
+(... ..../.../......)
+ NEW YORK/USA/HUDSON
+
+N N1S+N2S-N3S-3° N2L-N3L-17.N1F+N2F+N3F - 26
+  MUENCHEN+RIO-TOKIO-3 BRASILIEN-JAPAN-17.ISAR+GUANDU+ARAKAWA-26
+  83+42-70-3 89-42-17.47+68+56-26
+  52 30.145
+
+E (E1S+E2S-E3S+1)° E2L-E3L-16.(E1F+E2F+E3F)*3 - 38
+  BERLIN+PARIS-NEWYORK+1 FRANKREICH-USA-16.(SPREE+SEINE+HUDSON)*3 - 38
+  60+63-111+1 93-41-16.(63+52+81)*3-38
+  13 36.550
+
+52 30.145 13 36.550
+
+N 52°30.142  E 013°36.550
