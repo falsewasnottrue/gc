@@ -1,0 +1,15 @@
+https://www.geocaching.com/geocache/GC7H3VD_gut-gefahren
+N 52° 30.718 E 013° 36.675
+
+--- Lösung
+
+bi52
+A = 52
+(4*A + 10) m  und (4*A+24,85) Grad
+
+218 m 
+232,85 Grad
+
+Eingang: 52 30.730 13 36.722
+
+Final: 52 30.659 013 36.568
