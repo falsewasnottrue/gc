@@ -1,0 +1,42 @@
+https://www.geocaching.com/geocache/GC5MZG8_goot-gesnackt
+N 52° 30.300 E 013° 37.960
+
+Z1    Adebarsdag  
+Z2    Butendieksvagel  
+Z3    Kröger    
+Z4    Dwarsmööhln    
+Z5    Huulbessen
+Z6    Knipptasch  
+Z7    Maanschien
+Z8    Isenbohn   
+
+A=Z8
+E=Z6
+F=Z7-Z8
+M=Z5
+N=Z2-Z3
+R=Z4-Z2
+U=Z1
+
+Das Geschenk findet ihr bei:    N52° 3F.UER  E013° 3M.ANU
+
+--- Lösung
+
+Z1	Geburtstag		120		3
+Z2 	Moewe			61		7
+Z3 	Wirt			70		7
+Z4 	Hubschrauber	126		9
+Z5  Staubsauger 	134		8
+Z6 	Geldboerse		92		2
+Z7 	Mondschein		104		5
+Z8 	Eisenbahn		77 		5
+
+A = 5
+E = 2
+F = 0
+M = 8
+N = 0
+R = 2
+U = 3
+
+N52 30.322  E013 38.503

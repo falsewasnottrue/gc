@@ -37,3 +37,20 @@ N52 28.359 E013 30.626
 
 52 27.SCH 13 30.IFF
 52 27.302 13 30.411
+
+---
+
+"Schicksale der Wissenschaften"
+https://www.geocaching.com/play/search?ot=4&kw=Schicksale%20der%20Wissenschaft&utr=false
+https://www.geocaching.com/geocache/GC5PRKK
+orig: N 52 30.356 E 013 38.426
+echt: N 52 30.858 E 13 38.194
+
+"Erfindungen des Alltags"
+https://www.geocaching.com/play/search?ot=4&kw=Erfindungen%20des%20Alltags&utr=false
+https://www.geocaching.com/geocache/GC6HMPM
+orig: ???
+echt: N 52° 27.792 E 013° 32.084
+
+
+Koordinate in der Mitte: 52 29.325 13 35.137

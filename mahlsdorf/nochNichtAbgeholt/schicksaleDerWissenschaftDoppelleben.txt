@@ -1,0 +1,15 @@
+https://www.geocaching.com/geocache/GC5PRKK
+N 52° 30.356 E 013° 38.426
+
+--- Lösung
+
+Hedy Lamarr
+https://de.wikipedia.org/wiki/Hedy_Lamarr
+
+https://de.wikipedia.org/wiki/Hedy_Lamarr#/media/Datei:Lamarr_patent.png
+
+2.292.387
+A.BCD.EFG
+
+N 52° 30.[F] [D+E] [F] E 13° 38.[E-A] [C] [B+D]
+N 52 30.858 E 13 38.194
