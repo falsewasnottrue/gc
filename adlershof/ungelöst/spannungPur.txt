@@ -1,0 +1,22 @@
+https://www.geocaching.com/geocache/GC4583X_spannung-pur
+N 52° 26.817 E 013° 32.959
+
+--- Lösung
+A: Thomas Edison
+B: Verhältnis Strom und Spannung
+C: Ausschaltung einpolig
+D: Mikrowelle
+E: Dreieckschaltung
+F: 16 Ohm
+G: Triac
+H: doppelte Kreuzschaltung?
+
+Schalter
+A 	AN
+B	AUS
+C 	AN
+D 	AN
+E 	AUS
+F 	AN
+G 	AN
+H 	Tasten?

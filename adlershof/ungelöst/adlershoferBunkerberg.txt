@@ -1,0 +1,48 @@
+https://www.geocaching.com/geocache/GC80F9V_adlershofer-bunkerberg
+N 52° 26.787 E 013° 32.470 
+
+Welche Länge und welche Breite hatte der Bunker? QS der Ziffern beider Werte = AB
+In welchem Jahr wurde der Bunker fertiggestellt? IQS der 4 stelligen Jahreszahl = C
+Wie viele Personen passten maximal in den Bunker? IQS = D
+Wie hoch war die Traufhöhe des Bunkers? = E
+Wann durften die Insassen den Bunker verlassen? IQS von Tag + Monat = F
+Im Frühjahr welchen Jahres wurde der Bunker gesprengt? QS der 4stelligen Jahreszahl = G
+Wann wurde die Überdeckung des Bunkers fertiggestellt? = HIKL
+Wie lang abfallend wurde die Überdeckung Richtung Wald gezogen? QS = M
+
+Start bzw. Station 1:
+N52 AB.(D-2,C,E-3) E013 LL.F,B,H
+
+Für das Final:
+BDBK
+
+--- Lösung
+
+Welche Länge und welche Breite hatte der Bunker? QS der Ziffern beider Werte = AB
+35,5 m Länge und 19,3 m Breite
+AB = 3+5+5+1+9+3 = 26
+
+In welchem Jahr wurde der Bunker fertiggestellt? IQS der 4 stelligen Jahreszahl = C
+C = IQS(1943) = 8
+
+Wie viele Personen passten maximal in den Bunker? IQS = D
+D = IQS(648) = 9
+
+Wie hoch war die Traufhöhe des Bunkers? = E
+E = 10
+
+Wann durften die Insassen den Bunker verlassen? IQS von Tag + Monat = F
+24. April
+F = IQS(24.4.) = 1
+
+Im Frühjahr welchen Jahres wurde der Bunker gesprengt? QS der 4stelligen Jahreszahl = G
+G = QS(1946) = 20
+
+Wann wurde die Überdeckung des Bunkers fertiggestellt? = HIKL
+HIKL = 1983
+
+Wie lang abfallend wurde die Überdeckung Richtung Wald gezogen? QS = M
+M = QS(80) = 8
+
+N52 26.787 E013 33.161
+BDBK = 6968
