@@ -1,0 +1,45 @@
+https://www.geocaching.com/geocache/GC7NX7F_wir-sind-dann-mal-weg-15-rennen-der-giganten
+N 52° 33.730 E 013° 34.835
+
+Das Eulen-Euro-Land hat ja so viele wunderschöne Inseln! Womit Ihr schon mal wisst, wo es (mal wieder!) hin geht, der Mensch ist eben ein Gewohnheitstier...
+
+Als der olle Obergott Zeus seinerzeit Stadt-Land-Fluss spielte, düste einer mit seinem … (Buchstabenwortwert/BWW=A) lieber durch die Gegend, kriegte dann aber doch noch die Kurve und sogar wunschgemäß dieses Eiland ab.
+
+Damit erbte er immerhin z.B. einen Ort (BWW=B), dessen weithin sichtbare Sehenswürdigkeit es auch in der Landeshauptstadt gibt. Und ein grünes Tal mit unzähligen, zierlichen Geschöpfen gehörte ihm auch.
+
+Der Respekt einflößende Name des Tierchens (zwei Wörter - BWW=C) passt allerdings nicht mal ansatzweise zu seinem Aussehen und erinnert mich eher an 'nen Macho von ganz woanders...
+
+Apropos Macho – so einen soll's hier auch mal gegeben haben. Da, wo der angeblich ziemlich ordinär die Seeleute begrüßte, empfangen jetzt allerdings X und Y (BWW von X+Y in der Landessprache=D) die Reisenden.
+
+N 52° 33.XXX = (C+D-10)*2
+
+E 013° 34.YYY = (A+C)*2+B+D-4
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/Rhodos
+https://de.wikipedia.org/wiki/Helios
+
+A = BWW(Sonnenwagen) = 131
+
+https://de.wikipedia.org/wiki/Lindos
+
+B = BWW(Lindos) = 73
+
+https://de.wikipedia.org/wiki/Russischer_B%C3%A4r
+
+C = BWW(Russischer Baer) = 165
+
+D = BWW(Elafos Elafina) = 106
+
+N 52 33.522 E 013 34.767
+
+--- Hint
+
+...auch das vorerst letzte Rätsel der Serie hast Du wieder erfolgreich gelöst...
+Helios feuert offensichtlich immer noch in seinem göttlichen Ferrari um unseren Planeten... Der eigentlich zart besaitete Russische Bär flattert lautlos durch die Wälder... Der breitbeinige Koloss wurde wegen Sexismus seinen Weltwunder-Status los, als Hafenwächter entlassen und unter Beachtung der Frauenquote durch neutrales Personal ersetzt...
+
+Und wir sind dann mal weg - cachen...! ;-)
+
+Das Zielgebiet sieht Petaloudes, dem Tal der Schmetterlinge, verblüffend ähnlich! Es fehlen eigentlich "nur" die kleinen Flatterchen... Oder doch nicht? Die Dose sollte schnell zu finden sein, so viele Regular-Verstecke gibt's hier ja nicht... Vorsicht vor den Pieksern und Vorsicht mit der Konstruktion! Wenn weg oder irreparabel, dann nur noch olle Keksdose!
+Der hölzerne Berlin-GeoToken in der Dose gehört dem FTF'ler! Und es gibt auch noch mal 'nen lütten U13-Nachwuchs-FTF-Preis!!! Dafür bitte wieder (Mutti oder Vati helfen!) 'ne Mail an mich!
