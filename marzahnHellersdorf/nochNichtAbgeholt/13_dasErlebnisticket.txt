@@ -18,3 +18,27 @@ N 52° 34.XXX = A+B+D-C-3
 E 013° 35.YYY = D*3+B
 
 --- Lösung
+
+https://de.wikipedia.org/wiki/Reinhold_Messner
+
+A = BWW(Brixen) = 72
+
+https://de.wikipedia.org/wiki/Teide
+
+B = BWW(Pico del Teide) = 107
+
+C = QS(3718) = 19
+
+D = BWW(Teneriffa) = 84
+
+N 52 34.241 E 013 35.359
+
+--- Hint
+
+der Pico del Teide - 3718 m - unser persönlicher Mount Everest - sowas von geil!!!
+Das kostenlose Permiso acceso, die Genehmigung der Nationalparkverwaltung zum Gipfelaufstieg, hatten wir schon Monate vorher per Internet organisiert. Täglich dürfen da nur 200 Leute in vier zweistündigen Zeitfenstern rauf...
+Man glaubt kaum, wie heftig die finalen "lumpigen" 163 Höhenmeter in der dünnen Luft sind...
+Dafür war der Rundblick von ganz oben bei Kaiserwetter einfach nur unbeschreiblich schön!!!
+
+Jaaaa, diese Dose hätte eigentlich auf den Ahrensfelder Berg gehört, aber der ist komplett zugepflastert, auch wenn's auf der Karte nicht ganz so aussieht...! Hier wird Euch zumindest die grobe Richtung angezeigt - immer nach oben...
+Ich bin 196 cm lang, wer kleiner ist, sollte die Differenz irgendwie ausgleichen...
