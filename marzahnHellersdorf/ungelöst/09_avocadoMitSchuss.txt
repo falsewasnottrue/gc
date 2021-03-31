@@ -1,0 +1,40 @@
+https://www.geocaching.com/geocache/GC7KM9B_wir-sind-dann-mal-weg-09-avocado-mit-schuss
+N 52° 33.685 E 013° 34.835
+
+"Angst fressen Seele auf" (Ich hab sie noch!) beim Anflug auf diesen Airport... Der spätere Namensgeber, damals noch eine lahme Heulsuse (Ja, ich polarisiere...), kriegte damit schon zu Lebzeiten sein Denkmal. Schön und gut, aber wer will wirklich ständig an sich erinnert werden...? Gesucht ist erst mal der Arbeitgeber der Ikone zum Zeitpunkt der Veröffentlichung dieses Caches (Buchstabenwortwert/BWW=A).
+Wer 'ne Tunnel-Phobie hat, ist hier definitiv falsch. Ich hab's gemocht, besonders die 2,4 km Schussfahrt ins Tal der Mädels mit dem leckeren Mandelkuchen (und Likör...!). Deren „Beruf“ ist allerdings nicht Bäcker sondern eher eine Berufung (BWW der Mehrzahl=B).
+
+Man kann natürlich, wie an unseren meisten Urlaubszielen, toll wandern. Sehr zu empfehlen ist unbedingt - unter Beachtung obiger Phobie - 'ne Tour an oder gelegentlich auch in einem der vielen kleinen DHMO-Wege (Danke, lue!:-)). Man, wie hieß so ein Ding dort bloß...? (BWW=C) Beulen, Scharten am Skalp, nasse Botten - sowas von nebensächlich bei den genialen Natureindrücken...!
+
+Zur lokalen Variante eines Wintervergnügens hat uns allerdings niemand überreden können. Das "Sportgerät" (BWW=D) war uns nicht so ganz suspekt... Das Geld haben wir lieber in den Avocado-Schuss investiert, der schmeckt auch ohne diese Riesenbeere - hicks...!
+
+Das Logbuch findet Ihr bei
+
+N 52° 33.XXX = (A+B+D+4)*2
+
+und
+
+E 013° 35.YYY = D-(6*C-2*A)
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/Madeira
+
+Ronaldo 06.04.2018
+https://de.wikipedia.org/wiki/Cristiano_Ronaldo
+
+A = BWW(Real Madrid) = 85
+
+https://www.madeira-reisetipps.com/curral-freiras-nonnental-im-landesinnern-von-madeira/
+
+B = BWW(Nonnen) = 76
+
+https://de.wikipedia.org/wiki/Levada
+
+C = BWW(Levada) = 45
+
+D = BWW(Cherimoya) = 
+
+N 52 33.XXX = (A+B+D+4)*2
+
+E 013 35.YYY = D-(6*C-2*A)
