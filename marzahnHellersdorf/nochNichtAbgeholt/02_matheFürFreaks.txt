@@ -1,0 +1,25 @@
+https://www.geocaching.com/geocache/GC7JT3Q_wir-sind-dann-mal-weg-02-mathe-fur-freaks
+N 52° 33.650 E 013° 34.760
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/Pythagoras
+https://de.wikipedia.org/wiki/Samos
+https://de.wikipedia.org/wiki/Pythagoreischer_Becher
+
+A = 2 Quadrat ???
+
+B = BWW(Pythagoras) = 130
+
+C = BWW(Samos) = 67
+
+D = BWW(Pythagoreischer_Becher) = 218
+    BWW(Becher) = 41
+
+N 52 33.XXX = (A+B+D)*5+11
+E 013 35.YYY = A+C+D
+
+N 52 33.876 E 013 35.110
+
+Den auf Samos typischen Olivenbaum gibt's hier ja leider nicht, da musste eben was Einheimisches her...
+Das eingewachsene Röhrchen im Stamm ist nicht mehr der Cache, es gibt eine Ersatzdose!!!
