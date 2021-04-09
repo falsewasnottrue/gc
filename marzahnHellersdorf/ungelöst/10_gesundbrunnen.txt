@@ -1,0 +1,35 @@
+https://www.geocaching.com/geocache/GC7M8G4_wir-sind-dann-mal-weg-10-gesundbrunnen
+N 52° 33.700 E 013° 34.725
+
+Böse Zungen behaupten ja, wer in meinem Alter morgens ohne Zipperlein aufwacht, ist tot... HEY, ICH LEBE UND CACHE!!! Aber aua, aua, aua - ich war trotzdem sowas von reif für die Insel!!!
+Mein Hausarzt checkte mich durch, ruckelte brutal an mir rum, beobachtete meine Reaktion und verfasste seine Diagnose in ausnahmsweise volkstümlicher Form. (Buchstabenwortwert/BWW=A) Und jetzt? Er nahm 'nen zweiten Zettel mit der Überschrift „Kurantrag“ und schrieb als Location fast seine Diagnose drauf, es fehlte nur ein Buchstabe, dessen Buchstabenwert sei B.
+
+Meine Kasse war ob dieses Vorschlages allerdings not amused und schickte mich nach Bad Schlagmichtot ins Niemandsland zum Seniorenturnen... Also musste ich mit der Göttergattin irgendwann privat zu Doc's empfohlener Location, um die ollen Gräten mal thermalmäßig gründlich einzuweichen! Es wurde ein himmlischer Verwöhnurlaub! Und selbst 'nen Mietwagen brauchte ich bei der Bus-Dichte dort nicht. Hätte auch nichts gebracht, unser "Mutti"-Dorf (BWW des zweiten Wortes=C) war eh autofrei...
+
+Die Stadt ca. 20 km weiter auf dem Festland und der angeblich nervöse Berg dahinter waren der Holden allerdings nicht so geheuer. Klischees? Das olle, alte Gerümpel, das dieser Berg mal verursacht hat (Jahreszahl des Ereignisses=D) zog sie hingegen magisch an, verstehe einer die Logik der Frauen...
+
+Die Reise war toll, aber es knackt morgens immer noch in den Knochen und Gelenken - bin eben ein knackiger Typ... ;-)
+
+Das Logbuch findet Ihr bei
+
+N 52 34.XXX = (A+C)*3-3
+E 013 36.YYY = D*3+B*4-5
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/Ischia_(Insel)
+
+A = BWW(Ischias) = 68
+    BWW(Hexenschuss) = 145
+
+B = BWW(S) = 19
+
+C = BWW(Sant’Angelo) = 108
+
+https://de.wikipedia.org/wiki/Pompeji
+
+D = 79
+
+N 52 34.525 E 013 36.308 X Ischias
+
+N 52 34.247 E 013 36.308

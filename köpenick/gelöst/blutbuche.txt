@@ -1,0 +1,16 @@
+https://www.geocaching.com/geocache/GC86J7R_blutbuche
+N 52° 27.164 E 013° 33.805
+
+An der Buche befindet sich ein Schild mit einem Wort und einem abgebildeten Tier.
+Nehmt von Beidem den Buchstabenwortwert und subtrahiert diesen von N 52° 27.356. Für die finale Ostkoordinate addiert diesen zu E 013° 33.726.
+
+--- Lösung
+
+A = BWW(Eule) = 43
+B = BWW(Naturdenkmal) = 134
+
+Summe = 177
+
+N 52 27.356-177 E 013 33.726+177
+
+N 52 27.179 E 013 33.903
