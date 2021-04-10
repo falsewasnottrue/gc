@@ -1,0 +1,59 @@
+https://www.geocaching.com/geocache/GC565XA_adlershof-gestern-und-heute
+N 52° 26.000 E 013° 32.792
+
+
+Aufgabe A: Zählt bei Haus Nr. 144 die „Lilien“ des Zaunes!
+
+Aufgabe B: Bildet die Quersumme der angegebenen Telefonnummer und subtrahiert 1!
+02284333112
+
+Aufgabe C: Im von der Radickestraße aus sichtbaren Garten befindet sich eine Steinmetzarbeit mit einem vierbuchstabigen Wort. Bildet von diesem den Buchstabenwortwert!
+Adam -> 19
+
+Aufgabe D: Wie viele Lampen befinden sich an der Nordseite des Kirchengebäudes (vom Gehweg aus zu sehen)?
+
+Aufgabe E: Zählt in den Hausdurchfahrten die Leuchtstoffröhren!
+
+Aufgabe F: Wie viele ringförmige Backsteinelemente zählt Ihr oben in den Giebeln?
+
+Aufgabe G: Gegenüber von Haus Nr. 35 steht eine Straßenlaterne. Notiert die Ziffer hinter dem roten (pinkfarbenen) Punkt!
+
+Aufgabe H: Findet im Gehweg am Wegpunkt H eine Jahreszahl!
+
+Aufgabe I: An der Nordseite des Brunnens steht links und rechts jeweils ein Baum. Bodennah ist jeder der beiden mit Metallgitterplatten eingefasst. Pro Baum sind es wie viele Platten?
+
+Aufgabe J: Stellt Euch vor das mittlere Zauntor, addiert vom Wasserschild rechts die Ziffern und rechnet dann noch plus 2.
+2,5,4,1
+
+Aufgabe K: Zählt auf der Nordseite des Pfarramtes die Holzstufen der Eingangstreppe!
+
+Nord 52° 26.XXX und Ost 13° 32.YYY
+
+XXX = A - C – E – (2xG) – I – K + 362
+
+YYY = H – (10xB) – (100xD) – (F+7) – (20xJ) - (15x(K-1)) - 297
+
+--- Lösung
+
+A = 81
+B = 28
+C = 19
+D = 2
+E = 4
+F = 2
+G = 7
+H = 1993
+I = 8
+J = 14
+K = 10
+
+N52 26.XXX E13 32.YYY
+
+XXX = A - C – E – (2xG) – I – K + 362
+
+YYY = H – (10xB) – (100xD) – (F+7) – (20xJ) - (15x(K-1)) - 297
+
+D = 2, K = 10	N52 26.388 E13 32.792 nicht
+D = 2, K = 9	N52 26.389 E13 32.807 nicht
+D = 5, K = 10	N52 26.388 E13 32.492 nicht
+D = 5, K = 9    N52 26.389 E13 32.507 nicht
