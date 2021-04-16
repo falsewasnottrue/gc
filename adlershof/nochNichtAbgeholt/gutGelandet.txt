@@ -1,0 +1,22 @@
+https://www.geocaching.com/geocache/GC6D3AE_gut-gelandet
+N 52° 26.200 E 013° 31.000
+
+X = letzte Ziffer des Jahres der ersten Flugschau in Johannisthal
+
+Y= Anzahl der Buchstaben des Rufnamens (nicht der Familienname, nicht ein Vorname) einer Bildhauerin aus Dresden, die als erste Frau den Pilotenschein machte. Dieser kostete 3000 Mark.
+
+N 52 26.[51*Y+27]   E 013 31.[36*X]
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/Flugplatz_Johannisthal
+1909
+
+X = 9
+
+https://www.dnn.de/Dresden/Lokales/Dresdner-Bildhauerin-wurde-erste-Pilotin-Deutschlands#:~:text=Die%20junge%20Bildhauerin%20aus%20Dresden,Pilotenschein%2C%20die%20Lizenz%20Nummer%20115.
+https://de.wikipedia.org/wiki/Melli_Beese
+
+Y = 5
+
+N 52 26.282 E 013 31.324

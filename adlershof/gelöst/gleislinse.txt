@@ -1,0 +1,36 @@
+https://www.geocaching.com/geocache/GC924NV_gleislinse
+N 52° 26.764 E 013° 31.454
+
+Welche Art von Turm befindet sich auf dem Betriebswerk?
+= A
+
+Wie hoch ist er?
+= B
+
+Wie heißt der hier gelegene S-Bahnhof?
+= C
+
+Was besagt das große rostige Schild, dass sich hier befindet?
+= D
+
+Wie heißt der Platz, an der sich das nachgebaute Stück Gleis mit Weiche befindet?
+= E
+
+In welchem Jahr wurde der Rangierbahnhof Schöneweide außer Betrieb genommen?
+= F
+
+N 52° 2 B+D. A B A+F/D E013°3C-A. A+D E-C+A B+D+(F-E)
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/Bahnbetriebswerk_Berlin-Sch%C3%B6neweide
+https://www.denkmalschutz.de/denkmal/wasserturm-bahnbetriebswerk-schoeneweide.html
+
+A = BWW(Wasserturm) = 157 -> 4
+B = 30 -> 3
+C = BWW(Johannisthal) = 131 -> 5
+D = BWW(Gleislinse) = 111 -> 3
+E = BWW(Gustav-Hertz-Platz) = 242 -> 8
+F = 1998 -> 9
+
+N 52 26.437 E 13 31.777

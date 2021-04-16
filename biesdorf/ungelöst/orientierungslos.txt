@@ -32,7 +32,7 @@ unten:
 
 https://de.wikipedia.org/wiki/Berliner_Verkehrsbetriebe
 
-22,104,61							Minzgrün		RAL 6029
+22,104,61							Minzgrün		RAL 6029					(#16683d)
 126,83,48		Kennfarbe U5/U55 	Rehbraun 		RAL 8007 	55,80,90,10 	126, 83, 48 (#7E5330) 
 218,66,30		Kennfarbe U2 		Blutorange 		RAL 2002 	0,85,100,0 		218, 66, 30 (#DA421E)
 140,109,171		Kennfarbe U6 		Blaulila 		RAL 4005 	55,65,0,5 		140, 109, 171 (#8C6DAB)
@@ -54,6 +54,12 @@ unten:
 243,121,29		Kennfarbe U9 		Pastellorange 	RAL 2003 	0,55,100,0 		243, 121, 29 (#F3791D) 
 82,141,186		Kennfarbe U7 		Lichtblau 		RAL 5012 	80,20,0,0 		82, 141, 186 (#528DBA)
 125,173,76		Kennfarbe U1 		Gelbgrün 		RAL 6018 	70,0,100,10 	125, 173, 76 (#7DAD4C) 
+
+
+S1: 22,104,61
+S2: 4,121,57
+
+N 52 30.455 E 013 33.753
 
 	 ?.5.2.6.1.6.8.7.1.6
 N 52 4.1.5.3.4.8.7.1.3.7 13 E

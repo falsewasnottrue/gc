@@ -1,4 +1,5 @@
 https://www.geocaching.com/geocache/GC6KNPZ_ratsel-des-todes
+N 52° 27.500 E 013° 37.447
 
 Anna Arndt
 Barbara Burian
@@ -15,27 +16,48 @@ Margot Mors
 
 A: west. Reichshofer Str: Dreipfuhlpark
    A = 3
-B: Vornamen
+
+B: Vornamen: Frank, Ulrich, Erika, Natalie, Fred
    B = 5
+
 D: 16.2 - 8.3. = 21 Tage
    22 * 4 = 88
    D = 8
 
 E: ???
 
-F: 26.5.2016 Donnerstag
-   F = 2 oder F = 4
+F: 26.5.2016 Donnerstag Fronleichnam
+   F = 2 oder F = 4 oder F = 6
 
 G: Sarg, BWW = 45
    G = 5
+
 H: https://de.wikipedia.org/wiki/Preu%C3%9Fischer_optischer_Telegraf
    H = 7
 
 K: Uhrzeit halb 12
-   K = 6
+   K = 6 ???
 
-L: fehlende Buchstaben
+L: fehlende Buchstaben e i n z
    L = 1
+
 M: https://de.wikipedia.org/wiki/Morsezeichen
    M = 9
 
+A B D E F G H K L M
+3 5 8 ? ? 5 7 ? 1 9
+
+358_657619 nicht
+
+---
+
+Erika Elster
+
+Klaus Anke Schwab, Lichtenberg
+Daniela Uwe König, Pankow
+Herbert Claudia Kiesel, Treptow
+Tom Gabi Müller, Hohenschönhausen
+
+E R I K A E L S T E R S K K N L P T H 
+
+E I   E L S K K N L P H 
