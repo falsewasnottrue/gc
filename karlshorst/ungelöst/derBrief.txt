@@ -1,0 +1,46 @@
+https://www.geocaching.com/geocache/GC99MB6_der-brief
+N 52° 29.114 E 013° 31.590
+
+N 52 29.ABC E 013 30.DEF
+
+---
+
+NULL
+EINS
+ZWEI
+DREI
+VIER
+FÜNF
+SECHS
+SIEBEN
+
+#
+5.7. E
+7.8. I 
+3.8. N 
+6.4. S
+
+A =
+	
+
+B = Ü F N F = Fünf = 5
+
+C = # = 1
+
+D = U N N E = Neun = 9
+
+E = A C H T = 8
+
+F = * = 4
+
+---
+
+        ABC          DEF
+N 52 29.A51 E 013 30.984
+
+051 nicht
+N 52 29.151 E 013 30.984 nicht
+251 nicht
+N 52 29.351 E 013 30.984 nicht
+451 nicht
+551 nicht
