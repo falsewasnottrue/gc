@@ -13,19 +13,19 @@ VIER
 FÜNF
 SECHS
 SIEBEN
+ACHT
+NEUN
 
-#
+A = N U E N = Neun = 9
+
+B = Ü F N F = Fünf = 5
+
+C = 1
+
 5.7. E
 7.8. I 
 3.8. N 
 6.4. S
-
-A =
-	
-
-B = Ü F N F = Fünf = 5
-
-C = # = 1
 
 D = U N N E = Neun = 9
 
@@ -36,7 +36,7 @@ F = * = 4
 ---
 
         ABC          DEF
-N 52 29.A51 E 013 30.984
+N 52 29.951 E 013 30.984
 
 051 nicht
 N 52 29.151 E 013 30.984 nicht

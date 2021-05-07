@@ -1,0 +1,47 @@
+https://www.geocaching.com/geocache/GC15KX8_der-kleine-vampir-1
+N 52° 28.900 E 013° 19.570
+
+a) An welchem Wochentag lernen sich Anton und der kleine Vampir kennen?
+b) Wie heißt der kleine Vampir mit Vor- und Nachnamen?
+c) Wie viele Särge stehen in der Gruft?
+d) Wer kommt für den (statt dem) kleinen Vampir zum Kaffee bei Antons Eltern?
+e) Welche Krankheit hat den kleinen Vampir erwischt?
+f) Welches Buch leiht sich der kleine Vampir bei seinem ersten Besuch bei Anton aus?
+g) Wie viele Geschwister hat der kleine Vampir?
+h) Wer überrascht Anton und die Vampirkinder in der Gruft?
+i) Von wo versucht Anton seinen ersten Flugversuch?
+j) Wie viele Vornamen hat der Ur-Vampir der Familie des kleinen Vampirs?
+k) Was für Grabsteine suchen Udo und Anton auf dem Friedhof? (ohne der, die, im, am, in, u.s.w.)
+
+Wenn nichts anderes da steht, immer folgende Regel anwenden: a=1, b=2, c=3, d=4, u.s.w.!
+
+l= letzter Buchstabe von h - Anzahl der Buchstaben von d
+m= zweiter Buchstabe von e - Anzahl der Buchstaben von d
+n= j - g - 1
+o= a in Zahl (Mo=1, Di=2, u.s.w.) - j + letzter Buchstabe von f + 1
+p= (Anzahl der Buchstaben von e - c) * g - Anzahl der Buchstaben von d - 5
+r= erster Buchstabe von b : c - dritter Buchstabe von f
+s= erster Buchstabe von b - Anzahl der Buchstaben von k - 2
+t= j
+u= Anzahl der Buchstaben von i : 3 - Anzahl der Buchstaben von d + 3
+v= (c - Anzahl der Buchstaben von k) * (Anzahl der Buchstaben von f - j) - 1
+
+
+N 52° lm.nop
+E 013° rs.tuv
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/Der_kleine_Vampir
+
+a) Samstag
+b) Rüdiger von Schlotterstein
+c) 
+d) Udo Holzapfel
+e) 
+f) Dracula
+g) 2
+h) Tante Dorothee, Dorothee von Schlotterstein-Seifenschwein
+i) 
+j) 
+k) 

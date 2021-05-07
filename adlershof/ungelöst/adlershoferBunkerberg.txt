@@ -44,5 +44,23 @@ HIKL = 1983
 Wie lang abfallend wurde die Überdeckung Richtung Wald gezogen? QS = M
 M = QS(80) = 8
 
-N52 26.787 E013 33.161
+S01: N52 26.787 E013 33.161
 BDBK = 6968
+
+---
+
+S02:
+
+RPDREINULLFÜNFMNEUNNEUN
+
+305 Grad 99 M
+
+99 Grad: 	N52 26.771 E013 33.355 Ort
+279 Grad: 
+---
+
+S03: N52 26.795 E013 33.075
+
+---
+
+S04
