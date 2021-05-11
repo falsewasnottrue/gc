@@ -1,0 +1,27 @@
+https://www.geocaching.com/geocache/GC9AHY3_royal-in-karlshorst
+N 52° 28.672 E 013° 31.507
+
+--- Lösung
+
+https://www.flickr.com/photos/temp/8693089027
+
+Nord
+Xxxxxx xxx Xxxxxxxx
+Koenig der Steepler -> 188
+
+3.Zeile: 1918 gest 1.5.1924
+Summe 19+6+10+6 = 41
+
+Ost:
+Besitzer	104
+Trainer		85
+Reiter		75
+Todesjahr	24
+
+Summe		288
+
+---
+
+52 28.672-188-41 013 31.507+288
+
+52 28.443 013 31.795
