@@ -1,0 +1,128 @@
+https://www.geocaching.com/geocache/GC6JPP9_digitales-quiz-uber-wedding
+N 52° 32.807 E 013° 21.509
+
+a. Station: Den Müllern verdankt die Straße ihren Namen. Wie viel Müller waren beschäftigt und wann lebten sie?
+Anzahl der Müller = a.
+Jahreszahl (4 Ziffer) = b = QS.
+
+b. Station: Was lieben die Weddinger?
+Wort = BSW = c.
+
+c. Station: Leider gibt es in der Müllerstraße etliche schlechte Backdiscounter - ein Brötchen kostet zwischen xx und xx Cent.
+Subtrahiere die 2. Ziffer mit der 1. Ziffer. Das Ergebnis sei d.
+
+d. Station: Im Stamm- Lokal „Zum Korken“ machen die Weddinger gerne ……?
+2 Wörter = BSW = e.
+
+e. Station: Wann wurde der 1. Tonfilm beim alten Kino „Apollo Kino“ gezeigt?
+Jahreszahl (4 Ziffer) = f = QS.
+
+f. Station: Ein Geschäftsname beinhaltet auch den Name eines Planeten. Es leitet sich von unserem Sonnensystem ab. Wie heißt der Planet?
+Wort = BSW = g.
+
+g. Station: Ohne Schuhe und Strümpfe - So heißt eine Straße an der Müllerstraße auch. Bitte mit Endung "straße".
+Wort = BSW = h.
+
+h. Station: Es gibt eine einzige Partei- Zentrale in der Müllerstraße, mit 3 Buchstaben.
+Wort = BSW = i.
+
+i. Station: Wie viel Geschäfte stehen leer?
+Zahl = j.
+
+j. Station: Wie oft könnt ihr das Wort „Müllerhalle“ mit orangener Schriftfarbe zählen?
+Zahl = k.
+
+k. Station: Weddinger lieben Eis. Es gibt besondere Sorten, auf die man nicht verzichten kann. Welche sind diese?
+Wort = BSW = l = QS.
+
+l. Station: Ein Buchgeschäft mit schönem Titel heißt „Bücher fürs ……“.
+Wort = BSW = m.
+
+m. Station: Wie viel afrikanische Straße grenzen an die Müllerstraße? (ohne Sansibarstraße)
+Zahl = n.
+
+n. Station: Wie viel Straßen auf rechter und linker Seite liegen an der Müllerstraße?
+Zahl = o.
+
+o. Station: Wusstet ihr schon, dass das schmalste Haus Berlins in Wedding steht? Welche Hausnummer hat es?
+Zahl = p.
+
+p. Station: Eine Straße erinnert stark an die Zeiten Jesus. Bitte das Anfangswort ohne Endwort ergänzen.
+Anfangswort = BSW = q.
+
+q. Station: Wie viel Apotheken gibt es in der Müllerstraße?
+Zahl = r.
+
+r. Station: Wie oft könnt ihr „Paul- Gerhardt- Stift“ auf dem Blatt zählen?
+Zahl = s.
+
+s. Station: xxx ist ein halbautonomer Teilstaat des afrikanischen Landes Tansania - xxx findet ihr bei der Benennung der Straße. Wie heißt der Teilstaat?
+Wort = BSW = t.
+
+t. Station: Wie viel Tankstellen gibt es in der Müllerstraße?
+Zahl = u.
+
+u. Station: Welche Halle ist die einzige Markthalle in Wedding? (ü = ue)
+Wort = BSW = v.
+
+FINAL:
+N52° ( h x o ) + ( m x g ) + ( q x l ) + ( h x g ) + ( f x j x j ) + ( k x k x t) + ( q x b + t)
+E013° (( a x v ) + ( b x u ) + ( c x t ) + ( d x d x s ) + ( e x r x r )) - ( p + e ) - i + ( n x u + n )
+
+--- Lösung
+
+a = Anzahl der Müller = 25
+b = QS(Jahreszahl (4 Ziffer)) = QS(1827) = 18
+c = BSW(Katzen) = 77
+d = xx-xx = 20-8 = 12
+e = BSW(Bingo-Turnier) = 152
+f = QS(1922) = 14
+g = BSW(Jupiter) = 99 // Jupiter-Apotheke
+h = BSW(Barfusstraße) = 160
+i = BSW(SPD) = 39
+j = 13
+k = 7
+l = BSW(Schokolade Vanille Haselnuss) = 286
+m = BSW(Leben) = 38
+n = 4 (evtl. 3)
+o = 21
+p = 156
+q = BSW(Nazareth) = 93
+r = 7 ???
+s = 18
+t = BWS(Sansibar) = 83
+u = 1
+v = BSW(Muellerhalle) = 124
+
+Prüfung
+c = BSW(Katzen) = 77
+d = xx-xx = 20-8 = 12
+f = QS(1922) = 14
+g = BSW(Jupiter) = 99 // Jupiter-Apotheke
+h = BSW(Barfusstraße) = 160
+i = BSW(SPD) = 39
+j = 13
+k = 7
+
+m = BSW(Leben) = 38
+n = 4 (evtl. 3)
+o = 21
+p = 156
+r = 7 ???
+s = 18
+
+u = 1
+v = BSW(Muellerhalle) = 124
+
+
+N52 ( h x o ) + ( m x g ) 	+ ( q x l ) + ( h x g ) + ( f x j x j ) + ( k x k x t)  + ( q x b + t)
+	(160*21)  + (38*99) 	+ (93*286)  + (160*99) 	+ (14*13*13) 	+ (7*7*83) 		+ (93*18+83)
+	3360 	  + 3762 		+ 26598 	+ 15840 	+ 2366 			+ 4067 			+ 1757
+	57750
+
+E013 (( a x v ) + ( b x u ) + ( c x t ) + ( d x d x s ) + ( e x r x r )) - ( p + e )  - i  + ( n x u + n )
+	 (( 25*124) + ( 18*1  ) + ( 77*83 ) + (12 * 12*18 ) + (152*7*7	  )) - ( 156+152) - 39 + ( 4*1+4 ) 
+	 (3550 		+ 18		+ 6391		+ 2592			+ 7448	       ) - 308 		  - 39 + 8
+	 19999
+
+52 57.750 13 19.999
