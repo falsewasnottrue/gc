@@ -1,0 +1,16 @@
+https://www.geocaching.com/geocache/GC99M3F_der-warter-von-rummelsburg
+N 52° 30.003 E 013° 30.040
+
+Edmund: 5.4.1948
+Martha: 6.9.1953
+
+Hier findet ihr den Finale:
+Nord-Koordinate des Wegpunkts + Quersumme A + 32
+Ost-Koordinate des Wegpunkts - Quersumme B - 2
+
+A = QS(5.4.1948) = 31
+B = QS(6.9.1953) = 33
+
+N 52 30.003+31+32 E 013 30.040 - 33 - 2
+
+N 52 30.066 E 013 30.005

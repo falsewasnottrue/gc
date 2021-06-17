@@ -1,3 +1,17 @@
 https://www.geocaching.com/geocache/GC1XHAA_der-tetris-cache
 N 52° 28.950 E 013° 33.755
 
+---
+
+Spielfeld: 25 hoch, 14 breit
+
+7 Sorten: hellblau (hb), lila, dunkelblau (db), rot, orange, grün (gr), gelb (ge)
+
+hb: 8
+li: 7
+db: 5
+ro: 11
+or: 12
+gr: 12
+ge: 8
+

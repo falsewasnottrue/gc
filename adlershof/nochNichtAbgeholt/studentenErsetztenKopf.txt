@@ -1,0 +1,40 @@
+https://www.geocaching.com/geocache/GC6E2A3_studenten-ersetzten-kopf
+
+Die Lösung des Rätsels besteht aus 2 Wörtern. Das erste Wort sei ABCD, das zweite FGHIJ.
+Rechne mit dem Buchstabenwert (A=1, B=2, ... Z=26) für Norden:
+(A - (B / (C + C)) * C) * B * B * (D + C) - B³ +C + ((B -C -C) * (A + C + C))
+
+und für Osten
+F * H * J * 4 - F * F - (H + I) * G + (F + I + I)
+
+
+WHAT 3 WORDS
+
+A = 23
+B = 8
+C = 1
+D = 20
+
+F = 23
+G = 15
+H = 18 
+I = 4
+J = 19
+
+(A - (B / (C + C)) * C) * B * B * (D + C) - B³ +C + ((B -C -C) * (A + C + C))
+(23 - (8 / (1 + 1)) * 1) * 8 * 8 * (20 + 1) - 8³ + 1 + ((8 -1 -1) * (23 + 1 + 1))
+(23 - 4 * 1) * 64 * 21 - 512 + 1 + (6 * 25)
+19 * 64 * 21 - 512 + 1 + 150
+19 * 64 * 21 - 512 + 1 + 150
+
+25175
+
+F * H * J * 4 - F * F - (H + I) * G + (F + I + I)
+23 * 18 * 19 * 4 - 23 * 23 - (18 + 4) * 15 + (23 + 4 + 4)
+23 * 18 * 19 * 4 - 23 * 23 - 22 * 15 + 31
+23 * 18 * 19 * 4 - 23 * 23 - 22 * 15 + 31
+31464 - 529 - 330 + 31
+
+30636
+
+N 52 25.175 E 013 30.636
