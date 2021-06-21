@@ -95,16 +95,9 @@ u = 1
 v = BSW(Muellerhalle) = 124
 
 Prüfung
-c = BSW(Katzen) = 77
-d = xx-xx = 20-8 = 12
-f = QS(1922) = 14
-g = BSW(Jupiter) = 99 // Jupiter-Apotheke
 h = BSW(Barfusstraße) = 160
-i = BSW(SPD) = 39
 j = 13
 k = 7
-
-m = BSW(Leben) = 38
 n = 4 (evtl. 3)
 o = 21
 p = 156
