@@ -14,12 +14,15 @@ B: Warum heißt es eigentlich Baumschule?
    aufschulen
    B = 110
 
-M: Noch mal zurück zum Wasser. Der Baum hat in den Blättern Vorrichtungen, die es ihm ermöglichen einzustellen, wie sehr er schwitzen will.
+
+M: Noch mal zurück zum Wasser. Der Baum hat in den Blättern Vorrichtungen, die es ihm ermöglichen einzustellen,
+   wie sehr er schwitzen will.
    Der Buchstabenwortwert des Fachbegriffs (griechische Herkunft) einer einzelnen dieser Vorrichtungen ist M.
    https://de.wikipedia.org/wiki/Stoma_(Botanik) -> BW = 68
    M = 68
    
-N: Auch ohne Baumuniversität spielt Architektur bei Bäumen eine Rolle. Wie ist der Buchstabenwortwert N des Architekturmodells von Buche und Ulm?
+N: Auch ohne Baumuniversität spielt Architektur bei Bäumen eine Rolle.
+   Wie ist der Buchstabenwortwert N des Architekturmodells von Buche und Ulm?
    https://www.astwerk.de/baumerkenntnisse/morphologie-einstieg/architekturmodelle/architekturmodelle-2
    -> Troll -> BW = 77
    N = 77

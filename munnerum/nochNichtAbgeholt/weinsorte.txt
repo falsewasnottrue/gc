@@ -1,0 +1,73 @@
+https://www.geocaching.com/geocache/GC7JHNT_weinsorte
+N 49° 29.300 E 008° 25.450
+
+Nord: N49° (A+B+C+D+E)*60-745
+
+Ost: E008° (F+G+H+I+J)*45+895
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/Pfalz_(Weinanbaugebiet)
+https://de.wikipedia.org/wiki/Liste_von_Rebsorten
+
+Nord:
+
+- Scheurebe				_ _ _ _ _ _ _ _ _
+						S C H E U R E B E
+						A = 86
+
+- Kerner, Kernling		_ _ _ _ _ _
+						K E R N E R
+						B = 71
+
+- Muskateller			_ _ _ _ _ _ _ _ _ _ _
+						M U S K A T E L L E R
+						C = 137
+
+- Sauvignon blanc		_ _ _ _ _ _ _ _ _  _ _ _ _ _
+						S A U V I G N O N  B L A N C
+						D = 154
+
+- Bacchus				_ _ _ _ _ _ _
+						B A C C H U S
+						E = 57
+
+Ost:
+
+- Domina				_ _ _ _ _ _
+						D O M I N A
+						F = 56
+
+- Dornfelder			_ _ _ _ _ _ _ _ _ _
+ 						D O R N F E L D E R
+ 						G = 101
+
+- Regent, Monarch		_ _ _ _ _ _
+						R E G E N T
+						H = 69
+
+- Blauer Portugieser	_ _ _ _ _ _   _ _ _ _ _ _ _ _ _ _ _ 
+                        B L A U E R   P O R T U G I E S E R
+                        I = 212
+
+- Dunkelfelder			_ _ _ _ _ _ _ _ _ _ _ _
+						D U N K E L F E L D E R
+						J = 117
+
+A = 86
+B = 71
+C = 137
+D = 154 ?
+E = 57
+
+F = 56
+G = 101
+H = 69
+I = 212
+J = 117
+
+Nord
+(A+B+C+D+E)*60-745 = 29555
+(F+G+H+I+J)*45+895 = 25870
+
+49 29.555 008 25.870

@@ -1,4 +1,5 @@
 https://www.geocaching.com/geocache/GC784AT_euler-nach-athen-getragen
+N 49° 27.104 E 008° 22.250
 
 Von Osten sind es 860099 Euler, von Norden 303468
 
@@ -12,4 +13,7 @@ Norden
        = 2 * 2 * 3 * 11 * 11 * 209
 
 Osten
-860099
+860099 = 97 * 8867
+
+N: 303468 * e = 824911,549918809539484
+E: 860099 * e = 2337991,482375796347888
