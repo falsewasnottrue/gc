@@ -1,0 +1,26 @@
+https://www.geocaching.com/geocache/GC8VDC9_verpeilt
+N 49° 27.987 E 008° 25.143
+
+--- Lösung
+
+http://kunstinlu.de/mundenheim.html
+
+Marie Luise Hatzfeld-Platz
+
+49.466458, 8.419055
+N 49° 27.987 E 008° 25.143
+
+49.466605, 8.419197
+N 49° 27.996 E 008° 25.152
+---
+
+Peilung
+Winkel: 32,8 - A
+Meter: 283,25
+
+Thiele, Hans Günter
+
+A = BWW(T) = 20
+-> N49 28.145 E008 25.204
+
+Korrigiert: N49° 28.141 E008° 25.205

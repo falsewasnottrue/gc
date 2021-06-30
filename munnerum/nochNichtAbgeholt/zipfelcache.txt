@@ -1,0 +1,21 @@
+https://www.geocaching.com/geocache/GC81C54_zipfelcache
+N 49° 29.070 E 008° 24.828
+
+--- Lösung
+
+https://de.wikipedia.org/wiki/Zipfelbund
+
+Nord 	55° 1′ 7″ N, 8° 25′ 56″ O
+Süd		47° 24′ 35″ N, 10° 16′ 45″ O
+Ost		51° 9′ 10″ N, 14° 59′ 14″ O
+West	51° 1′ 0″ N, 5° 55′ 0″ O
+
+Mittelpunkt: 51 09.210 009 26.860
+
+Korrektur: zieht N1°40.000 und E1°02.000 
+
+Ergebnis: 49 29.210 008 24.860
+
+Obwohl eine Abweichung von ±30 Metern erlaubt ist, sind Deine Koordinaten absolut korrekt!
+
+mit z.B. Oberstdorf ( 47°24´35´´N, 10°16´45´´E, GeoHack) in die GCC App eingegeben und dann gleich ins richtige Format umgerechnet solltest Du bei N51 09 210 und E9 26 860 rauskommen.
