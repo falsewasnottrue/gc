@@ -1,0 +1,78 @@
+https://www.geocaching.com/geocache/GC99MB6_der-brief
+N 52° 29.114 E 013° 31.590
+
+N 52 29.ABC E 013 30.DEF
+
+---
+
+NULL
+EINS
+ZWEI
+DREI
+VIER
+FÜNF
+SECHS
+SIEBEN
+ACHT
+NEUN
+
+A = N U E N = Neun = 9
+
+B = Ü F N F = Fünf = 5
+
+C = 1
+
+5.7. E
+7.8. I 
+3.8. N 
+6.4. S
+
+D = U N N E = Neun = 9
+
+E = A C H T = 8
+
+F = * = 4
+
+
+A = N U E N = Neun = 9
+
+B = Ü F N F = Fünf = 5
+
+C = 1
+
+5.7. E
+7.8. I 
+3.8. N 
+6.4. S
+
+D = U N N E = Neun = 9
+
+E = A C H T = 8
+
+F = * = 4
+
+A = 9 (Fehler)
+B = 5 (weiß auf schwarz)
+C = 1 (Buchstaben in Zeile/Spalte)
+D = 9 (Schreibschrift)
+E = 8 (rückwärts)
+F = 4 (Buchstaben verbinden)
+---
+
+        ABC          DEF
+N 52 29.951 E 013 30.984 nicht
+
+051 nicht
+N 52 29.151 E 013 30.984 nicht
+251 nicht
+N 52 29.351 E 013 30.984 nicht
+451 nicht
+551 nicht
+
+N52 29.950 E013 30.984 nicht
+
+
+---
+N 52°29.159  E 013°30.984
+
+Herzlichen Glückwunsch, du hast das Rätsel zum Cache "Der Brief" gelöst. Nun auf zur Dose! Pass' bitte auf, dass dich keine plötzlich auftauchenden Spaziergänger erwischen.?
